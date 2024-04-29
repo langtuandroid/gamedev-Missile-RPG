@@ -1,10 +1,10 @@
 using UnityEngine;
-
+using UnityEngine.UI;
 public class CFX_Demo_GTToggle : MonoBehaviour
 {
-	public Texture Normal;
+	public Sprite Normal;
 
-	public Texture Hover;
+	public Sprite Hover;
 
 	public Color NormalColor = new Color32(128, 128, 128, 128);
 
@@ -20,12 +20,12 @@ public class CFX_Demo_GTToggle : MonoBehaviour
 
 	private bool Over;
 
-	 private GUIText Label;
+	 private Text Label;
 
 	private void Awake()
 	{
-		 CollisionRect = GetComponent<GUITexture>().GetScreenRect(Camera.main);
-	 Label = GetComponentInChildren<GUIText>();
+		CollisionRect = Camera.main.rect;
+	 Label = GetComponentInChildren<Text>();
 		UpdateTexture();
 	}
 
@@ -42,7 +42,7 @@ public class CFX_Demo_GTToggle : MonoBehaviour
 		else
 		{
 			Over = false;
-		 GetComponent<GUITexture>().color = NormalColor;
+		 GetComponent<Image>().color = NormalColor;
 		}
 		UpdateTexture();
 	}
@@ -58,13 +58,13 @@ public class CFX_Demo_GTToggle : MonoBehaviour
 		Color color = ((!State) ? DisabledColor : NormalColor);
 		if (Over)
 		{
-			 GetComponent<GUITexture>().texture = Hover;
+			 GetComponent<Image>().sprite = Hover;
 		}
 		else
 		{
-		 GetComponent<GUITexture>().texture = Normal;
+		 GetComponent<Image>().sprite = Normal;
 		}
-		GetComponent<GUITexture>().color = color;
+		GetComponent<Image>().color = color;
 		if (Label != null)
 		{
 			Label.color = color * 1.75f;
