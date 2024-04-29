@@ -1,0 +1,1298 @@
+[
+    {
+        "archtype": 1,
+        "lv": 0,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 1,
+        "lv": 1,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 1,
+        "lv": 2,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 1,
+        "lv": 3,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 25000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 1,
+        "lv": 4,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 50000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 1,
+        "lv": 5,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 100000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 1,
+        "lv": 6,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 200000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 1,
+        "lv": 7,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 500000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 1,
+        "lv": 8,
+        "word": "누적 탭",
+        "goaltype": "ALL_TAP",
+        "targetnumber": 1000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 2,
+        "lv": 0,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "5000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 2,
+        "lv": 1,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "100000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 2,
+        "lv": 2,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "10000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 2,
+        "lv": 3,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "10000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 2,
+        "lv": 4,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "1000000000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 2,
+        "lv": 5,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "1000000000000000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 2,
+        "lv": 6,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "1000000000000000000000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 2,
+        "lv": 7,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "1000000000000000000000000000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 2,
+        "lv": 8,
+        "word": "누적 미네랄",
+        "goaltype": "ALL_MINERAL",
+        "targetnumber": "1000000000000000000000000000000000000000",
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 3,
+        "lv": 0,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 3,
+        "lv": 1,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 3,
+        "lv": 2,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 3,
+        "lv": 3,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 1250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 3,
+        "lv": 4,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 3,
+        "lv": 5,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 3,
+        "lv": 6,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 100000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 3,
+        "lv": 7,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 1000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 3,
+        "lv": 8,
+        "word": "누적 가스",
+        "goaltype": "ALL_GAS",
+        "targetnumber": 10000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 4,
+        "lv": 0,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 4,
+        "lv": 1,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 4,
+        "lv": 2,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 4,
+        "lv": 3,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 2500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 4,
+        "lv": 4,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 4,
+        "lv": 5,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 25000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 4,
+        "lv": 6,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 50000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 4,
+        "lv": 7,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 100000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 4,
+        "lv": 8,
+        "word": "누적 지옥석",
+        "goaltype": "ALL_P_STONE",
+        "targetnumber": 250000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 5,
+        "lv": 0,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 5,
+        "lv": 1,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 5,
+        "lv": 2,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 5,
+        "lv": 3,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 5,
+        "lv": 4,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 200,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 5,
+        "lv": 5,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 5,
+        "lv": 6,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 5,
+        "lv": 7,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 1500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 5,
+        "lv": 8,
+        "word": "유물 개수",
+        "goaltype": "ARTIFACT_COUNT",
+        "targetnumber": 2500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 6,
+        "lv": 0,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 6,
+        "lv": 1,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 6,
+        "lv": 2,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 6,
+        "lv": 3,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 2500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 6,
+        "lv": 4,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 6,
+        "lv": 5,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 6,
+        "lv": 6,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 25000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 6,
+        "lv": 7,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 50000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 6,
+        "lv": 8,
+        "word": "최대이동거리",
+        "goaltype": "BEST_LV",
+        "targetnumber": 100000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 7,
+        "lv": 0,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 300,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 7,
+        "lv": 1,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 600,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 7,
+        "lv": 2,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 1200,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 7,
+        "lv": 3,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 1800,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 7,
+        "lv": 4,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 3600,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 7,
+        "lv": 5,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 14400,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 7,
+        "lv": 6,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 43200,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 7,
+        "lv": 7,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 86400,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 7,
+        "lv": 8,
+        "word": "누적 플레이 시간",
+        "goaltype": "ALL_PLAYTIME",
+        "targetnumber": 345600,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 8,
+        "lv": 0,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 8,
+        "lv": 1,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 8,
+        "lv": 2,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 15,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 8,
+        "lv": 3,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 20,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 8,
+        "lv": 4,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 8,
+        "lv": 5,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 30,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 8,
+        "lv": 6,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 40,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 8,
+        "lv": 7,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 8,
+        "lv": 8,
+        "word": "미사일언락",
+        "goaltype": "ALL_MISSILE_COUNT",
+        "targetnumber": 60,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 9,
+        "lv": 0,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 9,
+        "lv": 1,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 9,
+        "lv": 2,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 9,
+        "lv": 3,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 50000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 9,
+        "lv": 4,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 100000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 9,
+        "lv": 5,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 500000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 9,
+        "lv": 6,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 1000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 9,
+        "lv": 7,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 5000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 9,
+        "lv": 8,
+        "word": "적 처치",
+        "goaltype": "ALL_KILL",
+        "targetnumber": 10000000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 10,
+        "lv": 0,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 10,
+        "lv": 1,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 10,
+        "lv": 2,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 10,
+        "lv": 3,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 10,
+        "lv": 4,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 10,
+        "lv": 5,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 2500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 10,
+        "lv": 6,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 10,
+        "lv": 7,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 10,
+        "lv": 8,
+        "word": "보스처치",
+        "goaltype": "ALL_BOSSKILL",
+        "targetnumber": 25000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 11,
+        "lv": 0,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 1,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 11,
+        "lv": 1,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 11,
+        "lv": 2,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 11,
+        "lv": 3,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 11,
+        "lv": 4,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 11,
+        "lv": 5,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 11,
+        "lv": 6,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 11,
+        "lv": 7,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 11,
+        "lv": 8,
+        "word": "누적 던전 돌파 횟수",
+        "goaltype": "ALL_DUNGEON_CLEAR",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 12,
+        "lv": 0,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 12,
+        "lv": 1,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 12,
+        "lv": 2,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 12,
+        "lv": 3,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 12,
+        "lv": 4,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 12,
+        "lv": 5,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 12,
+        "lv": 6,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 2000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 12,
+        "lv": 7,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 12,
+        "lv": 8,
+        "word": "누적 스킬 사용 횟수",
+        "goaltype": "ALL_SKILL_USE",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 13,
+        "lv": 0,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 13,
+        "lv": 1,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 13,
+        "lv": 2,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 13,
+        "lv": 3,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 250,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 13,
+        "lv": 4,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 13,
+        "lv": 5,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 13,
+        "lv": 6,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 2000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 13,
+        "lv": 7,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 5000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 13,
+        "lv": 8,
+        "word": "누적 박스 요정 횟수",
+        "goaltype": "ALL_FAIRY",
+        "targetnumber": 10000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 14,
+        "lv": 0,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 1,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 14,
+        "lv": 1,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 14,
+        "lv": 2,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 14,
+        "lv": 3,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 14,
+        "lv": 4,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 14,
+        "lv": 5,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 14,
+        "lv": 6,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 200,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 14,
+        "lv": 7,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 14,
+        "lv": 8,
+        "word": "누적 드랍포트 사용 횟수",
+        "goaltype": "ALL_DROPPORT",
+        "targetnumber": 1000,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 15,
+        "lv": 0,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 1,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 15,
+        "lv": 1,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 15,
+        "lv": 2,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 25,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 15,
+        "lv": 3,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 50,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 15,
+        "lv": 4,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 75,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 15,
+        "lv": 5,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 15,
+        "lv": 6,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 200,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 15,
+        "lv": 7,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 300,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 15,
+        "lv": 8,
+        "word": "유닛 진급 횟수",
+        "goaltype": "ALL_PROMOTE",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    },
+    {
+        "archtype": 16,
+        "lv": 0,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 1,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 16,
+        "lv": 1,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 2,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 20
+    },
+    {
+        "archtype": 16,
+        "lv": 2,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 3,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 30
+    },
+    {
+        "archtype": 16,
+        "lv": 3,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 4,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 40
+    },
+    {
+        "archtype": 16,
+        "lv": 4,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 50
+    },
+    {
+        "archtype": 16,
+        "lv": 5,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 6,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 60
+    },
+    {
+        "archtype": 16,
+        "lv": 6,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 7,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 70
+    },
+    {
+        "archtype": 16,
+        "lv": 7,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 8,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 80
+    },
+    {
+        "archtype": 16,
+        "lv": 8,
+        "word": "숨은 우라늄 찾기",
+        "goaltype": "ALL_HIDDEN",
+        "targetnumber": 10,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 100
+    }
+]

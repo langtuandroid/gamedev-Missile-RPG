@@ -1,0 +1,2389 @@
+fileFormatVersion: 2
+guid: 91a5515ffc489db45a977418fa6248ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[Missile]_0'
+  - first:
+      213: 21300002
+    second: '[Missile]_1'
+  - first:
+      213: 21300004
+    second: '[Missile]_2'
+  - first:
+      213: 21300006
+    second: '[Missile]_3'
+  - first:
+      213: 21300008
+    second: '[Missile]_4'
+  - first:
+      213: 21300010
+    second: '[Missile]_5'
+  - first:
+      213: 21300012
+    second: '[Missile]_6'
+  - first:
+      213: 21300014
+    second: '[Missile]_7'
+  - first:
+      213: 21300016
+    second: '[Missile]_8'
+  - first:
+      213: 21300018
+    second: '[Missile]_9'
+  - first:
+      213: 21300020
+    second: '[Missile]_10'
+  - first:
+      213: 21300022
+    second: '[Missile]_11'
+  - first:
+      213: 21300024
+    second: '[Missile]_12'
+  - first:
+      213: 21300026
+    second: '[Missile]_13'
+  - first:
+      213: 21300028
+    second: '[Missile]_14'
+  - first:
+      213: 21300030
+    second: '[Missile]_15'
+  - first:
+      213: 21300032
+    second: '[Missile]_16'
+  - first:
+      213: 21300034
+    second: '[Missile]_17'
+  - first:
+      213: 21300036
+    second: '[Missile]_18'
+  - first:
+      213: 21300038
+    second: '[Missile]_19'
+  - first:
+      213: 21300040
+    second: '[Missile]_20'
+  - first:
+      213: 21300042
+    second: '[Missile]_21'
+  - first:
+      213: 21300044
+    second: '[Missile]_22'
+  - first:
+      213: 21300046
+    second: '[Missile]_23'
+  - first:
+      213: 21300048
+    second: '[Missile]_24'
+  - first:
+      213: 21300050
+    second: '[Missile]_25'
+  - first:
+      213: 21300052
+    second: '[Missile]_26'
+  - first:
+      213: 21300054
+    second: '[Missile]_27'
+  - first:
+      213: 21300056
+    second: '[Missile]_28'
+  - first:
+      213: 21300058
+    second: '[Missile]_29'
+  - first:
+      213: 21300060
+    second: '[Missile]_30'
+  - first:
+      213: 21300062
+    second: '[Missile]_31'
+  - first:
+      213: 21300064
+    second: '[Missile]_32'
+  - first:
+      213: 21300066
+    second: '[Missile]_33'
+  - first:
+      213: 21300068
+    second: '[Missile]_34'
+  - first:
+      213: 21300070
+    second: '[Missile]_35'
+  - first:
+      213: 21300072
+    second: '[Missile]_36'
+  - first:
+      213: 21300074
+    second: '[Missile]_37'
+  - first:
+      213: 21300076
+    second: '[Missile]_38'
+  - first:
+      213: 21300078
+    second: '[Missile]_39'
+  - first:
+      213: 21300080
+    second: '[Missile]_40'
+  - first:
+      213: 21300082
+    second: '[Missile]_41'
+  - first:
+      213: 21300084
+    second: '[Missile]_42'
+  - first:
+      213: 21300086
+    second: '[Missile]_43'
+  - first:
+      213: 21300088
+    second: '[Missile]_44'
+  - first:
+      213: 21300090
+    second: '[Missile]_45'
+  - first:
+      213: 21300092
+    second: '[Missile]_46'
+  - first:
+      213: 21300094
+    second: '[Missile]_47'
+  - first:
+      213: 21300096
+    second: '[Missile]_48'
+  - first:
+      213: 21300098
+    second: '[Missile]_49'
+  - first:
+      213: 21300100
+    second: '[Missile]_50'
+  - first:
+      213: 21300102
+    second: '[Missile]_51'
+  - first:
+      213: 21300104
+    second: '[Missile]_52'
+  - first:
+      213: 21300106
+    second: '[Missile]_53'
+  - first:
+      213: 21300108
+    second: '[Missile]_54'
+  - first:
+      213: 21300110
+    second: '[Missile]_55'
+  - first:
+      213: 21300112
+    second: '[Missile]_56'
+  - first:
+      213: 21300114
+    second: '[Missile]_57'
+  - first:
+      213: 21300116
+    second: '[Missile]_58'
+  - first:
+      213: 21300118
+    second: '[Missile]_59'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Missile]_0'
+      rect:
+        serializedVersion: 2
+        x: 15.042908
+        y: 1354.0267
+        width: 184.88097
+        height: 51.93034
+      alignment: 9
+      pivot: {x: 0.11335451, y: 0.5001559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.51661, y: -25.991903}
+        - {x: -92.48339, y: -25.991903}
+        - {x: -92.48339, y: 23.008097}
+        - {x: -91.48339, y: 26.008097}
+        - {x: 59.51661, y: 26.008097}
+        - {x: 87.51661, y: 22.008097}
+        - {x: 92.51661, y: 15.008098}
+        - {x: 92.51661, y: -18.991903}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_1'
+      rect:
+        serializedVersion: 2
+        x: 382.02676
+        y: 1349.043
+        width: 238.89714
+        height: 61.930344
+      alignment: 9
+      pivot: {x: 0.058490597, y: 0.49986854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.524666, y: -31.00814}
+        - {x: -119.475334, y: -31.00814}
+        - {x: -119.475334, y: 30.99186}
+        - {x: 12.524658, y: 30.99186}
+        - {x: 103.52465, y: 23.99186}
+        - {x: 119.524666, y: 7.9918594}
+        - {x: 119.524666, y: -25.00814}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_2'
+      rect:
+        serializedVersion: 2
+        x: 733.02673
+        y: 1351.0477
+        width: 341.89713
+        height: 62.925545
+      alignment: 9
+      pivot: {x: 0.06719351, y: 0.4601036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.024704, y: -31.510502}
+        - {x: -155.9753, y: -31.510502}
+        - {x: -170.9753, y: -19.510502}
+        - {x: -170.9753, y: 10.489498}
+        - {x: -160.9753, y: 31.489498}
+        - {x: -21.975296, y: 31.489498}
+        - {x: -18.975296, y: 31.489498}
+        - {x: 15.024704, y: 31.489498}
+        - {x: 150.0247, y: 19.489498}
+        - {x: 171.0247, y: 6.489498}
+        - {x: 171.0247, y: 0.48949814}
+        - {x: 164.0247, y: -9.510502}
+        - {x: 129.0247, y: -21.510502}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_3'
+      rect:
+        serializedVersion: 2
+        x: 1097.043
+        y: 1349.0267
+        width: 256.93033
+        height: 60.909355
+      alignment: 9
+      pivot: {x: 0.07378277, y: 0.5085141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.49188, y: -30.481411}
+        - {x: -128.50813, y: -30.481411}
+        - {x: -128.50813, y: 19.518589}
+        - {x: -115.50813, y: 30.51859}
+        - {x: -34.508133, y: 30.51859}
+        - {x: -25.508133, y: 28.518589}
+        - {x: -22.508133, y: 29.518589}
+        - {x: -10.508133, y: 30.51859}
+        - {x: 68.49187, y: 30.51859}
+        - {x: 128.49188, y: 10.518589}
+        - {x: 128.49188, y: -7.481411}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_4'
+      rect:
+        serializedVersion: 2
+        x: 1457.043
+        y: 1337.0267
+        width: 256.93033
+        height: 83.89713
+      alignment: 9
+      pivot: {x: 0.07378277, y: 0.51221377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.50813, y: -41.9753}
+        - {x: -128.50813, y: -21.9753}
+        - {x: -128.50813, y: 24.0247}
+        - {x: -113.50813, y: 42.0247}
+        - {x: 8.491859, y: 42.0247}
+        - {x: 75.49187, y: 34.0247}
+        - {x: 128.49188, y: 10.0247}
+        - {x: 128.49188, y: -15.9753}
+        - {x: 28.491867, y: -38.9753}
+        - {x: 8.491859, y: -41.9753}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_5'
+      rect:
+        serializedVersion: 2
+        x: 17.042908
+        y: 1229.0267
+        width: 186.93034
+        height: 60.909355
+      alignment: 9
+      pivot: {x: 0.1014126, y: 0.5085141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.50808, y: -30.481411}
+        - {x: -93.50808, y: -13.481411}
+        - {x: -93.50808, y: 15.51859}
+        - {x: -86.50808, y: 29.518589}
+        - {x: -66.50808, y: 30.51859}
+        - {x: 41.49192, y: 30.51859}
+        - {x: 93.49192, y: 10.518589}
+        - {x: 93.49192, y: -4.481411}
+        - {x: 90.49192, y: -8.481411}
+        - {x: 56.49192, y: -23.481411}
+        - {x: 5.4919205, y: -30.481411}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_6'
+      rect:
+        serializedVersion: 2
+        x: 380.02676
+        y: 1233.0267
+        width: 325.89713
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.049013123, y: 0.5099193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163.02467, y: -26.4753}
+        - {x: -162.97533, y: -26.4753}
+        - {x: -162.97533, y: 23.524702}
+        - {x: -106.97533, y: 26.524702}
+        - {x: 163.02467, y: 26.524702}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_7'
+      rect:
+        serializedVersion: 2
+        x: 735.0429
+        y: 1231.0088
+        width: 331.93033
+        height: 63.900444
+      alignment: 9
+      pivot: {x: 0.063137025, y: 0.45369342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165.99193, y: -31.959011}
+        - {x: -166.00807, y: -31.959011}
+        - {x: -166.00807, y: 32.04099}
+        - {x: 165.99193, y: 32.04099}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_8'
+      rect:
+        serializedVersion: 2
+        x: 1096.068
+        y: 1211.0267
+        width: 261.85587
+        height: 91.90862
+      alignment: 9
+      pivot: {x: 0.07611824, y: 0.53284734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.995926, y: -45.981045}
+        - {x: -130.99593, y: -37.981045}
+        - {x: -130.99593, y: 46.018955}
+        - {x: 59.004074, y: 46.018955}
+        - {x: 98.00406, y: 43.018955}
+        - {x: 131.00407, y: 12.018955}
+        - {x: 131.00407, y: -23.981047}
+        - {x: 46.004074, y: -45.981045}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_9'
+      rect:
+        serializedVersion: 2
+        x: 1455.0762
+        y: 1215.0513
+        width: 229.84775
+        height: 87.87257
+      alignment: 9
+      pivot: {x: 0.09103343, y: 0.51152176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.000046, y: -43.987553}
+        - {x: -115.000046, y: -38.987553}
+        - {x: -115.000046, y: 12.012447}
+        - {x: -54.000046, y: 44.012447}
+        - {x: 39.999954, y: 44.012447}
+        - {x: 48.999954, y: 25.012447}
+        - {x: 52.999954, y: 19.012447}
+        - {x: 54.999954, y: 18.012447}
+        - {x: 49.999954, y: 24.012447}
+        - {x: 48.999954, y: 29.012447}
+        - {x: 56.999954, y: 37.012447}
+        - {x: 78.999954, y: 39.012447}
+        - {x: 114.99994, y: 32.012447}
+        - {x: 114.99994, y: -20.987553}
+        - {x: 91.999954, y: -43.987553}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_10'
+      rect:
+        serializedVersion: 2
+        x: 13.042908
+        y: 1110.032
+        width: 206.89737
+        height: 60.916714
+      alignment: 9
+      pivot: {x: 0.110958844, y: 0.49195066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.49159, y: -30.490341}
+        - {x: -103.49159, y: -24.49034}
+        - {x: -103.49159, y: 21.50966}
+        - {x: -86.49159, y: 30.50966}
+        - {x: 81.50841, y: 30.50966}
+        - {x: 103.50841, y: 8.509661}
+        - {x: 103.50841, y: -14.490339}
+        - {x: 78.50841, y: -30.490341}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_11'
+      rect:
+        serializedVersion: 2
+        x: 371.00885
+        y: 1101.0597
+        width: 216.9644
+        height: 77.86415
+      alignment: 9
+      pivot: {x: 0.115185484, y: 0.50010574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.50895, y: -38.991768}
+        - {x: -108.49105, y: -38.991768}
+        - {x: -108.49105, y: 39.008232}
+        - {x: 36.508957, y: 39.008232}
+        - {x: 99.50895, y: 36.008232}
+        - {x: 108.50895, y: 16.008232}
+        - {x: 108.50895, y: -23.991768}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_12'
+      rect:
+        serializedVersion: 2
+        x: 742.05133
+        y: 1104.0762
+        width: 251.87257
+        height: 79.89713
+      alignment: 9
+      pivot: {x: 0.055379868, y: 0.449626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.01238, y: -28.024738}
+        - {x: 52.012383, y: -19.024738}
+        - {x: 52.012383, y: -4.0247383}
+        - {x: 59.012383, y: 16.975262}
+        - {x: 65.01238, y: 30.975262}
+        - {x: 126.0124, y: 30.975262}
+        - {x: 126.0124, y: -28.024738}
+      - - {x: -108.98762, y: -40.02474}
+        - {x: -125.98762, y: -33.02474}
+        - {x: -125.98762, y: 1.9752617}
+        - {x: -121.98762, y: 18.975262}
+        - {x: -70.98762, y: 18.975262}
+        - {x: -51.987614, y: -8.024738}
+        - {x: -51.987614, y: -33.02474}
+        - {x: -61.987617, y: -38.02474}
+        - {x: -69.98762, y: -40.02474}
+      - - {x: -36.987617, y: -19.024738}
+        - {x: -41.987617, y: -7.0247383}
+        - {x: -41.987617, y: 26.975262}
+        - {x: -35.987617, y: 39.97526}
+        - {x: 14.0123825, y: 39.97526}
+        - {x: 32.012383, y: 14.975262}
+        - {x: 32.012383, y: -9.024738}
+        - {x: 22.012383, y: -19.024738}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_13'
+      rect:
+        serializedVersion: 2
+        x: 1093.0762
+        y: 1087.0399
+        width: 148.88097
+        height: 106.884
+      alignment: 9
+      pivot: {x: 0.1539742, y: 0.4954912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.483345, y: -53.481915}
+        - {x: -73.516655, y: -53.481915}
+        - {x: -74.516655, y: -49.48192}
+        - {x: -74.516655, y: 40.51808}
+        - {x: -40.516655, y: 53.518085}
+        - {x: 58.483345, y: 53.518085}
+        - {x: 74.483345, y: 45.51808}
+        - {x: 74.483345, y: -43.48192}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_14'
+      rect:
+        serializedVersion: 2
+        x: 1455.0762
+        y: 1112.0762
+        width: 305.89713
+        height: 55.84776
+      alignment: 9
+      pivot: {x: 0.06840152, y: 0.49999908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149.02473, y: -28.000051}
+        - {x: -153.02473, y: -17.000051}
+        - {x: -153.02473, y: -4.0000515}
+        - {x: -150.02473, y: 24.999949}
+        - {x: -91.024734, y: 27.999949}
+        - {x: 112.975266, y: 27.999949}
+        - {x: 152.97527, y: 9.9999485}
+        - {x: 152.97527, y: -17.000051}
+        - {x: 117.975266, y: -28.000051}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_15'
+      rect:
+        serializedVersion: 2
+        x: 2.0761204
+        y: 982.05133
+        width: 269.84778
+        height: 75.90578
+      alignment: 9
+      pivot: {x: 0.12571491, y: 0.49994442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: -38.00422}
+        - {x: -135, y: -6.004219}
+        - {x: -135, y: 37.99578}
+        - {x: 129, y: 37.99578}
+        - {x: 133.99998, y: 28.99578}
+        - {x: 134.99998, y: 22.99578}
+        - {x: 134.99998, y: -20.00422}
+        - {x: 123, y: -38.00422}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_16'
+      rect:
+        serializedVersion: 2
+        x: 370.02676
+        y: 976.0761
+        width: 326.9219
+        height: 84.84776
+      alignment: 9
+      pivot: {x: 0.07944783, y: 0.5176788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157.48772, y: -42.499992}
+        - {x: -163.48772, y: -27.499992}
+        - {x: -163.48772, y: 5.5000076}
+        - {x: -147.48772, y: 39.500008}
+        - {x: -144.48772, y: 42.500008}
+        - {x: 112.51228, y: 42.500008}
+        - {x: 163.51228, y: 13.500008}
+        - {x: 163.51228, y: -21.499992}
+        - {x: 133.51228, y: -28.499994}
+        - {x: 123.51228, y: -29.499992}
+        - {x: -19.487724, y: -42.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_17'
+      rect:
+        serializedVersion: 2
+        x: 733.0761
+        y: 983.0761
+        width: 305.91098
+        height: 73.84776
+      alignment: 9
+      pivot: {x: 0.07493647, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149.0316, y: -36.999992}
+        - {x: -153.0316, y: -13.999992}
+        - {x: -153.0316, y: 21.000008}
+        - {x: -152.0316, y: 37.000008}
+        - {x: 93.9684, y: 37.000008}
+        - {x: 145.9684, y: 21.000008}
+        - {x: 152.9684, y: 16.000008}
+        - {x: 152.9684, y: -10.999992}
+        - {x: 143.9684, y: -29.999994}
+        - {x: 93.9684, y: -36.999992}
+        - {x: 22.9684, y: -36.999992}
+        - {x: -75.0316, y: -30.999992}
+        - {x: -80.0316, y: -36.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_18'
+      rect:
+        serializedVersion: 2
+        x: 1087.0267
+        y: 983.0761
+        width: 340.94647
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.08497893, y: 0.45112887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.50003, y: -40.999992}
+        - {x: -6.4999695, y: -40.999992}
+        - {x: -82.49997, y: -33.999992}
+        - {x: -103.49997, y: -33.999992}
+        - {x: -127.49997, y: -29.999992}
+        - {x: -139.49997, y: -26.999992}
+        - {x: -157.49997, y: -19.999992}
+        - {x: -170.49997, y: -12.999992}
+        - {x: -170.49997, y: 15.000008}
+        - {x: -64.49997, y: 41.000008}
+        - {x: 167.50003, y: 41.000008}
+        - {x: 170.50003, y: 38.000008}
+        - {x: 170.50003, y: 5.0000076}
+        - {x: 166.50003, y: 2.0000076}
+        - {x: 159.50003, y: -1.9999924}
+        - {x: 170.50003, y: -5.9999924}
+        - {x: 170.50003, y: -27.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_19'
+      rect:
+        serializedVersion: 2
+        x: 1452.0088
+        y: 965.02673
+        width: 220.97824
+        height: 110.96034
+      alignment: 9
+      pivot: {x: 0.10856821, y: 0.49543166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.49791, y: -24.506905}
+        - {x: -110.49791, y: -14.506905}
+        - {x: -110.49791, y: 35.493095}
+        - {x: -17.49791, y: 55.493095}
+        - {x: 78.50209, y: 55.493095}
+        - {x: 110.50209, y: 43.493095}
+        - {x: 110.50209, y: -25.506905}
+        - {x: 99.50209, y: -55.506905}
+        - {x: 38.50209, y: -55.506905}
+        - {x: 19.502083, y: -50.506905}
+        - {x: -67.49791, y: -27.506907}
+        - {x: -91.49791, y: -27.506907}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_20'
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 845.01294
+        width: 302.94647
+        height: 111.910965
+      alignment: 9
+      pivot: {x: 0.105540924, y: 0.4913465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137.49998, y: -51.968422}
+        - {x: -140.49998, y: -43.968422}
+        - {x: -133.49998, y: -31.968422}
+        - {x: -140.49998, y: -38.968422}
+        - {x: -143.49998, y: -40.968422}
+        - {x: -151.49998, y: -37.968422}
+        - {x: -151.49998, y: 38.031578}
+        - {x: -135.49998, y: 56.031578}
+        - {x: 52.500015, y: 56.031578}
+        - {x: 121.50003, y: 51.031578}
+        - {x: 148.50002, y: 36.031578}
+        - {x: 151.50002, y: 23.031578}
+        - {x: 151.50002, y: -23.968422}
+        - {x: 99.500015, y: -37.968422}
+        - {x: 94.50003, y: -27.968424}
+        - {x: 93.50003, y: -25.968422}
+        - {x: 91.5, y: -19.968422}
+        - {x: 83.500015, y: -19.968422}
+        - {x: 68.500015, y: -19.968422}
+        - {x: 78.500015, y: -20.968422}
+        - {x: 83.500015, y: -19.968422}
+        - {x: 90.5, y: -22.968422}
+        - {x: 94.50003, y: -27.968424}
+        - {x: 99.500015, y: -38.968422}
+        - {x: 100.500015, y: -50.968422}
+        - {x: 93.50003, y: -55.968422}
+        - {x: -64.499985, y: -55.968422}
+        - {x: -128.49998, y: -52.968422}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_21'
+      rect:
+        serializedVersion: 2
+        x: 369.05637
+        y: 853.0761
+        width: 335.91687
+        height: 94.84776
+      alignment: 9
+      pivot: {x: 0.08020923, y: 0.49472848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.0148, y: -47.499992}
+        - {x: -168.0148, y: -40.499992}
+        - {x: -168.0148, y: 25.500008}
+        - {x: -162.0148, y: 38.500008}
+        - {x: -72.0148, y: 46.500008}
+        - {x: -60.0148, y: 47.500008}
+        - {x: 121.9852, y: 47.500008}
+        - {x: 167.9852, y: 17.500008}
+        - {x: 167.9852, y: -12.499992}
+        - {x: 116.9852, y: -47.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_22'
+      rect:
+        serializedVersion: 2
+        x: 726.0761
+        y: 845.0761
+        width: 222.84775
+        height: 104.84776
+      alignment: 9
+      pivot: {x: 0.13427952, y: 0.5238442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.499985, y: -52.499992}
+        - {x: -111.499985, y: -38.499992}
+        - {x: -111.499985, y: 45.500008}
+        - {x: -90.499985, y: 52.500008}
+        - {x: 84.500015, y: 52.500008}
+        - {x: 87.500015, y: 51.500008}
+        - {x: 111.500015, y: 9.500008}
+        - {x: 111.500015, y: -13.499992}
+        - {x: 105.500015, y: -21.499992}
+        - {x: 68.500015, y: -49.499992}
+        - {x: 41.500015, y: -52.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_23'
+      rect:
+        serializedVersion: 2
+        x: 1095.043
+        y: 870.00885
+        width: 331.93033
+        height: 63.900444
+      alignment: 9
+      pivot: {x: 0.06313684, y: 0.4693418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -165.00813, y: -31.959074}
+        - {x: -166.00813, y: -26.959072}
+        - {x: -166.00813, y: 21.040928}
+        - {x: -131.00813, y: 32.040928}
+        - {x: 165.99187, y: 32.040928}
+        - {x: 165.99187, y: -31.959074}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_24'
+      rect:
+        serializedVersion: 2
+        x: 1448.0762
+        y: 840
+        width: 319.89713
+        height: 109.92388
+      alignment: 9
+      pivot: {x: 0.087290026, y: 0.5458323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.024734, y: -34.961937}
+        - {x: -39.024734, y: -27.961937}
+        - {x: -29.024734, y: -19.961937}
+        - {x: -39.024734, y: -22.961937}
+        - {x: -66.024734, y: -26.961937}
+        - {x: -116.024734, y: -10.961937}
+        - {x: -158.02473, y: 14.038063}
+        - {x: -160.02473, y: 19.038063}
+        - {x: -160.02473, y: 55.038063}
+        - {x: 159.97527, y: 55.038063}
+        - {x: 159.97527, y: -19.961937}
+        - {x: 116.975266, y: -47.961933}
+        - {x: 29.975266, y: -47.961933}
+        - {x: 26.975266, y: -40.961937}
+        - {x: 38.975266, y: -31.961937}
+        - {x: 26.975266, y: -39.961937}
+        - {x: 11.9752655, y: -43.961937}
+        - {x: -25.024727, y: -42.961937}
+        - {x: -37.024734, y: -36.961937}
+      - - {x: -90.024734, y: -54.96194}
+        - {x: -97.024734, y: -54.96194}
+        - {x: -96.024734, y: -51.961937}
+        - {x: -91.024734, y: -51.961937}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_25'
+      rect:
+        serializedVersion: 2
+        x: 19.07612
+        y: 762.03876
+        width: 166.89713
+        height: 76.88513
+      alignment: 9
+      pivot: {x: 0.10140307, y: 0.23361142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.52468, y: -38.481323}
+        - {x: -83.52468, y: -27.481321}
+        - {x: -83.52468, y: -19.481321}
+        - {x: -81.52468, y: -15.481321}
+        - {x: -50.52468, y: 13.518679}
+        - {x: -41.52468, y: 21.518679}
+        - {x: -21.524681, y: 38.518677}
+        - {x: 78.47532, y: 38.518677}
+        - {x: 83.47532, y: 25.518679}
+        - {x: 83.47532, y: -21.481321}
+        - {x: 71.47532, y: -38.481323}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_26'
+      rect:
+        serializedVersion: 2
+        x: 367.0129
+        y: 733.05975
+        width: 297.9289
+        height: 91.86415
+      alignment: 9
+      pivot: {x: 0.09729534, y: 0.5109746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149.02264, y: -32.99183}
+        - {x: 101.022644, y: -45.99183}
+        - {x: -133.97736, y: -45.99183}
+        - {x: -146.97736, y: -34.99183}
+        - {x: -146.97736, y: 13.008171}
+        - {x: -147.97736, y: 13.008171}
+        - {x: -148.97736, y: 16.008171}
+        - {x: -146.97736, y: 18.008171}
+        - {x: -143.97736, y: 18.008171}
+        - {x: -142.97736, y: 16.008171}
+        - {x: -136.97736, y: 18.008171}
+        - {x: -131.97736, y: 19.008171}
+        - {x: -139.97736, y: 21.008171}
+        - {x: -136.97736, y: 46.00817}
+        - {x: 126.022644, y: 46.00817}
+        - {x: 149.02264, y: 40.00817}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_27'
+      rect:
+        serializedVersion: 2
+        x: 737.0761
+        y: 742.0761
+        width: 338.84778
+        height: 75.84776
+      alignment: 9
+      pivot: {x: 0.05584776, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148.5, y: -37.999992}
+        - {x: -169.5, y: -24.999992}
+        - {x: -169.5, y: 11.000008}
+        - {x: -167.5, y: 15.000009}
+        - {x: -155.5, y: 38.000008}
+        - {x: 37.5, y: 38.000008}
+        - {x: 169.5, y: 21.000008}
+        - {x: 169.5, y: -15.999992}
+        - {x: 33.5, y: -37.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_28'
+      rect:
+        serializedVersion: 2
+        x: 1087.0541
+        y: 722.0761
+        width: 285.86975
+        height: 115.87257
+      alignment: 9
+      pivot: {x: 0.10125563, y: 0.49989304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141.01105, y: -58.012394}
+        - {x: -142.98895, y: -58.012394}
+        - {x: -142.98895, y: -1.012394}
+        - {x: -128.98895, y: -0.012393951}
+        - {x: -131.98895, y: -0.012393951}
+        - {x: -136.98895, y: 0.98760605}
+        - {x: -142.98895, y: 17.987606}
+        - {x: -142.98895, y: 57.987606}
+        - {x: 80.01105, y: 57.987606}
+        - {x: 143.01105, y: 48.987606}
+        - {x: 143.01105, y: -54.012398}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_29'
+      rect:
+        serializedVersion: 2
+        x: 1455.0267
+        y: 720
+        width: 244.89714
+        height: 120
+      alignment: 9
+      pivot: {x: 0.08564112, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.4753, y: -60.000004}
+        - {x: -122.4753, y: -45}
+        - {x: -122.4753, y: 22}
+        - {x: -101.4753, y: 60.000004}
+        - {x: -4.4753036, y: 60.000004}
+        - {x: 122.5247, y: 35}
+        - {x: 122.5247, y: -25}
+        - {x: 17.524704, y: -60.000004}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_30'
+      rect:
+        serializedVersion: 2
+        x: 12.026751
+        y: 631.02673
+        width: 90.9465
+        height: 58.91912
+      alignment: 9
+      pivot: {x: 0.26359728, y: 0.49174643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -29.486294}
+        - {x: -45.5, y: -28.486294}
+        - {x: -45.5, y: 11.513706}
+        - {x: -31.5, y: 26.513708}
+        - {x: -16.5, y: 29.513708}
+        - {x: 37.499996, y: 29.513708}
+        - {x: 45.5, y: 13.513706}
+        - {x: 45.5, y: -18.486294}
+        - {x: 30.5, y: -29.486294}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_31'
+      rect:
+        serializedVersion: 2
+        x: 373.02676
+        y: 617.0429
+        width: 345.9219
+        height: 84.93034
+      alignment: 9
+      pivot: {x: 0.06641163, y: 0.505792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168.98772, y: -42.508083}
+        - {x: -172.98772, y: -31.508083}
+        - {x: -172.98772, y: 42.491917}
+        - {x: 159.01228, y: 42.491917}
+        - {x: 173.01228, y: 23.491917}
+        - {x: 173.01228, y: -19.508083}
+        - {x: 90.0123, y: -42.508083}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_32'
+      rect:
+        serializedVersion: 2
+        x: 724.02673
+        y: 600
+        width: 355.97324
+        height: 115.92388
+      alignment: 9
+      pivot: {x: 0.0898193, y: 0.517581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175.98665, y: -29.961945}
+        - {x: 173.98665, y: -27.961946}
+        - {x: 173.98665, y: -25.961945}
+        - {x: 176.98665, y: -22.961945}
+        - {x: 177.98665, y: -22.961945}
+        - {x: 177.98665, y: -28.961945}
+      - - {x: -164.01335, y: -49.961945}
+        - {x: -166.01335, y: -47.961945}
+        - {x: -163.01335, y: -36.961945}
+        - {x: -160.01335, y: -29.961945}
+        - {x: -167.01335, y: -36.961945}
+        - {x: -170.01335, y: -38.961945}
+        - {x: -178.01335, y: -35.961945}
+        - {x: -178.01335, y: 50.038055}
+        - {x: -175.01335, y: 58.038055}
+        - {x: 124.98665, y: 58.038055}
+        - {x: 124.98665, y: -16.961945}
+        - {x: 86.98665, y: -38.961945}
+        - {x: 68.986664, y: -27.961946}
+        - {x: 64.98663, y: -17.961945}
+        - {x: 56.98665, y: -17.961945}
+        - {x: 41.98665, y: -17.961945}
+        - {x: 51.98665, y: -18.961945}
+        - {x: 56.98665, y: -17.961945}
+        - {x: 63.986633, y: -20.961945}
+        - {x: 67.986664, y: -25.961945}
+        - {x: 72.98665, y: -36.961945}
+        - {x: 89.98663, y: -53.961945}
+        - {x: -121.01335, y: -53.961945}
+      - - {x: 76.98665, y: -57.96195}
+        - {x: 70.98665, y: -57.96195}
+        - {x: 71.98665, y: -54.961945}
+        - {x: 75.98665, y: -54.961945}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_33'
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 607.0761
+        width: 306.9239
+        height: 105.9235
+      alignment: 9
+      pivot: {x: 0.11729295, y: 0.49964255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.46194, y: -53.037857}
+        - {x: -153.46194, y: -36.03786}
+        - {x: -153.46194, y: 17.96214}
+        - {x: -144.46194, y: 52.962135}
+        - {x: 76.53806, y: 52.962135}
+        - {x: 113.53806, y: 33.96214}
+        - {x: 153.53806, y: 20.96214}
+        - {x: 153.53806, y: -21.03786}
+        - {x: 151.53806, y: -25.03786}
+        - {x: 103.53806, y: -26.03786}
+        - {x: 75.53806, y: -53.037857}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_34'
+      rect:
+        serializedVersion: 2
+        x: 1449.0267
+        y: 611.02673
+        width: 299.89713
+        height: 108.97325
+      alignment: 9
+      pivot: {x: 0.08994173, y: 0.4494063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.975296, y: 51.48664}
+        - {x: -110.975296, y: 54.486645}
+        - {x: -102.975296, y: 54.486645}
+        - {x: -102.975296, y: 53.486637}
+        - {x: -104.975296, y: 51.48664}
+      - - {x: -88.975296, y: 50.48664}
+        - {x: -90.975296, y: 53.486637}
+        - {x: -90.975296, y: 54.486645}
+        - {x: -81.975296, y: 54.486645}
+        - {x: -81.975296, y: 51.48664}
+        - {x: -83.975296, y: 50.48664}
+      - - {x: -109.975296, y: -54.51336}
+        - {x: -149.9753, y: -46.51336}
+        - {x: -149.9753, y: -26.51336}
+        - {x: -133.9753, y: 4.486641}
+        - {x: -106.975296, y: 37.48664}
+        - {x: -78.975296, y: 45.48664}
+        - {x: -38.975296, y: 45.48664}
+        - {x: 115.02472, y: 25.48664}
+        - {x: 150.0247, y: 1.4866409}
+        - {x: 150.0247, y: -24.51336}
+        - {x: 103.024704, y: -52.51336}
+        - {x: 90.02472, y: -54.51336}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_35'
+      rect:
+        serializedVersion: 2
+        x: 9.051316
+        y: 511.00403
+        width: 342.87256
+        height: 61.96921
+      alignment: 9
+      pivot: {x: 0.07859679, y: 0.4679093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -169.4876, y: -30.988634}
+        - {x: -171.4876, y: -25.988634}
+        - {x: -171.4876, y: 31.011366}
+        - {x: 171.5124, y: 31.011366}
+        - {x: 171.5124, y: -13.988634}
+        - {x: 169.5124, y: -18.988634}
+        - {x: -0.4875946, y: -30.988634}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_36'
+      rect:
+        serializedVersion: 2
+        x: 372.0761
+        y: 480
+        width: 347.89713
+        height: 113.948685
+      alignment: 9
+      pivot: {x: 0.06876714, y: 0.5265528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.02467, y: -50.974346}
+        - {x: -174.02467, y: -18.974342}
+        - {x: -174.02467, y: 26.025658}
+        - {x: -173.02467, y: 31.025658}
+        - {x: -140.02467, y: 57.02566}
+        - {x: 109.97533, y: 57.02566}
+        - {x: 168.97533, y: 38.025658}
+        - {x: 173.97533, y: 34.025658}
+        - {x: 173.97533, y: -12.974342}
+        - {x: 163.97533, y: -40.974342}
+        - {x: 74.97533, y: -56.974346}
+        - {x: 19.975327, y: -56.974346}
+        - {x: -24.024673, y: -47.974342}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_37'
+      rect:
+        serializedVersion: 2
+        x: 730.0761
+        y: 487.0761
+        width: 349.9239
+        height: 112.92388
+      alignment: 9
+      pivot: {x: 0.074084364, y: 0.4686687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171.96194, y: 33.46195}
+        - {x: 169.96194, y: 35.46195}
+        - {x: 169.96194, y: 37.46195}
+        - {x: 172.96194, y: 40.46195}
+        - {x: 174.96194, y: 40.46195}
+        - {x: 174.96194, y: 34.46195}
+        - {x: 173.96194, y: 33.46195}
+      - - {x: 174.96194, y: -56.538048}
+        - {x: -175.03806, y: -56.538048}
+        - {x: -174.03806, y: -16.538052}
+        - {x: -175.03806, y: -12.538052}
+        - {x: -175.03806, y: 20.461948}
+        - {x: -172.03806, y: 50.461952}
+        - {x: -141.03806, y: 56.461952}
+        - {x: 104.961945, y: 56.461952}
+        - {x: 174.96194, y: 11.461949}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_38'
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 259.9239
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.13850205, y: 0.50031734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.03805, y: -59.96195}
+        - {x: -129.96194, y: -59.96195}
+        - {x: -129.96194, y: 55.038055}
+        - {x: -108.96195, y: 60.03806}
+        - {x: 73.03805, y: 60.03806}
+        - {x: 119.03806, y: 42.038055}
+        - {x: 130.03806, y: 25.038055}
+        - {x: 130.03806, y: -42.961945}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_39'
+      rect:
+        serializedVersion: 2
+        x: 1441.0762
+        y: 481.0761
+        width: 117.84776
+        height: 117.84776
+      alignment: 9
+      pivot: {x: 0.29634696, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.000053, y: -58.99999}
+        - {x: -59.000053, y: -35.999992}
+        - {x: -59.000053, y: 52.000008}
+        - {x: -51.000053, y: 59.000004}
+        - {x: 36.999947, y: 59.000004}
+        - {x: 58.999947, y: 47.000008}
+        - {x: 58.999947, y: -35.999992}
+        - {x: 49.999947, y: -58.99999}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_40'
+      rect:
+        serializedVersion: 2
+        x: 10.07612
+        y: 372.0761
+        width: 318.8608
+        height: 102.880974
+      alignment: 9
+      pivot: {x: 0.081301585, y: 0.46581876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159.50652, y: 7.4834023}
+        - {x: -3.5065155, y: 51.483402}
+        - {x: 77.49347, y: 51.483402}
+        - {x: 142.49348, y: 41.483402}
+        - {x: 159.49348, y: 6.4834023}
+        - {x: 159.49348, y: -49.516598}
+        - {x: 157.49348, y: -51.516598}
+        - {x: -159.50652, y: -51.516598}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_41'
+      rect:
+        serializedVersion: 2
+        x: 366.0761
+        y: 362.02676
+        width: 298.91098
+        height: 113.96034
+      alignment: 9
+      pivot: {x: 0.100109704, y: 0.50871414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139.5316, y: 1.9930649}
+        - {x: -140.5316, y: 4.993065}
+        - {x: -138.5316, y: 6.993065}
+        - {x: -132.5316, y: 6.993065}
+        - {x: -131.5316, y: 3.9930649}
+        - {x: -133.5316, y: 1.9930649}
+      - - {x: -83.5316, y: -57.006935}
+        - {x: -149.5316, y: -48.006935}
+        - {x: -149.5316, y: -26.006937}
+        - {x: -135.5316, y: -12.006935}
+        - {x: -146.5316, y: -6.006935}
+        - {x: -145.5316, y: -2.0069351}
+        - {x: -142.5316, y: 0.9930649}
+        - {x: -122.5316, y: 0.9930649}
+        - {x: -128.5316, y: 1.9930649}
+        - {x: -132.5316, y: 6.993065}
+        - {x: -140.5316, y: 16.993065}
+        - {x: -136.5316, y: 28.993065}
+        - {x: -11.531593, y: 56.993065}
+        - {x: 139.4684, y: 56.993065}
+        - {x: 149.4684, y: 44.993065}
+        - {x: 149.4684, y: -57.006935}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_42'
+      rect:
+        serializedVersion: 2
+        x: 728.0761
+        y: 360
+        width: 116.87257
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.23892593, y: 0.50031734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.512398, y: -59.96195}
+        - {x: -58.512398, y: -29.961946}
+        - {x: -58.512398, y: 55.038055}
+        - {x: -42.512398, y: 60.03806}
+        - {x: 30.487604, y: 60.03806}
+        - {x: 58.487602, y: 32.038055}
+        - {x: 58.487602, y: -59.96195}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_43'
+      rect:
+        serializedVersion: 2
+        x: 1081.0762
+        y: 384.0761
+        width: 358.9239
+        height: 95.92388
+      alignment: 9
+      pivot: {x: 0.09730149, y: 0.37450412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.46188, y: -48.03805}
+        - {x: -179.53812, y: -48.03805}
+        - {x: -179.53812, y: 22.961948}
+        - {x: -178.53812, y: 30.961948}
+        - {x: -161.53812, y: 47.961952}
+        - {x: -128.53812, y: 47.961952}
+        - {x: 171.46188, y: -4.0380516}
+        - {x: 174.46188, y: -3.0380516}
+        - {x: 176.46188, y: -3.0380516}
+        - {x: 179.46188, y: -4.0380516}
+        - {x: 179.46188, y: -32.03805}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_44'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 364.0761
+        width: 327.9571
+        height: 110.89713
+      alignment: 9
+      pivot: {x: 0.109770454, y: 0.50428617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.978546, y: 55.475323}
+        - {x: 94.021454, y: 55.475323}
+        - {x: 147.02145, y: 49.475323}
+        - {x: 138.02145, y: -5.5246773}
+        - {x: 140.02145, y: 2.4753227}
+        - {x: 144.02145, y: 6.4753227}
+        - {x: 163.02145, y: 7.4753227}
+        - {x: 164.02145, y: 6.4753227}
+        - {x: 164.02145, y: -18.524677}
+        - {x: 108.02144, y: -54.524677}
+        - {x: 101.021454, y: -55.524677}
+        - {x: -128.97855, y: -55.524677}
+        - {x: -148.97855, y: -32.524677}
+        - {x: -148.97855, y: -14.524678}
+        - {x: -146.97855, y: -1.5246773}
+        - {x: -134.97855, y: -1.5246773}
+        - {x: -148.97855, y: 1.4753227}
+        - {x: -148.97855, y: 34.475323}
+        - {x: -145.97855, y: 45.475323}
+        - {x: -106.978546, y: 54.475327}
+      - - {x: -160.97855, y: -4.5246773}
+        - {x: -163.97855, y: -5.5246773}
+        - {x: -163.97855, y: 3.4753227}
+        - {x: -162.97855, y: 3.4753227}
+        - {x: -160.97855, y: 1.4753227}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_45'
+      rect:
+        serializedVersion: 2
+        x: 15.001932
+        y: 249.07613
+        width: 231.92194
+        height: 99.84776
+      alignment: 9
+      pivot: {x: 0.09053939, y: 0.5100152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.9629, y: -27.000004}
+        - {x: -115.9629, y: -14.000005}
+        - {x: -115.9629, y: -1.0000038}
+        - {x: -108.9629, y: 17.999996}
+        - {x: -1.9628983, y: 49.999996}
+        - {x: 94.0371, y: 49.999996}
+        - {x: 99.0371, y: 48.999996}
+        - {x: 116.03709, y: 8.999996}
+        - {x: 116.03709, y: -11.000004}
+        - {x: 91.0371, y: -50.000004}
+        - {x: 6.0371017, y: -50.000004}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_46'
+      rect:
+        serializedVersion: 2
+        x: 364.0761
+        y: 252.07613
+        width: 202.87617
+        height: 93.84776
+      alignment: 9
+      pivot: {x: 0.15735649, y: 0.51065546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.514206, y: -47.000008}
+        - {x: -101.514206, y: -22.000008}
+        - {x: -101.514206, y: 1.9999924}
+        - {x: -90.514206, y: 23.999992}
+        - {x: -62.514206, y: 46.999992}
+        - {x: 62.485794, y: 46.999992}
+        - {x: 101.485794, y: 22.999992}
+        - {x: 101.485794, y: -16.000008}
+        - {x: 64.485794, y: -44.000008}
+        - {x: 38.4858, y: -47.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_47'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 245.07613
+        width: 358.94867
+        height: 107.84776
+      alignment: 9
+      pivot: {x: 0.10029289, y: 0.5092723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142.47433, y: 53.999992}
+        - {x: -109.474335, y: 45.999996}
+        - {x: -55.474335, y: 53.999992}
+        - {x: -37.474342, y: 53.999992}
+        - {x: 129.52567, y: 31.999996}
+        - {x: 179.52567, y: 1.9999962}
+        - {x: 179.52567, y: -23.000004}
+        - {x: 78.525665, y: -54.000004}
+        - {x: -179.47433, y: -54.000004}
+        - {x: -179.47433, y: 53.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_48'
+      rect:
+        serializedVersion: 2
+        x: 1095.0762
+        y: 242.0477
+        width: 329.89713
+        height: 117.876175
+      alignment: 9
+      pivot: {x: 0.06342531, y: 0.4916371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.975266, y: 50.014214}
+        - {x: 139.97527, y: 39.014214}
+        - {x: 140.97527, y: 40.014214}
+        - {x: 143.97527, y: 40.014214}
+        - {x: 145.97527, y: 38.014214}
+        - {x: 145.97527, y: 36.014214}
+        - {x: 164.97527, y: 24.014214}
+        - {x: 164.97527, y: -34.985786}
+        - {x: 103.975266, y: -58.985786}
+        - {x: -12.0247345, y: -58.985786}
+        - {x: -100.024734, y: -50.985786}
+        - {x: -164.02473, y: -58.985786}
+        - {x: -165.02473, y: -58.985786}
+        - {x: -165.02473, y: 59.014217}
+        - {x: -91.024734, y: 59.014217}
+        - {x: -83.024734, y: 56.014214}
+        - {x: 9.9752655, y: 59.014217}
+        - {x: 39.975266, y: 59.014217}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_49'
+      rect:
+        serializedVersion: 2
+        x: 1441.0762
+        y: 261.0761
+        width: 358.84778
+        height: 82.84776
+      alignment: 9
+      pivot: {x: 0.09732212, y: 0.46982425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163.49994, y: -21.499992}
+        - {x: 137.49994, y: -23.499992}
+        - {x: 135.49994, y: -25.499992}
+        - {x: 132.49994, y: -25.499992}
+        - {x: 132.49994, y: -24.499992}
+        - {x: -59.50006, y: -41.499992}
+        - {x: -178.50006, y: -41.499992}
+        - {x: -179.50006, y: -31.499992}
+        - {x: -179.50006, y: 20.500008}
+        - {x: -172.50006, y: 41.500008}
+        - {x: -119.50006, y: 41.500008}
+        - {x: 71.499954, y: 26.500008}
+        - {x: 120.49994, y: 20.500008}
+        - {x: 175.49994, y: 9.500008}
+        - {x: 179.49994, y: 4.5000076}
+        - {x: 179.49994, y: -7.4999924}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_50'
+      rect:
+        serializedVersion: 2
+        x: 8.07612
+        y: 124.04291
+        width: 351.9239
+        height: 111.93034
+      alignment: 9
+      pivot: {x: 0.079346344, y: 0.49992782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173.03807, y: -56.00808}
+        - {x: -176.03807, y: -53.008076}
+        - {x: -176.03807, y: 27.99192}
+        - {x: -157.03807, y: 55.99192}
+        - {x: 93.96193, y: 55.99192}
+        - {x: 147.96193, y: 17.99192}
+        - {x: 153.96193, y: 17.99192}
+        - {x: 172.96193, y: 5.9919205}
+        - {x: 175.96193, y: 3.9919205}
+        - {x: 175.96193, y: -12.00808}
+        - {x: 85.961914, y: -56.00808}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_51'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 133.07613
+        width: 353.89444
+        height: 96.84776
+      alignment: 9
+      pivot: {x: 0.10172525, y: 0.4845117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -171.94722, y: -6.5000076}
+        - {x: -176.94722, y: -6.5000076}
+        - {x: -176.94722, y: 1.4999924}
+        - {x: -175.94722, y: 1.4999924}
+        - {x: -169.94722, y: -1.5000076}
+        - {x: -168.94722, y: -4.5000076}
+      - - {x: 99.052795, y: -48.500008}
+        - {x: -141.94722, y: -48.500008}
+        - {x: -166.94722, y: -39.500008}
+        - {x: -168.94722, y: -28.50001}
+        - {x: -168.94722, y: -4.5000076}
+        - {x: -168.94722, y: 44.499992}
+        - {x: -166.94722, y: 48.499992}
+        - {x: 135.05278, y: 48.499992}
+        - {x: 158.05278, y: 46.499992}
+        - {x: 177.05278, y: 16.499992}
+        - {x: 177.05278, y: -17.500008}
+        - {x: 157.05278, y: -44.500008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_52'
+      rect:
+        serializedVersion: 2
+        x: 721.0761
+        y: 129.07613
+        width: 357.84778
+        height: 100.87257
+      alignment: 9
+      pivot: {x: 0.09759426, y: 0.50483376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137, y: -50.512405}
+        - {x: -179, y: -50.512405}
+        - {x: -179, y: 30.487597}
+        - {x: -176, y: 50.487595}
+        - {x: -147, y: 50.487595}
+        - {x: -44, y: 41.487595}
+        - {x: 162, y: 20.487595}
+        - {x: 179, y: 3.4875946}
+        - {x: 179, y: -10.512405}
+        - {x: 154, y: -23.512405}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_53'
+      rect:
+        serializedVersion: 2
+        x: 1456.0267
+        y: 129.07613
+        width: 286.94647
+        height: 100.84776
+      alignment: 9
+      pivot: {x: 0.069606245, y: 0.5049579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142.49997, y: -39.500004}
+        - {x: -143.49997, y: -33.500004}
+        - {x: -143.49997, y: 7.499996}
+        - {x: -100.49997, y: 50.499996}
+        - {x: 70.50003, y: 50.499996}
+        - {x: 143.50003, y: -8.500004}
+        - {x: 143.50003, y: -27.500004}
+        - {x: 130.50003, y: -49.500004}
+        - {x: 110.500015, y: -50.500004}
+        - {x: -106.49997, y: -50.500004}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_54'
+      rect:
+        serializedVersion: 2
+        x: 13.042908
+        y: 18.07612
+        width: 224.93034
+        height: 101.92388
+      alignment: 9
+      pivot: {x: 0.10206312, y: 0.4113254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.50808, y: -51.03806}
+        - {x: -112.50808, y: -49.03806}
+        - {x: -112.50808, y: 5.9619417}
+        - {x: -55.50808, y: 50.961945}
+        - {x: 79.49192, y: 50.961945}
+        - {x: 112.49192, y: 37.96194}
+        - {x: 112.49192, y: -34.03806}
+        - {x: 67.49192, y: -51.03806}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_55'
+      rect:
+        serializedVersion: 2
+        x: 370.05972
+        y: 6.0761204
+        width: 219.88208
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.11797355, y: 0.50444645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.00077, y: -41.52469}
+        - {x: -110.00077, y: -34.52469}
+        - {x: -110.00077, y: 34.47531}
+        - {x: -64.00077, y: 53.475307}
+        - {x: 90.99923, y: 53.475307}
+        - {x: 109.99923, y: 29.475311}
+        - {x: 109.99923, y: -4.5246887}
+        - {x: 93.99923, y: -51.52469}
+        - {x: 87.99923, y: -53.524693}
+        - {x: 44.99923, y: -53.524693}
+        - {x: 28.99923, y: -52.524685}
+        - {x: -36.00077, y: -47.52469}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_56'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3.042908
+        width: 313.9571
+        height: 112.93034
+      alignment: 9
+      pivot: {x: 0.11466535, y: 0.50435597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.978542, y: 21.49192}
+        - {x: -33.978546, y: 24.49192}
+        - {x: -25.978546, y: 24.49192}
+        - {x: -21.978546, y: 28.49192}
+        - {x: -36.978546, y: 27.491922}
+        - {x: -57.978546, y: 22.49192}
+        - {x: -68.978546, y: 21.49192}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_57'
+      rect:
+        serializedVersion: 2
+        x: 1087.013
+        y: 7.0761204
+        width: 327.91098
+        height: 99.89713
+      alignment: 9
+      pivot: {x: 0.08839918, y: 0.5297838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145.96843, y: 22.975315}
+        - {x: -149.96843, y: 23.975315}
+        - {x: -146.96843, y: 32.97532}
+        - {x: -124.96843, y: 33.975315}
+        - {x: -108.96843, y: 32.97532}
+        - {x: -87.96843, y: 30.975315}
+        - {x: -96.96843, y: 36.975315}
+        - {x: -94.96843, y: 49.975315}
+        - {x: 164.03157, y: 49.975315}
+        - {x: 164.03157, y: -26.024685}
+        - {x: 85.03157, y: -50.02468}
+        - {x: -104.96843, y: -50.02468}
+        - {x: -163.96843, y: -33.024685}
+        - {x: -163.96843, y: -17.024685}
+        - {x: -143.96843, y: -6.024685}
+        - {x: -119.96843, y: -9.024685}
+        - {x: -112.96843, y: -10.024685}
+        - {x: -115.96843, y: -9.024685}
+        - {x: -158.96843, y: 9.975315}
+        - {x: -162.96843, y: 10.975315}
+        - {x: -163.96843, y: 12.975315}
+        - {x: -163.96843, y: 14.975315}
+        - {x: -156.96843, y: 20.975315}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_58'
+      rect:
+        serializedVersion: 2
+        x: 1444.0513
+        y: 5.0761204
+        width: 339.9219
+        height: 109.880974
+      alignment: 9
+      pivot: {x: 0.09398844, y: 0.49984887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.01222, y: -55.016605}
+        - {x: -170.01222, y: -16.016605}
+        - {x: -170.01222, y: -8.016605}
+        - {x: -140.01222, y: 12.983395}
+        - {x: -30.012215, y: 42.983395}
+        - {x: 20.987778, y: 54.983395}
+        - {x: 125.98778, y: 54.983395}
+        - {x: 169.98778, y: 25.983395}
+        - {x: 169.98778, y: -55.016605}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Missile]_59'
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 360
+        height: 120
+      alignment: 9
+      pivot: {x: 0.1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Missile]_0': 21300000
+      '[Missile]_1': 21300002
+      '[Missile]_10': 21300020
+      '[Missile]_11': 21300022
+      '[Missile]_12': 21300024
+      '[Missile]_13': 21300026
+      '[Missile]_14': 21300028
+      '[Missile]_15': 21300030
+      '[Missile]_16': 21300032
+      '[Missile]_17': 21300034
+      '[Missile]_18': 21300036
+      '[Missile]_19': 21300038
+      '[Missile]_2': 21300004
+      '[Missile]_20': 21300040
+      '[Missile]_21': 21300042
+      '[Missile]_22': 21300044
+      '[Missile]_23': 21300046
+      '[Missile]_24': 21300048
+      '[Missile]_25': 21300050
+      '[Missile]_26': 21300052
+      '[Missile]_27': 21300054
+      '[Missile]_28': 21300056
+      '[Missile]_29': 21300058
+      '[Missile]_3': 21300006
+      '[Missile]_30': 21300060
+      '[Missile]_31': 21300062
+      '[Missile]_32': 21300064
+      '[Missile]_33': 21300066
+      '[Missile]_34': 21300068
+      '[Missile]_35': 21300070
+      '[Missile]_36': 21300072
+      '[Missile]_37': 21300074
+      '[Missile]_38': 21300076
+      '[Missile]_39': 21300078
+      '[Missile]_4': 21300008
+      '[Missile]_40': 21300080
+      '[Missile]_41': 21300082
+      '[Missile]_42': 21300084
+      '[Missile]_43': 21300086
+      '[Missile]_44': 21300088
+      '[Missile]_45': 21300090
+      '[Missile]_46': 21300092
+      '[Missile]_47': 21300094
+      '[Missile]_48': 21300096
+      '[Missile]_49': 21300098
+      '[Missile]_5': 21300010
+      '[Missile]_50': 21300100
+      '[Missile]_51': 21300102
+      '[Missile]_52': 21300104
+      '[Missile]_53': 21300106
+      '[Missile]_54': 21300108
+      '[Missile]_55': 21300110
+      '[Missile]_56': 21300112
+      '[Missile]_57': 21300114
+      '[Missile]_58': 21300116
+      '[Missile]_59': 21300118
+      '[Missile]_6': 21300012
+      '[Missile]_7': 21300014
+      '[Missile]_8': 21300016
+      '[Missile]_9': 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

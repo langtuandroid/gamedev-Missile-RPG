@@ -1,0 +1,182 @@
+[
+    {
+        "lv": 0,
+        "rare1": 1,
+        "rare2": 1,
+        "rare3": 1,
+        "rare4": 1,
+        "rare5": 1,
+        "rare6": 1
+    },
+    {
+        "lv": 1,
+        "rare1": 2,
+        "rare2": 2,
+        "rare3": 2,
+        "rare4": 2,
+        "rare5": 2,
+        "rare6": 2
+    },
+    {
+        "lv": 2,
+        "rare1": 5,
+        "rare2": 3,
+        "rare3": 3,
+        "rare4": 3,
+        "rare5": 3,
+        "rare6": 3
+    },
+    {
+        "lv": 3,
+        "rare1": 10,
+        "rare2": 5,
+        "rare3": 4,
+        "rare4": 4,
+        "rare5": 4,
+        "rare6": 4
+    },
+    {
+        "lv": 4,
+        "rare1": 20,
+        "rare2": 10,
+        "rare3": 7,
+        "rare4": 5,
+        "rare5": 5,
+        "rare6": 5
+    },
+    {
+        "lv": 5,
+        "rare1": 30,
+        "rare2": 15,
+        "rare3": 10,
+        "rare4": 7,
+        "rare5": 6,
+        "rare6": 6
+    },
+    {
+        "lv": 6,
+        "rare1": 50,
+        "rare2": 20,
+        "rare3": 13,
+        "rare4": 9,
+        "rare5": 7,
+        "rare6": 7
+    },
+    {
+        "lv": 7,
+        "rare1": 60,
+        "rare2": 25,
+        "rare3": 16,
+        "rare4": 11,
+        "rare5": 8,
+        "rare6": 8
+    },
+    {
+        "lv": 8,
+        "rare1": 70,
+        "rare2": 40,
+        "rare3": 20,
+        "rare4": 13,
+        "rare5": 9,
+        "rare6": 9
+    },
+    {
+        "lv": 9,
+        "rare1": 85,
+        "rare2": 45,
+        "rare3": 25,
+        "rare4": 15,
+        "rare5": 10,
+        "rare6": 10
+    },
+    {
+        "lv": 10,
+        "rare1": 100,
+        "rare2": 50,
+        "rare3": 30,
+        "rare4": 17,
+        "rare5": 12,
+        "rare6": 11
+    },
+    {
+        "lv": 11,
+        "rare1": 150,
+        "rare2": 75,
+        "rare3": 50,
+        "rare4": 20,
+        "rare5": 14,
+        "rare6": 12
+    },
+    {
+        "lv": 12,
+        "rare1": 200,
+        "rare2": 100,
+        "rare3": 60,
+        "rare4": 25,
+        "rare5": 16,
+        "rare6": 13
+    },
+    {
+        "lv": 13,
+        "rare1": 250,
+        "rare2": 125,
+        "rare3": 70,
+        "rare4": 30,
+        "rare5": 19,
+        "rare6": 14
+    },
+    {
+        "lv": 14,
+        "rare1": 300,
+        "rare2": 150,
+        "rare3": 80,
+        "rare4": 35,
+        "rare5": 22,
+        "rare6": 15
+    },
+    {
+        "lv": 15,
+        "rare1": 350,
+        "rare2": 175,
+        "rare3": 90,
+        "rare4": 40,
+        "rare5": 25,
+        "rare6": 16
+    },
+    {
+        "lv": 16,
+        "rare1": 400,
+        "rare2": 200,
+        "rare3": 105,
+        "rare4": 45,
+        "rare5": 30,
+        "rare6": 17
+    },
+    {
+        "lv": 17,
+        "rare1": 450,
+        "rare2": 225,
+        "rare3": 120,
+        "rare4": 55,
+        "rare5": 35,
+        "rare6": 18
+    },
+    {
+        "lv": 18,
+        "rare1": 500,
+        "rare2": 250,
+        "rare3": 135,
+        "rare4": 65,
+        "rare5": 40,
+        "rare6": 19
+    },
+    {
+        "lv": 19,
+        "rare1": 550,
+        "rare2": 275,
+        "rare3": 150,
+        "rare4": 75,
+        "rare5": 45,
+        "rare6": 20
+    }
+]

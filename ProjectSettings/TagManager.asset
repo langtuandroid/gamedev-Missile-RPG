@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Ground
+  - Coin
+  - Misile
+  - Die_Ground
+  - Item
+  - Crystal
+  - Ctrlzone
+  - Joystick
+  - EventSystem
+  - Potion
+  - Force
+  - Explosion
+  - FireWall
+  - Blizzard
+  - Bomb
+  - Lazer
+  - Player_Misile
+  - World_Item
+  - Item_Search
+  - NPC
+  - STAR
+  - TRAP
+  - Prop
+  - CHAT
+  - Event
+  - Jam
+  - FIRE
+  - INVISIBLE
+  - FireWall_ENEMY
+  - FxTemporaire
+  - METEO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - NonPhysics
+  - Wall
+  - Enemy
+  - Player
+  - Hide
+  - Item
+  - Force
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back_BG
+    uniqueID: 1331095901
+    locked: 0
+  - name: BG
+    uniqueID: 3062308175
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: First
+    uniqueID: 229520651
+    locked: 0

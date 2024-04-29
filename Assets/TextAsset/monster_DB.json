@@ -1,0 +1,267 @@
+[
+    {
+        "id": 0,
+        "name": "NO",
+        "hp": 100,
+        "movespeed": 100,
+        "hpSpeed": 10000,
+        "gold": 100
+    },
+    {
+        "id": 1,
+        "name": "Imp",
+        "hp": 75,
+        "movespeed": 100,
+        "hpSpeed": 10000,
+        "gold": 100,
+        "groupaverage": 15,
+        "arangetype": 1
+    },
+    {
+        "id": 2,
+        "name": "HellHound",
+        "hp": 90,
+        "movespeed": 200,
+        "hpSpeed": 20000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 3,
+        "name": "Beeman",
+        "hp": 100,
+        "movespeed": 100,
+        "hpSpeed": 30000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 4,
+        "name": "Wrath",
+        "hp": 500,
+        "movespeed": 50,
+        "hpSpeed": 40000,
+        "gold": 500,
+        "groupaverage": 3,
+        "arangetype": 2
+    },
+    {
+        "id": 5,
+        "name": "Captain",
+        "hp": 30000,
+        "movespeed": 50,
+        "hpSpeed": 50000,
+        "gold": 35000,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 6,
+        "name": "Scrab",
+        "hp": 75,
+        "movespeed": 100,
+        "hpSpeed": 10000,
+        "gold": 100,
+        "groupaverage": 15,
+        "arangetype": 1
+    },
+    {
+        "id": 7,
+        "name": "Snakeman",
+        "hp": 90,
+        "movespeed": 200,
+        "hpSpeed": 20000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 8,
+        "name": "Mole",
+        "hp": 100,
+        "movespeed": 100,
+        "hpSpeed": 30000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 9,
+        "name": "TurtleRider",
+        "hp": 500,
+        "movespeed": 50,
+        "hpSpeed": 40000,
+        "gold": 500,
+        "groupaverage": 3,
+        "arangetype": 2
+    },
+    {
+        "id": 10,
+        "name": "Mancubus",
+        "hp": 30000,
+        "movespeed": 50,
+        "hpSpeed": 50000,
+        "gold": 35000,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 11,
+        "name": "Shroom",
+        "hp": 75,
+        "movespeed": 100,
+        "hpSpeed": 10000,
+        "gold": 100,
+        "groupaverage": 15,
+        "arangetype": 1
+    },
+    {
+        "id": 12,
+        "name": "EvilCactus",
+        "hp": 90,
+        "movespeed": 200,
+        "hpSpeed": 20000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 13,
+        "name": "Druid",
+        "hp": 100,
+        "movespeed": 100,
+        "hpSpeed": 30000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 14,
+        "name": "Chicken",
+        "hp": 500,
+        "movespeed": 50,
+        "hpSpeed": 40000,
+        "gold": 500,
+        "groupaverage": 3,
+        "arangetype": 2
+    },
+    {
+        "id": 15,
+        "name": "Gardener",
+        "hp": 30000,
+        "movespeed": 50,
+        "hpSpeed": 50000,
+        "gold": 35000,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 16,
+        "name": "Slime",
+        "hp": 75,
+        "movespeed": 100,
+        "hpSpeed": 10000,
+        "gold": 100,
+        "groupaverage": 15,
+        "arangetype": 1
+    },
+    {
+        "id": 17,
+        "name": "Pyramid",
+        "hp": 90,
+        "movespeed": 200,
+        "hpSpeed": 20000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 18,
+        "name": "Fairy",
+        "hp": 100,
+        "movespeed": 100,
+        "hpSpeed": 30000,
+        "gold": 300,
+        "groupaverage": 5,
+        "arangetype": 2
+    },
+    {
+        "id": 19,
+        "name": "Librarian",
+        "hp": 500,
+        "movespeed": 50,
+        "hpSpeed": 40000,
+        "gold": 500,
+        "groupaverage": 3,
+        "arangetype": 2
+    },
+    {
+        "id": 20,
+        "name": "Socrates",
+        "hp": 30000,
+        "movespeed": 50,
+        "hpSpeed": 50000,
+        "gold": 35000,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 21,
+        "name": "MineralDude",
+        "hp": 4500,
+        "movespeed": 50,
+        "hpSpeed": 10000,
+        "gold": 10000,
+        "groupaverage": 1,
+        "arangetype": 1
+    },
+    {
+        "id": 22,
+        "name": "DoomPortal",
+        "hp": 4500,
+        "movespeed": 0,
+        "hpSpeed": 10000,
+        "gold": 7500,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 23,
+        "name": "MeatWall",
+        "hp": 5000,
+        "movespeed": 0,
+        "hpSpeed": 10000,
+        "gold": 100,
+        "groupaverage": 1,
+        "arangetype": 1
+    },
+    {
+        "id": 24,
+        "name": "TEXAS",
+        "hp": 100,
+        "movespeed": 0,
+        "gold": 100,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 25,
+        "name": "MineralDude",
+        "hp": 1500,
+        "movespeed": 50,
+        "gold": 20000,
+        "groupaverage": 1,
+        "arangetype": 2
+    },
+    {
+        "id": 26,
+        "name": "SPECIAL_BOSS",
+        "hp": 50000,
+        "movespeed": 0,
+        "gold": 50000,
+        "groupaverage": 1,
+        "arangetype": 1
+    }
+]

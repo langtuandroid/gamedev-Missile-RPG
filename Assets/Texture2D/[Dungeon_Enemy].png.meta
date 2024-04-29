@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 66d73db6491958049885d9c843292f69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[Dungeon_Enemy]_0'
+  - first:
+      213: 21300002
+    second: '[Dungeon_Enemy]_1'
+  - first:
+      213: 21300004
+    second: '[Dungeon_Enemy]_2'
+  - first:
+      213: 21300006
+    second: '[Dungeon_Enemy]_3'
+  - first:
+      213: 21300008
+    second: '[Dungeon_Enemy]_4'
+  - first:
+      213: 21300010
+    second: '[Dungeon_Enemy]_5'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_0'
+      rect:
+        serializedVersion: 2
+        x: 57.076122
+        y: 193.04291
+        width: 56.84776
+        height: 111.951126
+      alignment: 9
+      pivot: {x: 0.49120456, y: 0.55342984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.500002, y: -56.01847}
+        - {x: -28.500002, y: -13.018471}
+        - {x: -28.500002, y: 51.98153}
+        - {x: -17.500002, y: 55.98153}
+        - {x: 25.499998, y: 55.98153}
+        - {x: 28.499998, y: 54.98153}
+        - {x: 28.499998, y: -17.01847}
+        - {x: 19.499998, y: -56.01847}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_1'
+      rect:
+        serializedVersion: 2
+        x: 206.02675
+        y: 184.07613
+        width: 99.897125
+        height: 101.91097
+      alignment: 9
+      pivot: {x: 0.49023685, y: 0.69593954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.97531, y: -51.031612}
+        - {x: -49.97531, y: -42.031612}
+        - {x: -49.97531, y: 26.968388}
+        - {x: -48.97531, y: 39.968388}
+        - {x: -26.975311, y: 50.968388}
+        - {x: -16.975311, y: 50.968388}
+        - {x: 30.024689, y: 38.968388}
+        - {x: 50.02469, y: 32.968388}
+        - {x: 50.02469, y: -42.031612}
+        - {x: 21.024689, y: -51.031612}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_2'
+      rect:
+        serializedVersion: 2
+        x: 377.0761
+        y: 185.01291
+        width: 95.87256
+        height: 132.91096
+      alignment: 9
+      pivot: {x: 0.49987078, y: 0.5265712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.01239, y: -66.46839}
+        - {x: -48.01239, y: -61.46839}
+        - {x: -48.01239, y: 5.5316086}
+        - {x: -38.01239, y: 50.53161}
+        - {x: -13.01239, y: 66.53161}
+        - {x: 44.98761, y: 66.53161}
+        - {x: 47.98761, y: 48.53161}
+        - {x: 47.98761, y: -65.46839}
+        - {x: 45.98761, y: -66.46839}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_3'
+      rect:
+        serializedVersion: 2
+        x: 20.07612
+        y: 17.07612
+        width: 123.847755
+        height: 118.847755
+      alignment: 9
+      pivot: {x: 0.5242233, y: 0.5715201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.999996, y: -56.499996}
+        - {x: -61.999996, y: 9.500004}
+        - {x: -61.999996, y: 59.500004}
+        - {x: 45.000004, y: 59.500004}
+        - {x: 62, y: 51.500004}
+        - {x: 62, y: -46.499996}
+        - {x: 43.000004, y: -58.499996}
+        - {x: 38.000004, y: -59.499996}
+        - {x: -26.999998, y: -59.499996}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_4'
+      rect:
+        serializedVersion: 2
+        x: 173.07613
+        y: 24.07612
+        width: 165.84775
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.49397036, y: 0.47283623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: -43.499992}
+        - {x: -83, y: -22.499992}
+        - {x: -83, y: 36.500008}
+        - {x: -81, y: 46.500008}
+        - {x: -14, y: 64.50001}
+        - {x: 48, y: 64.50001}
+        - {x: 76, y: 29.500008}
+        - {x: 83, y: -13.499992}
+        - {x: 83, y: -52.499992}
+        - {x: 49, y: -64.49999}
+        - {x: -72, y: -64.49999}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Enemy]_5'
+      rect:
+        serializedVersion: 2
+        x: 368.02155
+        y: 24.07612
+        width: 128.90231
+        height: 107.847755
+      alignment: 9
+      pivot: {x: 0.44202816, y: 0.56490636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.472702, y: -53.999996}
+        - {x: -64.4727, y: -35.999996}
+        - {x: -64.4727, y: 43.000004}
+        - {x: -18.472702, y: 54.000004}
+        - {x: 37.527298, y: 54.000004}
+        - {x: 52.5273, y: 43.000004}
+        - {x: 59.527298, y: 19.000004}
+        - {x: 64.5273, y: -20.999996}
+        - {x: 64.5273, y: -53}
+        - {x: 50.527298, y: -53.999996}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Dungeon_Enemy]_0': 21300000
+      '[Dungeon_Enemy]_1': 21300002
+      '[Dungeon_Enemy]_2': 21300004
+      '[Dungeon_Enemy]_3': 21300006
+      '[Dungeon_Enemy]_4': 21300008
+      '[Dungeon_Enemy]_5': 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 985a21c91a908ed43b64169fe8695219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Opening_cloud_0
+  - first:
+      213: 21300002
+    second: Opening_cloud_1
+  - first:
+      213: 21300004
+    second: Opening_cloud_2
+  - first:
+      213: 21300006
+    second: Opening_cloud_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Opening_cloud_0
+      rect:
+        serializedVersion: 2
+        x: 65.07612
+        y: 193.07613
+        width: 262.84778
+        height: 58.897125
+      alignment: 9
+      pivot: {x: 0.5133157, y: 0.2703676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: -15.524689}
+        - {x: -131.5, y: -13.524689}
+        - {x: -131.5, y: -9.524689}
+        - {x: -128.5, y: -8.524689}
+        - {x: -125.5, y: -11.524689}
+        - {x: -125.5, y: -3.5246887}
+        - {x: -117.5, y: 6.4753113}
+        - {x: -106.5, y: 8.475311}
+        - {x: -51.5, y: 8.475311}
+        - {x: -31.5, y: -15.524689}
+        - {x: -31.5, y: -29.524689}
+        - {x: -95.5, y: -29.524689}
+        - {x: -125.5, y: -22.524689}
+        - {x: -125.5, y: -13.524689}
+        - {x: -127.5, y: -15.524689}
+      - - {x: -17.5, y: -26.524689}
+        - {x: -18.5, y: -24.524689}
+        - {x: -18.5, y: -19.524689}
+        - {x: 2.5, y: 4.4753113}
+        - {x: 2.5, y: 4.4753113}
+        - {x: 3.5, y: 5.4753113}
+        - {x: 10.5, y: 13.475313}
+        - {x: 79.5, y: 29.475311}
+        - {x: 109.49999, y: 29.475311}
+        - {x: 118.5, y: 22.475311}
+        - {x: 122.50001, y: 26.475311}
+        - {x: 125.5, y: 27.475311}
+        - {x: 131.5, y: 27.475311}
+        - {x: 131.5, y: 19.475311}
+        - {x: 128.5, y: 15.475311}
+        - {x: 122.50001, y: 15.475311}
+        - {x: 122.50001, y: -6.5246887}
+        - {x: 111.50001, y: -26.524689}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opening_cloud_1
+      rect:
+        serializedVersion: 2
+        x: 440.02676
+        y: 193.07613
+        width: 334.94647
+        height: 125.89713
+      alignment: 9
+      pivot: {x: 0.47760835, y: 0.12648322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139.5, y: -58.024693}
+        - {x: -167.5, y: -51.024693}
+        - {x: -167.5, y: 1.9753075}
+        - {x: -150.5, y: 12.975311}
+        - {x: -107.5, y: 12.975311}
+        - {x: -55.5, y: -30.024693}
+        - {x: -43.5, y: -48.024693}
+        - {x: -43.5, y: -58.024693}
+      - - {x: 28.5, y: -63.024693}
+        - {x: -28.5, y: -63.024693}
+        - {x: -28.5, y: -27.024693}
+        - {x: 73.5, y: 62.975307}
+        - {x: 161.5, y: 62.975307}
+        - {x: 165.5, y: 60.975315}
+        - {x: 167.5, y: 56.975307}
+        - {x: 167.5, y: -11.024693}
+        - {x: 149.5, y: -45.024693}
+        - {x: 147.5, y: -51.024693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opening_cloud_2
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 28.07612
+        width: 399.9239
+        height: 142.89713
+      alignment: 9
+      pivot: {x: 0.4999048, y: -0.06351505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151.96193, y: 60.47532}
+        - {x: 154.96193, y: 56.47532}
+        - {x: 154.96193, y: 61.47532}
+        - {x: 158.96193, y: 71.47532}
+        - {x: 183.96193, y: 71.47532}
+        - {x: 199.96193, y: 59.47532}
+        - {x: 199.96193, y: 34.47532}
+        - {x: 189.96193, y: 26.475327}
+        - {x: 175.96193, y: 26.475327}
+        - {x: 175.96193, y: 12.475319}
+        - {x: 160.96193, y: -18.524681}
+        - {x: 149.96193, y: -38.52468}
+        - {x: 106.96194, y: -61.52468}
+        - {x: 85.96193, y: -65.52468}
+        - {x: 67.96193, y: -65.52468}
+        - {x: 67.96193, y: -54.52468}
+        - {x: 79.96193, y: 16.475319}
+        - {x: 78.96193, y: 30.475319}
+        - {x: 114.96193, y: 66.47532}
+        - {x: 139.96193, y: 66.47532}
+      - - {x: -160.03807, y: -67.52468}
+        - {x: -177.03807, y: -59.52468}
+        - {x: -177.03807, y: -9.524681}
+        - {x: -178.03807, y: -14.524681}
+        - {x: -187.03807, y: -14.524681}
+        - {x: -200.03807, y: 5.475319}
+        - {x: -200.03807, y: 25.475311}
+        - {x: -199.03807, y: 28.475319}
+        - {x: -194.03807, y: 34.47532}
+        - {x: -182.03807, y: 34.47532}
+        - {x: -175.03807, y: 31.475319}
+        - {x: -174.03807, y: 30.475319}
+        - {x: -174.03807, y: 18.475319}
+        - {x: -172.03807, y: 25.475311}
+        - {x: -114.03807, y: 25.475311}
+        - {x: -99.03807, y: -31.524681}
+        - {x: -99.03807, y: -71.52468}
+        - {x: -118.03806, y: -71.52468}
+      - - {x: 148.96193, y: -57.52468}
+        - {x: 140.96193, y: -53.52468}
+        - {x: 140.96193, y: -46.52468}
+        - {x: 157.96193, y: -31.524681}
+        - {x: 173.96193, y: -31.524681}
+        - {x: 176.96193, y: -37.52468}
+        - {x: 176.96193, y: -51.52468}
+        - {x: 171.96193, y: -56.52468}
+        - {x: 164.96193, y: -57.52468}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opening_cloud_3
+      rect:
+        serializedVersion: 2
+        x: 414.02676
+        y: 72.02675
+        width: 364.91504
+        height: 112.9465
+      alignment: 9
+      pivot: {x: 0.5096343, y: -0.46948552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177.4843, y: -47.5}
+        - {x: -182.4843, y: -27.5}
+        - {x: -182.4843, y: -4.5000076}
+        - {x: -178.4843, y: -1.4999924}
+        - {x: -169.4843, y: -1.4999924}
+        - {x: -170.4843, y: -0.5}
+        - {x: -170.4843, y: 26.5}
+        - {x: -158.4843, y: 32.5}
+        - {x: -140.4843, y: 32.5}
+        - {x: -129.4843, y: 28.5}
+        - {x: -129.4843, y: 0.5}
+        - {x: -146.4843, y: -13.5}
+        - {x: -155.4843, y: -13.5}
+        - {x: -148.4843, y: -23.5}
+        - {x: -148.4843, y: -46.5}
+        - {x: -150.4843, y: -47.5}
+      - - {x: 102.5157, y: -8.5}
+        - {x: 96.5157, y: 1.5}
+        - {x: 96.5157, y: 29.5}
+        - {x: 130.5157, y: 56.5}
+        - {x: 173.5157, y: 56.5}
+        - {x: 182.5157, y: 49.5}
+        - {x: 182.5157, y: -10.5}
+        - {x: 174.5157, y: -19.5}
+        - {x: 111.51571, y: -19.5}
+      - - {x: -137.4843, y: -56.500004}
+        - {x: -146.4843, y: -51.5}
+        - {x: -146.4843, y: -27.5}
+        - {x: -141.4843, y: -25.5}
+        - {x: -129.4843, y: -25.5}
+        - {x: -120.4843, y: -39.5}
+        - {x: -120.4843, y: -53.5}
+        - {x: -121.4843, y: -56.500004}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Opening_cloud_0: 21300000
+      Opening_cloud_1: 21300002
+      Opening_cloud_2: 21300004
+      Opening_cloud_3: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

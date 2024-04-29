@@ -1,0 +1,1824 @@
+fileFormatVersion: 2
+guid: 66b240056ccc9a54694de55d7dc06256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[Relic]_0'
+  - first:
+      213: 21300002
+    second: '[Relic]_1'
+  - first:
+      213: 21300004
+    second: '[Relic]_2'
+  - first:
+      213: 21300006
+    second: '[Relic]_3'
+  - first:
+      213: 21300008
+    second: '[Relic]_4'
+  - first:
+      213: 21300010
+    second: '[Relic]_5'
+  - first:
+      213: 21300012
+    second: '[Relic]_6'
+  - first:
+      213: 21300014
+    second: '[Relic]_7'
+  - first:
+      213: 21300016
+    second: '[Relic]_8'
+  - first:
+      213: 21300018
+    second: '[Relic]_9'
+  - first:
+      213: 21300020
+    second: '[Relic]_10'
+  - first:
+      213: 21300022
+    second: '[Relic]_11'
+  - first:
+      213: 21300024
+    second: '[Relic]_12'
+  - first:
+      213: 21300026
+    second: '[Relic]_13'
+  - first:
+      213: 21300028
+    second: '[Relic]_14'
+  - first:
+      213: 21300030
+    second: '[Relic]_15'
+  - first:
+      213: 21300032
+    second: '[Relic]_16'
+  - first:
+      213: 21300034
+    second: '[Relic]_17'
+  - first:
+      213: 21300036
+    second: '[Relic]_18'
+  - first:
+      213: 21300038
+    second: '[Relic]_19'
+  - first:
+      213: 21300040
+    second: '[Relic]_20'
+  - first:
+      213: 21300042
+    second: '[Relic]_21'
+  - first:
+      213: 21300044
+    second: '[Relic]_22'
+  - first:
+      213: 21300046
+    second: '[Relic]_23'
+  - first:
+      213: 21300048
+    second: '[Relic]_24'
+  - first:
+      213: 21300050
+    second: '[Relic]_25'
+  - first:
+      213: 21300052
+    second: '[Relic]_26'
+  - first:
+      213: 21300054
+    second: '[Relic]_27'
+  - first:
+      213: 21300056
+    second: '[Relic]_28'
+  - first:
+      213: 21300058
+    second: '[Relic]_29'
+  - first:
+      213: 21300060
+    second: '[Relic]_30'
+  - first:
+      213: 21300062
+    second: '[Relic]_31'
+  - first:
+      213: 21300064
+    second: '[Relic]_32'
+  - first:
+      213: 21300066
+    second: '[Relic]_33'
+  - first:
+      213: 21300068
+    second: '[Relic]_34'
+  - first:
+      213: 21300070
+    second: '[Relic]_35'
+  - first:
+      213: 21300072
+    second: '[Relic]_36'
+  - first:
+      213: 21300074
+    second: '[Relic]_37'
+  - first:
+      213: 21300076
+    second: '[Relic]_38'
+  - first:
+      213: 21300078
+    second: '[Relic]_39'
+  - first:
+      213: 21300080
+    second: '[Relic]_40'
+  - first:
+      213: 21300082
+    second: '[Relic]_41'
+  - first:
+      213: 21300084
+    second: '[Relic]_42'
+  - first:
+      213: 21300086
+    second: '[Relic]_43'
+  - first:
+      213: 21300088
+    second: '[Relic]_44'
+  - first:
+      213: 21300090
+    second: '[Relic]_45'
+  - first:
+      213: 21300092
+    second: '[Relic]_46'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Relic]_0'
+      rect:
+        serializedVersion: 2
+        x: 17.02675
+        y: 892.05133
+        width: 112.96034
+        height: 114.90578
+      alignment: 9
+      pivot: {x: 0.4689544, y: 0.5391258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5069199, y: -57.50422}
+        - {x: -42.50692, y: -50.50422}
+        - {x: -56.506916, y: -3.504219}
+        - {x: -56.506916, y: 38.49578}
+        - {x: -13.50692, y: 57.495777}
+        - {x: 9.49308, y: 57.495777}
+        - {x: 56.493084, y: 51.49578}
+        - {x: 56.493084, y: 13.495781}
+        - {x: 53.49308, y: -20.50422}
+        - {x: 21.49308, y: -57.50422}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_1'
+      rect:
+        serializedVersion: 2
+        x: 162.07613
+        y: 889.0761
+        width: 95.89713
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.4997425, y: 0.5038807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.024693, y: -64.499985}
+        - {x: -48.024693, y: -62.499985}
+        - {x: -48.024693, y: 35.500015}
+        - {x: -37.024693, y: 64.500015}
+        - {x: 24.975307, y: 64.500015}
+        - {x: 47.975307, y: 34.500015}
+        - {x: 47.975307, y: -56.499985}
+        - {x: 28.975307, y: -64.499985}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_2'
+      rect:
+        serializedVersion: 2
+        x: 297.02676
+        y: 898.0761
+        width: 106.909355
+        height: 108.84776
+      alignment: 9
+      pivot: {x: 0.49549672, y: 0.5137808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.48144, y: -54.499992}
+        - {x: -53.481438, y: -33.499992}
+        - {x: -53.481438, y: 17.500008}
+        - {x: -30.481443, y: 28.50001}
+        - {x: -32.48144, y: 41.500008}
+        - {x: -25.481441, y: 52.500008}
+        - {x: -18.481441, y: 54.500004}
+        - {x: 25.518559, y: 54.500004}
+        - {x: 53.518562, y: 32.500008}
+        - {x: 53.518562, y: -11.499992}
+        - {x: 45.51856, y: -28.499994}
+        - {x: 29.51856, y: -50.499992}
+        - {x: 13.5185585, y: -54.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_3'
+      rect:
+        serializedVersion: 2
+        x: 437.0761
+        y: 903.0761
+        width: 110.89713
+        height: 104.89713
+      alignment: 9
+      pivot: {x: 0.47723407, y: 0.48546502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.524677, y: -51.524677}
+        - {x: -55.524673, y: -24.524677}
+        - {x: -55.524673, y: 23.475323}
+        - {x: -44.524677, y: 34.475323}
+        - {x: -8.524677, y: 45.475323}
+        - {x: -8.524677, y: 52.475327}
+        - {x: 20.475323, y: 52.475327}
+        - {x: 55.475323, y: 25.475325}
+        - {x: 55.475323, y: -47.524677}
+        - {x: 25.475323, y: -52.524677}
+        - {x: -40.524677, y: -52.524677}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_4'
+      rect:
+        serializedVersion: 2
+        x: 576.05414
+        y: 895.0761
+        width: 112.90959
+        height: 113.91097
+      alignment: 9
+      pivot: {x: 0.47777927, y: 0.51728016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.508934, y: -51.031597}
+        - {x: -23.508934, y: -48.0316}
+        - {x: -17.508934, y: -25.031603}
+        - {x: -33.508934, y: -43.0316}
+        - {x: -48.508934, y: -57.031597}
+        - {x: -56.508938, y: -57.031597}
+        - {x: -56.508938, y: -14.031601}
+        - {x: -30.508934, y: 49.9684}
+        - {x: -13.508934, y: 56.9684}
+        - {x: 8.491066, y: 56.9684}
+        - {x: 56.491062, y: 48.9684}
+        - {x: 56.491062, y: -41.0316}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_5'
+      rect:
+        serializedVersion: 2
+        x: 707.02673
+        y: 893.0761
+        width: 123.897125
+        height: 118.89713
+      alignment: 9
+      pivot: {x: 0.5082706, y: 0.5124084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.024708, y: -59.52468}
+        - {x: -61.975292, y: -59.52468}
+        - {x: -61.975292, y: 40.47532}
+        - {x: -12.975292, y: 59.47532}
+        - {x: 24.024708, y: 59.47532}
+        - {x: 59.024708, y: 23.475319}
+        - {x: 62.024708, y: 11.475319}
+        - {x: 62.024708, y: -36.52468}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_6'
+      rect:
+        serializedVersion: 2
+        x: 867.05975
+        y: 914.0761
+        width: 87.86415
+        height: 77.89713
+      alignment: 9
+      pivot: {x: 0.4887118, y: 0.5125207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.008171, y: -39.024677}
+        - {x: -43.99183, y: -8.024677}
+        - {x: -43.99183, y: 35.975323}
+        - {x: -40.99183, y: 38.975323}
+        - {x: -8.991829, y: 38.975323}
+        - {x: 44.00817, y: -23.024677}
+        - {x: 44.00817, y: -39.024677}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_7'
+      rect:
+        serializedVersion: 2
+        x: 4.026751
+        y: 754.0761
+        width: 126.897125
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.51989555, y: 0.5172641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.47531, y: -57.999992}
+        - {x: -63.47531, y: -49.99999}
+        - {x: -63.47531, y: -29.999989}
+        - {x: 50.52469, y: 58.00001}
+        - {x: 63.52469, y: 58.00001}
+        - {x: 63.52469, y: 18.000011}
+        - {x: 57.52469, y: -9.999989}
+        - {x: -0.47531128, y: -50.999985}
+        - {x: -25.475311, y: -57.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_8'
+      rect:
+        serializedVersion: 2
+        x: 147.07613
+        y: 764.0761
+        width: 124.880974
+        height: 99.84776
+      alignment: 9
+      pivot: {x: 0.5038708, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.483387, y: -49.999992}
+        - {x: -62.516613, y: -49.999992}
+        - {x: -62.516613, y: 47.000008}
+        - {x: -55.516613, y: 50.000008}
+        - {x: 52.483387, y: 50.000008}
+        - {x: 62.483387, y: 23.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_9'
+      rect:
+        serializedVersion: 2
+        x: 293.0761
+        y: 751.0761
+        width: 115.847755
+        height: 125.89713
+      alignment: 9
+      pivot: {x: 0.4913681, y: 0.499804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.99999, y: -63.024677}
+        - {x: -57.99999, y: -25.024677}
+        - {x: -57.99999, y: 40.975323}
+        - {x: -31.999989, y: 59.975327}
+        - {x: -24.999989, y: 62.975323}
+        - {x: 42.00001, y: 62.975323}
+        - {x: 58.000008, y: 33.975323}
+        - {x: 58.000008, y: -44.024677}
+        - {x: 36.00001, y: -60.02468}
+        - {x: 21.000011, y: -63.024677}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_10'
+      rect:
+        serializedVersion: 2
+        x: 429.02676
+        y: 755.0761
+        width: 121.897125
+        height: 115.84776
+      alignment: 9
+      pivot: {x: 0.5002024, y: 0.50863206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.975327, y: -25.999998}
+        - {x: -60.975327, y: -3.9999962}
+        - {x: -60.975327, y: 55.000008}
+        - {x: -58.975323, y: 58.000004}
+        - {x: 1.0246735, y: 58.000004}
+        - {x: 28.024673, y: 32.000004}
+        - {x: 47.024673, y: -12.999996}
+        - {x: 61.024673, y: -42.999996}
+        - {x: 61.024673, y: -49.999996}
+        - {x: 55.024673, y: -57.999992}
+        - {x: 42.024673, y: -57.999992}
+        - {x: -14.9753275, y: -43.999996}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_11'
+      rect:
+        serializedVersion: 2
+        x: 569.0223
+        y: 767.02673
+        width: 117.93898
+        height: 87.93034
+      alignment: 9
+      pivot: {x: 0.51702774, y: 0.53420997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.991768, y: -43.991905}
+        - {x: -58.991768, y: -31.991905}
+        - {x: -58.991768, y: 4.008095}
+        - {x: -13.991768, y: 44.008095}
+        - {x: 17.008232, y: 44.008095}
+        - {x: 59.008232, y: -4.991905}
+        - {x: 59.008232, y: -27.991905}
+        - {x: 41.008232, y: -33.991905}
+        - {x: 0.008232117, y: -42.991905}
+        - {x: -3.991768, y: -43.991905}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_12'
+      rect:
+        serializedVersion: 2
+        x: 715.0761
+        y: 765.01294
+        width: 107.84776
+        height: 95.96034
+      alignment: 9
+      pivot: {x: 0.5092724, y: 0.51049274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.999992, y: -45.993114}
+        - {x: -30.999992, y: -6.9931145}
+        - {x: -30.999992, y: -8.993114}
+        - {x: -32.999992, y: -13.993115}
+        - {x: -47.999992, y: -13.993115}
+        - {x: -53.999992, y: -11.993114}
+        - {x: -53.999992, y: 10.006886}
+        - {x: -52.999996, y: 17.006886}
+        - {x: -49.999992, y: 18.006886}
+        - {x: -45.999992, y: 18.006886}
+        - {x: -38.999992, y: 18.006886}
+        - {x: -36.999992, y: 17.006886}
+        - {x: -36.999992, y: 19.006886}
+        - {x: -45.999992, y: 18.006886}
+        - {x: -47.999992, y: 22.006886}
+        - {x: -47.999992, y: 37.006886}
+        - {x: -39.999992, y: 44.006886}
+        - {x: -18.999992, y: 48.006886}
+        - {x: 53.000008, y: 48.006886}
+        - {x: 54.000004, y: 37.006886}
+        - {x: 54.000004, y: -47.993114}
+        - {x: -19.999992, y: -47.993114}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_13'
+      rect:
+        serializedVersion: 2
+        x: 856.05133
+        y: 754.0761
+        width: 110.87257
+        height: 118.87618
+      alignment: 9
+      pivot: {x: 0.48658267, y: 0.5040866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.487614, y: -59.514202}
+        - {x: -55.487617, y: -59.514202}
+        - {x: -55.487617, y: -29.5142}
+        - {x: -28.487616, y: 44.4858}
+        - {x: 6.5123863, y: 59.485798}
+        - {x: 12.512386, y: 58.4858}
+        - {x: 42.512386, y: 51.4858}
+        - {x: 50.512386, y: 46.4858}
+        - {x: 55.512386, y: 40.4858}
+        - {x: 55.512386, y: -7.5141983}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_14'
+      rect:
+        serializedVersion: 2
+        x: 34.026752
+        y: 604
+        width: 74.96034
+        height: 132.94868
+      alignment: 9
+      pivot: {x: 0.47989705, y: 0.52651894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.493076, y: -50.474346}
+        - {x: 30.493076, y: -47.474342}
+        - {x: 32.493076, y: -45.474342}
+        - {x: 35.493076, y: -46.474342}
+        - {x: 35.493076, y: -49.47434}
+      - - {x: -14.506924, y: -61.474342}
+        - {x: -37.506924, y: -50.474346}
+        - {x: -37.506924, y: -16.474342}
+        - {x: -24.506924, y: 47.525658}
+        - {x: -3.5069237, y: 66.52566}
+        - {x: 5.4930763, y: 66.52566}
+        - {x: 23.493076, y: 50.525658}
+        - {x: 37.493076, y: -34.474342}
+        - {x: 37.493076, y: -41.474342}
+        - {x: 32.493076, y: -45.474342}
+        - {x: 12.493076, y: -61.474342}
+      - - {x: -0.5069237, y: -66.47434}
+        - {x: -8.506924, y: -66.47434}
+        - {x: -8.506924, y: -65.47434}
+        - {x: -5.5069237, y: -62.474342}
+        - {x: -3.5069237, y: -62.474342}
+        - {x: -0.5069237, y: -65.47434}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_15'
+      rect:
+        serializedVersion: 2
+        x: 149.06306
+        y: 609.0761
+        width: 123.92403
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.4917282, y: 0.5038807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.974922, y: -64.499985}
+        - {x: -62.025078, y: -64.499985}
+        - {x: -62.025078, y: 59.50001}
+        - {x: -53.025078, y: 64.500015}
+        - {x: -30.025078, y: 64.500015}
+        - {x: -13.025078, y: 61.500015}
+        - {x: 44.974922, y: 16.500015}
+        - {x: 61.974922, y: -6.4999847}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_16'
+      rect:
+        serializedVersion: 2
+        x: 287.0429
+        y: 612.0761
+        width: 124.88097
+        height: 122.878395
+      alignment: 9
+      pivot: {x: 0.5041368, y: 0.50394446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.483391, y: -61.515312}
+        - {x: -26.483393, y: -61.515312}
+        - {x: -26.483393, y: -60.515312}
+        - {x: -62.48339, y: -9.515312}
+        - {x: -62.48339, y: 4.484688}
+        - {x: -56.48339, y: 19.484688}
+        - {x: 2.5166092, y: 61.484688}
+        - {x: 55.51661, y: 61.484688}
+        - {x: 62.51661, y: 54.48469}
+        - {x: 62.51661, y: 2.4846878}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_17'
+      rect:
+        serializedVersion: 2
+        x: 439.02676
+        y: 610.006
+        width: 109.93034
+        height: 126.96728
+      alignment: 9
+      pivot: {x: 0.46368667, y: 0.5040198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.008064, y: -63.489616}
+        - {x: -54.991936, y: 31.510384}
+        - {x: -54.991936, y: 63.510384}
+        - {x: -18.991936, y: 63.510384}
+        - {x: 46.008064, y: -20.489616}
+        - {x: 55.00806, y: -47.489616}
+        - {x: 55.00806, y: -58.489613}
+        - {x: 50.008068, y: -63.489616}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_18'
+      rect:
+        serializedVersion: 2
+        x: 566.02673
+        y: 608.0761
+        width: 128.89713
+        height: 128.84775
+      alignment: 9
+      pivot: {x: 0.4963126, y: 0.51164174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.475296, y: -64.499985}
+        - {x: -64.475296, y: -49.499985}
+        - {x: -64.475296, y: 29.500015}
+        - {x: 21.524704, y: 64.500015}
+        - {x: 64.524704, y: 64.500015}
+        - {x: 64.524704, y: 13.500015}
+        - {x: 11.524704, y: -61.499985}
+        - {x: -1.475296, y: -64.499985}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_19'
+      rect:
+        serializedVersion: 2
+        x: 701.0761
+        y: 620.0761
+        width: 130.84775
+        height: 97.84776
+      alignment: 9
+      pivot: {x: 0.5267488, y: 0.55109984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.499985, y: -49}
+        - {x: -65.499985, y: -13.999996}
+        - {x: -65.499985, y: 19.000004}
+        - {x: -44.499985, y: 49.000004}
+        - {x: 12.500015, y: 49.000004}
+        - {x: 40.500015, y: 46.000004}
+        - {x: 65.500015, y: -25.999996}
+        - {x: 65.500015, y: -38.999996}
+        - {x: 60.500015, y: -44.999996}
+        - {x: 61.500015, y: -46.999996}
+        - {x: 59.500015, y: -49}
+        - {x: 58.500015, y: -49}
+        - {x: 56.50001, y: -49}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_20'
+      rect:
+        serializedVersion: 2
+        x: 847.02673
+        y: 612.0761
+        width: 122.9465
+        height: 121.8926
+      alignment: 9
+      pivot: {x: 0.51220053, y: 0.5080201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.49999, y: -46.022408}
+        - {x: -61.49999, y: -23.022408}
+        - {x: -61.49999, y: 15.977593}
+        - {x: -55.49999, y: 44.977592}
+        - {x: -26.499989, y: 60.977596}
+        - {x: 49.50001, y: 60.977596}
+        - {x: 61.500015, y: 32.977592}
+        - {x: 61.500015, y: -49.022408}
+        - {x: 38.50001, y: -61.022408}
+        - {x: -16.499989, y: -61.022408}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_21'
+      rect:
+        serializedVersion: 2
+        x: 15.042908
+        y: 465.0761
+        width: 104.880974
+        height: 129.89713
+      alignment: 9
+      pivot: {x: 0.52399486, y: 0.53060365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5166054, y: -59.024673}
+        - {x: -25.483395, y: -45.024673}
+        - {x: -25.483395, y: -45.024673}
+        - {x: -29.483395, y: -45.024673}
+        - {x: -31.483395, y: -41.024673}
+        - {x: -36.483395, y: -38.024673}
+        - {x: -52.483395, y: 4.9753265}
+        - {x: -52.483395, y: 29.975327}
+        - {x: 9.516605, y: 64.97533}
+        - {x: 25.516605, y: 64.97533}
+        - {x: 52.516605, y: 32.975327}
+        - {x: 52.516605, y: 19.975327}
+        - {x: 44.516605, y: -35.024673}
+        - {x: 12.516605, y: -59.024673}
+      - - {x: -10.483395, y: -65.02467}
+        - {x: -12.483396, y: -64.02467}
+        - {x: -12.483396, y: -61.024673}
+        - {x: -11.483395, y: -59.024673}
+        - {x: -6.4833946, y: -59.024673}
+        - {x: -5.4833946, y: -60.024673}
+        - {x: -5.4833946, y: -64.02467}
+        - {x: -7.4833946, y: -65.02467}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_22'
+      rect:
+        serializedVersion: 2
+        x: 162.02675
+        y: 478.02676
+        width: 98.89713
+        height: 112.9465
+      alignment: 9
+      pivot: {x: 0.48508233, y: 0.49557298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.475315, y: -56.500015}
+        - {x: -49.475315, y: -45.500015}
+        - {x: -49.475315, y: -23.500015}
+        - {x: 2.524685, y: 56.499985}
+        - {x: 29.524685, y: 56.499985}
+        - {x: 46.524685, y: 30.499985}
+        - {x: 49.524685, y: 25.499985}
+        - {x: 49.524685, y: -10.500015}
+        - {x: 26.524685, y: -46.500015}
+        - {x: -18.475315, y: -56.500015}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_23'
+      rect:
+        serializedVersion: 2
+        x: 294.0761
+        y: 482.0761
+        width: 112.84776
+        height: 103.84776
+      alignment: 9
+      pivot: {x: 0.49556932, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.500008, y: -51.999992}
+        - {x: -56.499992, y: 2.0000076}
+        - {x: -56.499992, y: 49.000008}
+        - {x: -50.499992, y: 52.000008}
+        - {x: -0.49999237, y: 52.000008}
+        - {x: 29.50001, y: 24.000008}
+        - {x: 56.500008, y: 0.0000076293945}
+        - {x: 56.500008, y: -35.999992}
+        - {x: 50.500008, y: -51.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_24'
+      rect:
+        serializedVersion: 2
+        x: 425.0761
+        y: 478.02676
+        width: 130.89713
+        height: 93.89713
+      alignment: 9
+      pivot: {x: 0.4959917, y: 0.5961123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.524673, y: -2.9753304}
+        - {x: -65.52467, y: -0.97533035}
+        - {x: -65.52467, y: 40.02467}
+        - {x: -30.524675, y: 47.02467}
+        - {x: 34.475327, y: 47.02467}
+        - {x: 65.47533, y: 13.02467}
+        - {x: 65.47533, y: -5.9753313}
+        - {x: 56.475327, y: -27.97533}
+        - {x: -6.5246735, y: -46.97533}
+        - {x: -23.524673, y: -46.97533}
+        - {x: -25.524673, y: -45.97533}
+        - {x: -41.524673, y: -25.97533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_25'
+      rect:
+        serializedVersion: 2
+        x: 568.0761
+        y: 488.0761
+        width: 122.89713
+        height: 69.84776
+      alignment: 9
+      pivot: {x: 0.5038676, y: 0.6574855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.52468, y: -34.999992}
+        - {x: -61.52468, y: -23.999992}
+        - {x: -61.52468, y: 19.000008}
+        - {x: -56.52468, y: 35.000008}
+        - {x: 41.47532, y: 35.000008}
+        - {x: 61.47532, y: 28.000008}
+        - {x: 61.47532, y: -15.999994}
+        - {x: 50.47532, y: -34.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_26'
+      rect:
+        serializedVersion: 2
+        x: 718.0761
+        y: 465.0761
+        width: 99.89713
+        height: 136.84775
+      alignment: 9
+      pivot: {x: 0.51977354, y: 0.5036538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.02468, y: -68.499985}
+        - {x: -50.02468, y: -62.499985}
+        - {x: -50.02468, y: 51.500015}
+        - {x: -49.02468, y: 63.500015}
+        - {x: -37.02468, y: 68.500015}
+        - {x: 23.975319, y: 68.500015}
+        - {x: 49.97532, y: 55.500015}
+        - {x: 49.97532, y: -62.499985}
+        - {x: 35.97532, y: -68.499985}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_27'
+      rect:
+        serializedVersion: 2
+        x: 853.0761
+        y: 468.02676
+        width: 115.880974
+        height: 128.89713
+      alignment: 9
+      pivot: {x: 0.49122724, y: 0.5118286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.016598, y: -63.475327}
+        - {x: -58.016598, y: -61.475327}
+        - {x: -58.016598, y: -15.475327}
+        - {x: 45.983402, y: 64.52467}
+        - {x: 56.983402, y: 64.52467}
+        - {x: 57.9834, y: 63.524673}
+        - {x: 57.9834, y: 46.524673}
+        - {x: 37.983402, y: -0.47532654}
+        - {x: 8.983402, y: -36.475327}
+        - {x: -49.016598, y: -64.47533}
+        - {x: -56.016598, y: -64.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_28'
+      rect:
+        serializedVersion: 2
+        x: 23.051317
+        y: 340.0761
+        width: 90.909935
+        height: 106.89713
+      alignment: 9
+      pivot: {x: 0.51643074, y: 0.50444657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.506285, y: -53.524677}
+        - {x: -45.506283, y: 22.475327}
+        - {x: -45.506283, y: 41.475327}
+        - {x: -32.506283, y: 52.475327}
+        - {x: -30.506283, y: 53.475323}
+        - {x: -13.506284, y: 53.475323}
+        - {x: 27.493717, y: 11.475327}
+        - {x: 45.493717, y: -3.5246735}
+        - {x: 45.493717, y: -24.524673}
+        - {x: 40.493717, y: -40.524673}
+        - {x: 13.493717, y: -53.524677}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_29'
+      rect:
+        serializedVersion: 2
+        x: 143.02675
+        y: 328.0761
+        width: 132.96729
+        height: 129.87256
+      alignment: 9
+      pivot: {x: 0.5036822, y: 0.5076045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.51039, y: -65.01239}
+        - {x: -66.51039, y: -35.01239}
+        - {x: -66.51039, y: 50.98761}
+        - {x: -21.510391, y: 64.98761}
+        - {x: 66.48961, y: 64.98761}
+        - {x: 66.48961, y: -42.01239}
+        - {x: -6.510391, y: -65.01239}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_30'
+      rect:
+        serializedVersion: 2
+        x: 291.02676
+        y: 353.02676
+        width: 119.9465
+        height: 84.925545
+      alignment: 9
+      pivot: {x: 0.49166283, y: 0.48246068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.000015, y: -42.489536}
+        - {x: -60.00001, y: -24.489536}
+        - {x: -60.00001, y: 15.510464}
+        - {x: -45.000015, y: 42.510464}
+        - {x: 16.999985, y: 42.510464}
+        - {x: 59.999985, y: 13.510465}
+        - {x: 59.999985, y: -28.489538}
+        - {x: 42.999985, y: -42.489536}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_31'
+      rect:
+        serializedVersion: 2
+        x: 428.0761
+        y: 335.02676
+        width: 123.847755
+        height: 117.897125
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5002093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.99999, y: -58.975323}
+        - {x: -61.999985, y: -39.975327}
+        - {x: -61.999985, y: 54.024677}
+        - {x: -38.999985, y: 59.02467}
+        - {x: 62.000015, y: 59.02467}
+        - {x: 62.000015, y: -58.975323}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_32'
+      rect:
+        serializedVersion: 2
+        x: 568.0761
+        y: 335.03076
+        width: 124.89713
+        height: 120.96327
+      alignment: 9
+      pivot: {x: 0.49579912, y: 0.48749706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.524677, y: -60.512394}
+        - {x: -62.524677, y: -11.512398}
+        - {x: -62.524677, y: 32.487602}
+        - {x: -42.524677, y: 51.4876}
+        - {x: -0.5246773, y: 60.487602}
+        - {x: 13.475323, y: 60.487602}
+        - {x: 62.475323, y: -5.512398}
+        - {x: 62.475323, y: -21.512398}
+        - {x: 55.475323, y: -53.512398}
+        - {x: 45.475323, y: -60.512394}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_33'
+      rect:
+        serializedVersion: 2
+        x: 708.0761
+        y: 338.0129
+        width: 125.91503
+        height: 108.950806
+      alignment: 9
+      pivot: {x: 0.49179107, y: 0.51387495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.033627, y: -54.48831}
+        - {x: -63.033627, y: -29.488312}
+        - {x: -63.033627, y: 4.511688}
+        - {x: -53.033627, y: 39.51169}
+        - {x: -21.033627, y: 54.511684}
+        - {x: -11.033627, y: 54.511684}
+        - {x: 48.966373, y: 36.51169}
+        - {x: 62.966373, y: 0.51168823}
+        - {x: 62.966373, y: -17.488312}
+        - {x: 12.966373, y: -54.48831}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_34'
+      rect:
+        serializedVersion: 2
+        x: 856.01294
+        y: 346.0761
+        width: 109.96034
+        height: 96.84776
+      alignment: 9
+      pivot: {x: 0.49096847, y: 0.49483734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.993107, y: -34.499992}
+        - {x: -54.993114, y: -27.499994}
+        - {x: -54.993114, y: -1.4999924}
+        - {x: -3.9931107, y: 48.500008}
+        - {x: 28.00689, y: 48.500008}
+        - {x: 55.00689, y: 39.500008}
+        - {x: 55.00689, y: -6.4999924}
+        - {x: 52.006886, y: -30.499994}
+        - {x: 13.006889, y: -48.499992}
+        - {x: -40.99311, y: -48.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_35'
+      rect:
+        serializedVersion: 2
+        x: 12.012913
+        y: 198.01291
+        width: 116.910965
+        height: 107.935776
+      alignment: 9
+      pivot: {x: 0.49599358, y: 0.51870745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.468395, y: -48.980797}
+        - {x: -58.468395, y: -46.980797}
+        - {x: -58.468395, y: 5.019203}
+        - {x: -42.468395, y: 40.019203}
+        - {x: -22.468395, y: 54.019203}
+        - {x: 14.531606, y: 54.019203}
+        - {x: 45.531605, y: 44.019203}
+        - {x: 58.5316, y: 9.019203}
+        - {x: 58.5316, y: -53.980797}
+        - {x: 10.531605, y: -53.980797}
+        - {x: -4.468395, y: -47.980797}
+        - {x: -15.468396, y: -42.980797}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_36'
+      rect:
+        serializedVersion: 2
+        x: 171.01291
+        y: 190.02675
+        width: 82.910965
+        height: 118.89713
+      alignment: 9
+      pivot: {x: 0.4702284, y: 0.5380555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.531609, y: -59.47531}
+        - {x: -21.468391, y: -59.47531}
+        - {x: -41.46839, y: -35.47531}
+        - {x: -41.46839, y: 59.52469}
+        - {x: 38.53161, y: 59.52469}
+        - {x: 41.53161, y: 45.52469}
+        - {x: 41.53161, y: -43.47531}
+        - {x: 33.53161, y: -49.475315}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_37'
+      rect:
+        serializedVersion: 2
+        x: 298.0761
+        y: 199.02675
+        width: 100.86568
+        height: 106.9465
+      alignment: 9
+      pivot: {x: 0.51478255, y: 0.5140257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.50895, y: -43.5}
+        - {x: -50.50895, y: 4.5}
+        - {x: -50.50895, y: 36.5}
+        - {x: -32.50895, y: 53.5}
+        - {x: 23.49105, y: 53.5}
+        - {x: 50.49105, y: 33.5}
+        - {x: 50.49105, y: -42.5}
+        - {x: 45.49105, y: -53.5}
+        - {x: -18.50895, y: -53.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_38'
+      rect:
+        serializedVersion: 2
+        x: 430.02676
+        y: 199.07613
+        width: 117.89713
+        height: 112.84776
+      alignment: 9
+      pivot: {x: 0.5086912, y: 0.4867077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.975334, y: -46.500008}
+        - {x: -58.975338, y: -22.500008}
+        - {x: -58.975338, y: 56.499992}
+        - {x: 15.024666, y: 56.499992}
+        - {x: 42.024666, y: 53.499992}
+        - {x: 59.024666, y: 16.499992}
+        - {x: 59.024666, y: -51.500008}
+        - {x: 53.024666, y: -56.500008}
+        - {x: -19.975334, y: -56.500008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_39'
+      rect:
+        serializedVersion: 2
+        x: 567.0761
+        y: 192.01291
+        width: 125.847755
+        height: 116.97418
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5299211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.999985, y: -58.500004}
+        - {x: -62.999985, y: -10.500004}
+        - {x: -62.999985, y: 19.499996}
+        - {x: -31.999985, y: 57.5}
+        - {x: -25.999985, y: 58.499996}
+        - {x: 63.000015, y: 58.499996}
+        - {x: 63.000015, y: -17.500004}
+        - {x: 25.000015, y: -58.500004}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_40'
+      rect:
+        serializedVersion: 2
+        x: 712.02673
+        y: 209.07613
+        width: 117.92555
+        height: 81.89713
+      alignment: 9
+      pivot: {x: 0.49160904, y: 0.54854023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.98951, y: -38.024693}
+        - {x: -58.98951, y: -24.024693}
+        - {x: -58.98951, y: 31.975307}
+        - {x: -22.98951, y: 40.975307}
+        - {x: 50.01049, y: 40.975307}
+        - {x: 59.010494, y: 30.97531}
+        - {x: 59.010494, y: -2.0246925}
+        - {x: 41.01049, y: -40.024693}
+        - {x: 37.01049, y: -41.024693}
+        - {x: -16.98951, y: -41.024693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_41'
+      rect:
+        serializedVersion: 2
+        x: 849.0761
+        y: 198.07613
+        width: 121.87257
+        height: 103.89713
+      alignment: 9
+      pivot: {x: 0.4998983, y: 0.53826195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.012394, y: -48.024693}
+        - {x: -61.012394, y: -34.024693}
+        - {x: -61.012394, y: -11.0246935}
+        - {x: -22.012394, y: 51.975307}
+        - {x: -8.012394, y: 51.975307}
+        - {x: 14.987607, y: 45.975307}
+        - {x: 27.987606, y: 38.975307}
+        - {x: 60.987606, y: -9.024693}
+        - {x: 60.987606, y: -22.024693}
+        - {x: 47.987606, y: -38.024693}
+        - {x: 36.987606, y: -48.024693}
+      - - {x: -37.012394, y: -52.024693}
+        - {x: -40.012394, y: -49.02469}
+        - {x: -40.012394, y: -47.024693}
+        - {x: -38.012394, y: -44.024693}
+        - {x: -34.012394, y: -43.024693}
+        - {x: -32.012394, y: -45.024693}
+        - {x: -32.012394, y: -48.024693}
+        - {x: -36.012394, y: -52.024693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_42'
+      rect:
+        serializedVersion: 2
+        x: 23.068026
+        y: 65.07612
+        width: 95.85586
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.4896099, y: 0.49974784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.004047, y: -49.024685}
+        - {x: -47.995953, y: -49.024685}
+        - {x: -47.995953, y: 39.975315}
+        - {x: -22.995953, y: 48.975315}
+        - {x: 45.004047, y: 48.975315}
+        - {x: 48.004047, y: 47.975315}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_43'
+      rect:
+        serializedVersion: 2
+        x: 148.07613
+        y: 62.02675
+        width: 123.880974
+        height: 103.9465
+      alignment: 9
+      pivot: {x: 0.4998659, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.016613, y: -52}
+        - {x: -62.016613, y: 26}
+        - {x: -62.016613, y: 37}
+        - {x: -28.016613, y: 52}
+        - {x: 5.983387, y: 52}
+        - {x: 32.983387, y: 46}
+        - {x: 61.983387, y: 23}
+        - {x: 61.983387, y: 9}
+        - {x: 45.983387, y: -52}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_44'
+      rect:
+        serializedVersion: 2
+        x: 302.06802
+        y: 65.07612
+        width: 95.85586
+        height: 97.89713
+      alignment: 9
+      pivot: {x: 0.5000422, y: 0.49974784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.004044, y: -49.024685}
+        - {x: -47.995956, y: -49.024685}
+        - {x: -47.995956, y: 39.975315}
+        - {x: -22.995956, y: 48.975315}
+        - {x: 45.004044, y: 48.975315}
+        - {x: 48.004044, y: 47.975315}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_45'
+      rect:
+        serializedVersion: 2
+        x: 437.0761
+        y: 58.07612
+        width: 104.87257
+        height: 109.86568
+      alignment: 9
+      pivot: {x: 0.5046495, y: 0.5090205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.487606, y: -55.008957}
+        - {x: -52.51239, y: -55.008957}
+        - {x: -52.51239, y: 8.991043}
+        - {x: -36.512394, y: 29.991043}
+        - {x: -4.512394, y: 54.991047}
+        - {x: 34.487606, y: 54.991047}
+        - {x: 50.487606, y: 48.991043}
+        - {x: 52.487606, y: 44.991043}
+        - {x: 52.487606, y: -16.008957}
+        - {x: 43.487606, y: -47.008957}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Relic]_46'
+      rect:
+        serializedVersion: 2
+        x: 582.02673
+        y: 54.02675
+        width: 97.89713
+        height: 119.9465
+      alignment: 9
+      pivot: {x: 0.4900375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.0247, y: -60.000004}
+        - {x: -48.9753, y: -60.000004}
+        - {x: -48.9753, y: 14}
+        - {x: -8.9753, y: 60.000004}
+        - {x: 47.0247, y: 60.000004}
+        - {x: 49.0247, y: 58}
+        - {x: 49.0247, y: 4}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Relic]_0': 21300000
+      '[Relic]_1': 21300002
+      '[Relic]_10': 21300020
+      '[Relic]_11': 21300022
+      '[Relic]_12': 21300024
+      '[Relic]_13': 21300026
+      '[Relic]_14': 21300028
+      '[Relic]_15': 21300030
+      '[Relic]_16': 21300032
+      '[Relic]_17': 21300034
+      '[Relic]_18': 21300036
+      '[Relic]_19': 21300038
+      '[Relic]_2': 21300004
+      '[Relic]_20': 21300040
+      '[Relic]_21': 21300042
+      '[Relic]_22': 21300044
+      '[Relic]_23': 21300046
+      '[Relic]_24': 21300048
+      '[Relic]_25': 21300050
+      '[Relic]_26': 21300052
+      '[Relic]_27': 21300054
+      '[Relic]_28': 21300056
+      '[Relic]_29': 21300058
+      '[Relic]_3': 21300006
+      '[Relic]_30': 21300060
+      '[Relic]_31': 21300062
+      '[Relic]_32': 21300064
+      '[Relic]_33': 21300066
+      '[Relic]_34': 21300068
+      '[Relic]_35': 21300070
+      '[Relic]_36': 21300072
+      '[Relic]_37': 21300074
+      '[Relic]_38': 21300076
+      '[Relic]_39': 21300078
+      '[Relic]_4': 21300008
+      '[Relic]_40': 21300080
+      '[Relic]_41': 21300082
+      '[Relic]_42': 21300084
+      '[Relic]_43': 21300086
+      '[Relic]_44': 21300088
+      '[Relic]_45': 21300090
+      '[Relic]_46': 21300092
+      '[Relic]_5': 21300010
+      '[Relic]_6': 21300012
+      '[Relic]_7': 21300014
+      '[Relic]_8': 21300016
+      '[Relic]_9': 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

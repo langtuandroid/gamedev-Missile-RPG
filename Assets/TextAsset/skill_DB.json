@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "name": "크고 아름다운 미사일",
+        "cool": 300,
+        "time": 0,
+        "value": 125,
+        "valueplus": 25,
+        "price": 20000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 1,
+        "name": "시체 줍기",
+        "cool": 1800,
+        "time": 30,
+        "value": 25,
+        "valueplus": 5,
+        "price": 1000000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 2,
+        "name": "융단폭격",
+        "cool": 600,
+        "time": 30,
+        "value": 100,
+        "valueplus": 25,
+        "price": 100000000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 3,
+        "name": "양손 재블린",
+        "cool": 900,
+        "time": 27,
+        "value": 27,
+        "valueplus": 3,
+        "price": 20000000000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 4,
+        "name": "약물 중독자",
+        "cool": 1200,
+        "time": 30,
+        "value": 30,
+        "valueplus": 20,
+        "price": 8000000000000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 5,
+        "name": "겟더뻑업",
+        "cool": 1500,
+        "time": 30,
+        "value": 300,
+        "valueplus": 15,
+        "price": 6400000000000000,
+        "priceplus": 100,
+        "maxlv": 50
+    },
+    {
+        "id": 6,
+        "name": "응징자",
+        "cool": 600,
+        "time": 0,
+        "value": 0,
+        "valueplus": 0,
+        "price": 0,
+        "priceplus": 100,
+        "maxlv": 50
+    }
+]

@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: d46ac4c61dd05ab47aa8d02a510622ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[PortalShardMuseum]_0'
+  - first:
+      213: 21300002
+    second: '[PortalShardMuseum]_1'
+  - first:
+      213: 21300004
+    second: '[PortalShardMuseum]_2'
+  - first:
+      213: 21300006
+    second: '[PortalShardMuseum]_3'
+  - first:
+      213: 21300008
+    second: '[PortalShardMuseum]_4'
+  - first:
+      213: 21300010
+    second: '[PortalShardMuseum]_5'
+  - first:
+      213: 21300012
+    second: '[PortalShardMuseum]_6'
+  - first:
+      213: 21300014
+    second: '[PortalShardMuseum]_7'
+  - first:
+      213: 21300016
+    second: '[PortalShardMuseum]_8'
+  - first:
+      213: 21300018
+    second: '[PortalShardMuseum]_9'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392.02676
+        width: 119.92388
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.50031734, y: 0.5288233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.03806, y: -26.475328}
+        - {x: -59.96195, y: -26.475328}
+        - {x: -59.96195, y: 9.524672}
+        - {x: -46.961945, y: 26.524672}
+        - {x: 42.038055, y: 26.524672}
+        - {x: 51.038055, y: 23.524672}
+        - {x: 60.03806, y: -18.475328}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_1'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390.02676
+        width: 113.97325
+        height: 51.897133
+      alignment: 9
+      pivot: {x: 0.5264393, y: 0.5775509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.98662, y: -22.975332}
+        - {x: -56.98663, y: -21.97533}
+        - {x: -56.98663, y: -15.97533}
+        - {x: -54.986626, y: -14.97533}
+        - {x: -52.986626, y: -16.97533}
+        - {x: -52.986626, y: -21.97533}
+      - - {x: -34.986626, y: 3.0246696}
+        - {x: -46.986626, y: 18.02467}
+        - {x: -46.986626, y: 26.02467}
+        - {x: -15.986626, y: 26.02467}
+        - {x: 57.01338, y: -3.9753304}
+        - {x: 57.01338, y: -19.97533}
+        - {x: 54.013374, y: -25.975332}
+        - {x: 33.013374, y: -25.975332}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_2'
+      rect:
+        serializedVersion: 2
+        x: 245.04291
+        y: 386.02676
+        width: 111.880974
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.49121034, y: 0.6188527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.983395, y: -27.47533}
+        - {x: -55.983395, y: -11.47533}
+        - {x: -55.983395, y: 23.52467}
+        - {x: -38.983395, y: 27.52467}
+        - {x: 39.016605, y: 27.52467}
+        - {x: 56.016605, y: 16.52467}
+        - {x: 56.016605, y: -3.4753304}
+        - {x: 37.016605, y: -27.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_3'
+      rect:
+        serializedVersion: 2
+        x: 17.02675
+        y: 256.0761
+        width: 85.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.50014293, y: 0.5366535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.98772, y: -40.999992}
+        - {x: -42.98772, y: -29.999992}
+        - {x: -42.98772, y: 10.000008}
+        - {x: -20.98772, y: 41.000008}
+        - {x: 36.01228, y: 41.000008}
+        - {x: 43.01228, y: 22.000008}
+        - {x: 43.01228, y: -26.999994}
+        - {x: 31.01228, y: -40.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_4'
+      rect:
+        serializedVersion: 2
+        x: 126.058205
+        y: 264.0761
+        width: 109.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.490759, y: 0.46146333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.015728, y: -38.999992}
+        - {x: -55.01573, y: -33.999992}
+        - {x: -55.01573, y: 26.000008}
+        - {x: 26.984272, y: 32.000008}
+        - {x: 35.984272, y: 39.000008}
+        - {x: 54.984272, y: 39.000008}
+        - {x: 54.984272, y: -10.999992}
+        - {x: 49.984272, y: -33.999992}
+        - {x: 30.984272, y: -38.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_5'
+      rect:
+        serializedVersion: 2
+        x: 262.0761
+        y: 255.07613
+        width: 79.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.47495243, y: 0.53577906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.999992, y: -42.000008}
+        - {x: -39.999992, y: -41.000008}
+        - {x: -39.999992, y: 30.999992}
+        - {x: -30.999992, y: 41.999992}
+        - {x: 40.000008, y: 41.999992}
+        - {x: 40.000008, y: 4.9999924}
+        - {x: 37.000008, y: -6.0000076}
+        - {x: -5.9999924, y: -42.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_6'
+      rect:
+        serializedVersion: 2
+        x: 20.051317
+        y: 120
+        width: 79.87257
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.50015527, y: 0.50865954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.9876, y: -58.97855}
+        - {x: -39.9876, y: -54.978546}
+        - {x: -39.9876, y: -45.978546}
+        - {x: -21.987598, y: 0.021453857}
+        - {x: -28.987598, y: 35.021454}
+        - {x: -10.987598, y: 59.021454}
+        - {x: 27.012403, y: 59.021454}
+        - {x: 40.0124, y: 56.021454}
+        - {x: 40.0124, y: -5.978546}
+        - {x: -10.987598, y: -35.978546}
+        - {x: -17.987598, y: -50.978546}
+        - {x: -23.987598, y: -58.97855}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_7'
+      rect:
+        serializedVersion: 2
+        x: 122.051315
+        y: 140.07613
+        width: 117.9124
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.4914554, y: 0.5330494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.992485, y: -37.524693}
+        - {x: -59.007515, y: -37.524693}
+        - {x: -59.007515, y: 23.475307}
+        - {x: -28.007517, y: 37.475307}
+        - {x: 58.99249, y: 37.475307}
+        - {x: 58.99249, y: -25.524693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_8'
+      rect:
+        serializedVersion: 2
+        x: 259.05133
+        y: 143.07613
+        width: 82.87257
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.4941161, y: 0.49331966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.487614, y: -37.500008}
+        - {x: -41.487614, y: -35.500008}
+        - {x: -41.487614, y: -5.5000076}
+        - {x: -27.487616, y: 37.499992}
+        - {x: 21.512386, y: 37.499992}
+        - {x: 41.512386, y: 30.499992}
+        - {x: 41.512386, y: -37.500008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShardMuseum]_9'
+      rect:
+        serializedVersion: 2
+        x: 5.026751
+        y: 0.076120496
+        width: 109.921936
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.5001117, y: 0.4996826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.98772, y: -58.038063}
+        - {x: -54.98772, y: -32.038063}
+        - {x: -54.98772, y: -12.038063}
+        - {x: -26.987722, y: 37.961937}
+        - {x: 6.0122795, y: 59.96194}
+        - {x: 35.01228, y: 59.96194}
+        - {x: 55.01228, y: 24.961937}
+        - {x: 55.01228, y: -1.038063}
+        - {x: 32.01228, y: -60.038067}
+        - {x: -13.9877205, y: -60.038067}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[PortalShardMuseum]_0': 21300000
+      '[PortalShardMuseum]_1': 21300002
+      '[PortalShardMuseum]_2': 21300004
+      '[PortalShardMuseum]_3': 21300006
+      '[PortalShardMuseum]_4': 21300008
+      '[PortalShardMuseum]_5': 21300010
+      '[PortalShardMuseum]_6': 21300012
+      '[PortalShardMuseum]_7': 21300014
+      '[PortalShardMuseum]_8': 21300016
+      '[PortalShardMuseum]_9': 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

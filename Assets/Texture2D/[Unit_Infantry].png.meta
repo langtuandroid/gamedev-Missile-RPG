@@ -1,0 +1,1132 @@
+fileFormatVersion: 2
+guid: 6048bbc5a6ad7a14482bda0b6d53ede3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[Unit_Infantry]_0'
+  - first:
+      213: 21300002
+    second: '[Unit_Infantry]_1'
+  - first:
+      213: 21300004
+    second: '[Unit_Infantry]_2'
+  - first:
+      213: 21300006
+    second: '[Unit_Infantry]_3'
+  - first:
+      213: 21300008
+    second: '[Unit_Infantry]_4'
+  - first:
+      213: 21300010
+    second: '[Unit_Infantry]_5'
+  - first:
+      213: 21300012
+    second: '[Unit_Infantry]_6'
+  - first:
+      213: 21300014
+    second: '[Unit_Infantry]_7'
+  - first:
+      213: 21300016
+    second: '[Unit_Infantry]_8'
+  - first:
+      213: 21300018
+    second: '[Unit_Infantry]_9'
+  - first:
+      213: 21300020
+    second: '[Unit_Infantry]_10'
+  - first:
+      213: 21300022
+    second: '[Unit_Infantry]_11'
+  - first:
+      213: 21300024
+    second: '[Unit_Infantry]_12'
+  - first:
+      213: 21300026
+    second: '[Unit_Infantry]_13'
+  - first:
+      213: 21300028
+    second: '[Unit_Infantry]_14'
+  - first:
+      213: 21300030
+    second: '[Unit_Infantry]_15'
+  - first:
+      213: 21300032
+    second: '[Unit_Infantry]_16'
+  - first:
+      213: 21300034
+    second: '[Unit_Infantry]_17'
+  - first:
+      213: 21300036
+    second: '[Unit_Infantry]_18'
+  - first:
+      213: 21300038
+    second: '[Unit_Infantry]_19'
+  - first:
+      213: 21300040
+    second: '[Unit_Infantry]_20'
+  - first:
+      213: 21300042
+    second: '[Unit_Infantry]_21'
+  - first:
+      213: 21300044
+    second: '[Unit_Infantry]_22'
+  - first:
+      213: 21300046
+    second: '[Unit_Infantry]_23'
+  - first:
+      213: 21300048
+    second: '[Unit_Infantry]_24'
+  - first:
+      213: 21300050
+    second: '[Unit_Infantry]_25'
+  - first:
+      213: 21300052
+    second: '[Unit_Infantry]_26'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_0'
+      rect:
+        serializedVersion: 2
+        x: 61.076122
+        y: 603.05133
+        width: 124.897125
+        height: 124.921936
+      alignment: 9
+      pivot: {x: 0.3116475, y: 0.055624094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.524685, y: -62.5123}
+        - {x: -62.524685, y: -8.512299}
+        - {x: -44.524685, y: 52.48771}
+        - {x: -36.524685, y: 62.487694}
+        - {x: -5.524685, y: 62.487694}
+        - {x: 61.475315, y: 11.487701}
+        - {x: 62.475315, y: 4.487705}
+        - {x: 62.475315, y: -5.5122986}
+        - {x: 13.475315, y: -60.5123}
+        - {x: 0.4753151, y: -62.5123}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_1'
+      rect:
+        serializedVersion: 2
+        x: 261.0761
+        y: 603.05133
+        width: 118.897125
+        height: 124.921936
+      alignment: 9
+      pivot: {x: 0.32737452, y: 0.055624094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.524673, y: -62.5123}
+        - {x: -59.524673, y: 8.487701}
+        - {x: -48.524673, y: 51.48771}
+        - {x: -35.524673, y: 62.487694}
+        - {x: 31.475327, y: 62.487694}
+        - {x: 59.475327, y: 26.487701}
+        - {x: 59.475327, y: -34.5123}
+        - {x: 29.475327, y: -62.5123}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_2'
+      rect:
+        serializedVersion: 2
+        x: 445.02676
+        y: 606.05975
+        width: 149.89713
+        height: 121.86415
+      alignment: 9
+      pivot: {x: 0.30002734, y: 0.032333106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.024673, y: -60.99183}
+        - {x: -74.97533, y: -60.99183}
+        - {x: -74.97533, y: 47.00817}
+        - {x: -65.97533, y: 61.008163}
+        - {x: 55.024673, y: 61.008163}
+        - {x: 75.024666, y: 37.00817}
+        - {x: 75.024666, y: -54.99183}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_3'
+      rect:
+        serializedVersion: 2
+        x: 645.02673
+        y: 606.05975
+        width: 145.95099
+        height: 121.86415
+      alignment: 9
+      pivot: {x: 0.3081395, y: 0.032333106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.00223, y: -60.99183}
+        - {x: -73.00223, y: -57.99183}
+        - {x: -73.00223, y: 37.00817}
+        - {x: -40.002228, y: 61.008163}
+        - {x: 13.997772, y: 61.008163}
+        - {x: 60.997772, y: 27.008171}
+        - {x: 72.99777, y: 15.008171}
+        - {x: 72.99777, y: -5.991829}
+        - {x: 15.997772, y: -60.99183}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_4'
+      rect:
+        serializedVersion: 2
+        x: 847.0761
+        y: 601.02673
+        width: 133.84775
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.39540365, y: 0.068552054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.999985, y: -65.475296}
+        - {x: -66.999985, y: -11.475296}
+        - {x: -66.999985, y: 62.52471}
+        - {x: -65.999985, y: 65.524704}
+        - {x: 61.000015, y: 65.524704}
+        - {x: 67.000015, y: 51.52471}
+        - {x: 67.000015, y: -32.475296}
+        - {x: 26.000015, y: -65.475296}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_5'
+      rect:
+        serializedVersion: 2
+        x: 43.042908
+        y: 401.02676
+        width: 129.88097
+        height: 130.89713
+      alignment: 9
+      pivot: {x: 0.438533, y: 0.068551816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.01661, y: -65.47533}
+        - {x: -52.98339, y: -65.47533}
+        - {x: -64.98339, y: -35.475327}
+        - {x: -64.98339, y: 53.524673}
+        - {x: -43.98339, y: 58.524673}
+        - {x: -42.98339, y: 59.524673}
+        - {x: -39.98339, y: 59.524673}
+        - {x: -13.983391, y: 65.52467}
+        - {x: 41.01661, y: 65.52467}
+        - {x: 65.01661, y: 19.524673}
+        - {x: 65.01661, y: -30.475327}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_6'
+      rect:
+        serializedVersion: 2
+        x: 250.07613
+        y: 404.0761
+        width: 130.89713
+        height: 121.89713
+      alignment: 9
+      pivot: {x: 0.38139778, y: 0.048597444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.52469, y: -61.024677}
+        - {x: -65.52469, y: -48.024677}
+        - {x: -65.52469, y: 2.9753227}
+        - {x: -64.52469, y: 6.9753227}
+        - {x: -39.52469, y: 19.975323}
+        - {x: -44.52469, y: 19.975323}
+        - {x: -64.52469, y: 31.975323}
+        - {x: -65.52469, y: 32.975323}
+        - {x: -65.52469, y: 52.97533}
+        - {x: -41.52469, y: 60.975323}
+        - {x: 38.475315, y: 60.975323}
+        - {x: 64.47531, y: 51.97533}
+        - {x: 65.47531, y: 43.975323}
+        - {x: 65.47531, y: 16.975323}
+        - {x: 20.475311, y: -34.024677}
+        - {x: 14.475313, y: -55.024677}
+        - {x: 10.475311, y: -61.024677}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_7'
+      rect:
+        serializedVersion: 2
+        x: 451.00885
+        y: 404.0761
+        width: 137.97824
+        height: 117.880974
+      alignment: 9
+      pivot: {x: 0.3550643, y: 0.05025314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.997974, y: 36.983402}
+        - {x: -29.997974, y: 39.983402}
+        - {x: -27.997974, y: 41.983402}
+        - {x: -24.997974, y: 41.983402}
+        - {x: -23.997974, y: 38.983402}
+        - {x: -25.997974, y: 36.983402}
+      - - {x: -9.997974, y: 45.983402}
+        - {x: -10.997974, y: 47.983402}
+        - {x: -10.997974, y: 51.983395}
+        - {x: -7.9979744, y: 52.983395}
+        - {x: -5.9979744, y: 52.983395}
+        - {x: -2.9979744, y: 49.983402}
+        - {x: -2.9979744, y: 48.983402}
+        - {x: -6.9979744, y: 45.983402}
+      - - {x: -68.99797, y: 15.983402}
+        - {x: 23.002026, y: 58.983402}
+        - {x: 69.00203, y: 58.983402}
+        - {x: 69.00203, y: -0.016601562}
+        - {x: 11.002026, y: -59.016598}
+        - {x: -68.99797, y: -59.016598}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_8'
+      rect:
+        serializedVersion: 2
+        x: 632.0761
+        y: 402.0761
+        width: 155.84775
+        height: 100.84776
+      alignment: 9
+      pivot: {x: 0.4358349, y: 0.07857278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.000015, y: 13.500008}
+        - {x: 58.000015, y: -49.499992}
+        - {x: 55.000015, y: -50.499992}
+        - {x: -56.999985, y: -50.499992}
+        - {x: -74.999985, y: -45.499992}
+        - {x: -77.999985, y: -41.499992}
+        - {x: -77.999985, y: 10.500004}
+        - {x: -57.999985, y: 50.500008}
+        - {x: 1.0000153, y: 50.500008}
+        - {x: 45.000015, y: 45.500008}
+        - {x: 78.000015, y: 32.500008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_9'
+      rect:
+        serializedVersion: 2
+        x: 832.0761
+        y: 402.0761
+        width: 148.87256
+        height: 94.84776
+      alignment: 9
+      pivot: {x: 0.45625526, y: 0.08354323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.51239, y: 42.500008}
+        - {x: -39.51239, y: 45.500008}
+        - {x: -37.51239, y: 47.500008}
+        - {x: -20.51239, y: 47.500008}
+        - {x: -19.51239, y: 44.500008}
+        - {x: -21.51239, y: 42.500008}
+      - - {x: 58.48761, y: 32.500008}
+        - {x: 57.48761, y: 35.500008}
+        - {x: 59.48761, y: 37.500008}
+        - {x: 66.48761, y: 37.500008}
+        - {x: 67.48761, y: 34.500008}
+        - {x: 65.48761, y: 32.500008}
+      - - {x: -2.5123901, y: 24.500008}
+        - {x: -3.5123901, y: 27.500008}
+        - {x: -1.5123901, y: 29.500008}
+        - {x: 18.48761, y: 29.500008}
+        - {x: 19.48761, y: 26.500008}
+        - {x: 17.48761, y: 24.500008}
+      - - {x: -46.51239, y: 24.500008}
+        - {x: -48.51239, y: 26.500008}
+        - {x: -48.51239, y: 28.500008}
+        - {x: -46.51239, y: 30.500008}
+        - {x: -44.51239, y: 30.500008}
+        - {x: -42.51239, y: 29.500008}
+        - {x: -42.51239, y: 26.500008}
+        - {x: -43.51239, y: 24.500008}
+      - - {x: -71.51239, y: -42.499992}
+        - {x: -74.51239, y: -38.499992}
+        - {x: -74.51239, y: 20.500011}
+        - {x: -52.51239, y: 23.500008}
+        - {x: 67.48761, y: 23.500008}
+        - {x: 74.48761, y: 21.500008}
+        - {x: 74.48761, y: 2.5000076}
+        - {x: 61.48761, y: -46.499992}
+        - {x: 54.48761, y: -47.499992}
+        - {x: -51.51239, y: -47.499992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_10'
+      rect:
+        serializedVersion: 2
+        x: 39.076122
+        y: 202.07613
+        width: 156.88097
+        height: 170.88097
+      alignment: 9
+      pivot: {x: 0.38834462, y: 0.046370722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.483395, y: -85.51661}
+        - {x: -78.5166, y: -85.51661}
+        - {x: -78.5166, y: 75.48339}
+        - {x: -52.516605, y: 85.48339}
+        - {x: 78.4834, y: 85.48339}
+        - {x: 78.4834, y: -20.51661}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_11'
+      rect:
+        serializedVersion: 2
+        x: 238.01291
+        y: 202.07613
+        width: 157.94418
+        height: 170.88097
+      alignment: 9
+      pivot: {x: 0.39246202, y: 0.046370722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.014996, y: -85.51661}
+        - {x: -78.985, y: -85.51661}
+        - {x: -78.985, y: 62.48339}
+        - {x: -71.985, y: 83.48339}
+        - {x: -60.985, y: 85.48339}
+        - {x: 78.015, y: 85.48339}
+        - {x: 79.015, y: 84.48339}
+        - {x: 79.015, y: 5.483391}
+        - {x: 76.015, y: -11.516609}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_12'
+      rect:
+        serializedVersion: 2
+        x: 407.02676
+        y: 204.07613
+        width: 173.89713
+        height: 155.84775
+      alignment: 9
+      pivot: {x: 0.534645, y: 0.03801065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.975334, y: -26}
+        - {x: -86.975334, y: 21}
+        - {x: -86.975334, y: 53}
+        - {x: -83.975334, y: 71}
+        - {x: -74.975334, y: 78}
+        - {x: 55.024666, y: 78}
+        - {x: 87.024666, y: -4}
+        - {x: 87.024666, y: -47}
+        - {x: 55.024666, y: -78}
+        - {x: -47.975338, y: -78}
+        - {x: -54.975334, y: -74}
+        - {x: -71.975334, y: -54}
+        - {x: -74.975334, y: -44}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_13'
+      rect:
+        serializedVersion: 2
+        x: 607.02673
+        y: 204.07613
+        width: 168.89713
+        height: 155.84775
+      alignment: 9
+      pivot: {x: 0.55047274, y: 0.03801065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5247, y: -78}
+        - {x: -84.4753, y: -78}
+        - {x: -84.4753, y: 53}
+        - {x: -81.4753, y: 71}
+        - {x: -58.475304, y: 78}
+        - {x: 30.524696, y: 78}
+        - {x: 61.524693, y: 40}
+        - {x: 84.5247, y: 0}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_14'
+      rect:
+        serializedVersion: 2
+        x: 805.05975
+        y: 203.04291
+        width: 190.91353
+        height: 109.880974
+      alignment: 9
+      pivot: {x: 0.23539582, y: 0.0633148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.48348, y: -54.983395}
+        - {x: -95.51652, y: -54.983395}
+        - {x: -95.51652, y: 27.016605}
+        - {x: -83.51652, y: 55.016605}
+        - {x: -21.516518, y: 55.016605}
+        - {x: 36.483482, y: 37.016605}
+        - {x: 79.48348, y: 21.016605}
+        - {x: 94.48348, y: 21.016605}
+        - {x: 95.48348, y: 17.016605}
+        - {x: 95.48348, y: -51.983395}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_15'
+      rect:
+        serializedVersion: 2
+        x: 5.0597286
+        y: 3.042908
+        width: 186.86415
+        height: 109.880974
+      alignment: 9
+      pivot: {x: 0.240497, y: 0.0633148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.491806, y: -54.983395}
+        - {x: -93.491806, y: -44.983395}
+        - {x: -93.491806, y: 35.016605}
+        - {x: -79.491806, y: 55.016605}
+        - {x: 14.50819, y: 55.016605}
+        - {x: 88.508194, y: 34.016605}
+        - {x: 93.508194, y: 25.016605}
+        - {x: 93.508194, y: 3.0166054}
+        - {x: 9.50819, y: -54.983395}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_16'
+      rect:
+        serializedVersion: 2
+        x: 217.07613
+        y: 5.0513167
+        width: 174.88759
+        height: 182.92194
+      alignment: 9
+      pivot: {x: 0.38266796, y: 0.027053533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.51992, y: -91.51228}
+        - {x: -87.51992, y: -33.512287}
+        - {x: -87.51992, y: 52.487717}
+        - {x: -64.51992, y: 91.48772}
+        - {x: -0.51992035, y: 91.48772}
+        - {x: 36.48008, y: 82.48772}
+        - {x: 86.48009, y: 1.4877167}
+        - {x: 87.48009, y: -3.5122833}
+        - {x: 87.48009, y: -16.512283}
+        - {x: 84.48007, y: -23.512283}
+        - {x: 22.48008, y: -91.51228}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_17'
+      rect:
+        serializedVersion: 2
+        x: 417.0761
+        y: 5.0513167
+        width: 166.89713
+        height: 182.92194
+      alignment: 9
+      pivot: {x: 0.40098888, y: 0.027053533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.52467, y: -91.51228}
+        - {x: -83.52467, y: -24.512283}
+        - {x: -83.52467, y: 56.487717}
+        - {x: -67.52467, y: 91.48772}
+        - {x: -1.5246725, y: 91.48772}
+        - {x: 83.47533, y: 57.487717}
+        - {x: 83.47533, y: 0.48771667}
+        - {x: 31.475327, y: -91.51228}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_18'
+      rect:
+        serializedVersion: 2
+        x: 61.07612
+        y: 623
+        width: 116.92388
+        height: 104.97325
+      alignment: 9
+      pivot: {x: 0.45263535, y: 0.6096791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.461941, y: -52.48663}
+        - {x: -58.538055, y: -52.48663}
+        - {x: -58.538055, y: -22.48663}
+        - {x: -57.53806, y: -14.4866295}
+        - {x: -38.53806, y: 41.513374}
+        - {x: -31.53806, y: 52.51337}
+        - {x: -10.538059, y: 52.51337}
+        - {x: 10.461941, y: 42.51337}
+        - {x: 57.46194, y: -0.4866295}
+        - {x: 58.46194, y: -0.4866295}
+        - {x: 58.46194, y: -18.486631}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_19'
+      rect:
+        serializedVersion: 2
+        x: 445.02676
+        y: 622
+        width: 117.97325
+        height: 105.92388
+      alignment: 9
+      pivot: {x: 0.457504, y: 0.60420746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.01339, y: -52.96194}
+        - {x: -59.013393, y: -44.96194}
+        - {x: -59.013393, y: 19.03806}
+        - {x: -26.01339, y: 53.03806}
+        - {x: 35.98661, y: 53.03806}
+        - {x: 58.98661, y: 36.03806}
+        - {x: 58.98661, y: -27.96194}
+        - {x: 37.98661, y: -52.96194}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_20'
+      rect:
+        serializedVersion: 2
+        x: 847.0761
+        y: 614
+        width: 117.92388
+        height: 117.92388
+      alignment: 9
+      pivot: {x: 0.4572771, y: 0.542723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.03805, y: -47.961937}
+        - {x: -59.038055, y: -7.961941}
+        - {x: -59.038055, y: 28.03806}
+        - {x: -52.03805, y: 45.03806}
+        - {x: -54.03805, y: 51.03806}
+        - {x: -34.03805, y: 57.03806}
+        - {x: -20.038052, y: 59.038063}
+        - {x: 33.96195, y: 59.038063}
+        - {x: 58.96195, y: 13.038059}
+        - {x: 58.96195, y: -17.96194}
+        - {x: 37.96195, y: -58.96194}
+        - {x: -51.03805, y: -58.96194}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_21'
+      rect:
+        serializedVersion: 2
+        x: 250.07613
+        y: 427
+        width: 121.92388
+        height: 98.97325
+      alignment: 9
+      pivot: {x: 0.47508228, y: 0.64663935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.038067, y: -41.486626}
+        - {x: -61.038067, y: -29.486626}
+        - {x: -61.038067, y: -15.486628}
+        - {x: -49.038067, y: -1.4866257}
+        - {x: -35.038067, y: 8.513374}
+        - {x: -40.038067, y: 8.513374}
+        - {x: -60.038067, y: 20.513374}
+        - {x: -61.038067, y: 20.513374}
+        - {x: -61.038067, y: 49.513374}
+        - {x: 46.961933, y: 49.513374}
+        - {x: 60.961933, y: 35.513374}
+        - {x: 60.961933, y: 1.5133743}
+        - {x: 14.961933, y: -41.486626}
+        - {x: 24.961933, y: -45.48663}
+        - {x: 21.961933, y: -49.486626}
+        - {x: -51.038067, y: -49.486626}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_22'
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 402.0761
+        width: 112.92388
+        height: 100.77453
+      alignment: 9
+      pivot: {x: 0.56675345, y: 0.5946333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.53806, y: -0.4633751}
+        - {x: 36.53806, y: -50.46338}
+        - {x: -56.46194, y: -50.46338}
+        - {x: -56.46194, y: 50.536625}
+        - {x: -0.46194077, y: 50.536625}
+        - {x: 56.53806, y: 36.53663}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_23'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 259
+        width: 126.95709
+        height: 113.95709
+      alignment: 9
+      pivot: {x: 0.5041073, y: 0.5616149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.52145, y: -56.97855}
+        - {x: -63.47855, y: -56.97855}
+        - {x: -63.47855, y: 54.02145}
+        - {x: -46.47855, y: 57.02145}
+        - {x: 63.52145, y: 57.02145}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_24'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 239
+        width: 128
+        height: 120.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52925855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -60.46194}
+        - {x: -64, y: -60.46194}
+        - {x: -64, y: 58.53806}
+        - {x: -54.000004, y: 60.53806}
+        - {x: 21, y: 60.53806}
+        - {x: 64, y: 32.53806}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_25'
+      rect:
+        serializedVersion: 2
+        x: 805.05975
+        y: 211
+        width: 123.94027
+        height: 101.92388
+      alignment: 9
+      pivot: {x: 0.48362204, y: 0.62791955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.02989, y: -50.96194}
+        - {x: -62.029892, y: -35.96194}
+        - {x: -62.029892, y: 37.03806}
+        - {x: -42.02989, y: 51.03806}
+        - {x: -1.0298882, y: 51.03806}
+        - {x: 61.97011, y: 32.03806}
+        - {x: 61.97011, y: -13.961943}
+        - {x: 16.970112, y: -50.96194}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Unit_Infantry]_26'
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 70
+        width: 128
+        height: 117.97325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54249585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -58.986626}
+        - {x: -64, y: -56.986626}
+        - {x: -64, y: 14.013374}
+        - {x: -49, y: 59.01338}
+        - {x: 48, y: 59.01338}
+        - {x: 64, y: 7.0133743}
+        - {x: 64, y: -51.986626}
+        - {x: 46, y: -58.986626}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Unit_Infantry]_0': 21300000
+      '[Unit_Infantry]_1': 21300002
+      '[Unit_Infantry]_10': 21300020
+      '[Unit_Infantry]_11': 21300022
+      '[Unit_Infantry]_12': 21300024
+      '[Unit_Infantry]_13': 21300026
+      '[Unit_Infantry]_14': 21300028
+      '[Unit_Infantry]_15': 21300030
+      '[Unit_Infantry]_16': 21300032
+      '[Unit_Infantry]_17': 21300034
+      '[Unit_Infantry]_18': 21300036
+      '[Unit_Infantry]_19': 21300038
+      '[Unit_Infantry]_2': 21300004
+      '[Unit_Infantry]_20': 21300040
+      '[Unit_Infantry]_21': 21300042
+      '[Unit_Infantry]_22': 21300044
+      '[Unit_Infantry]_23': 21300046
+      '[Unit_Infantry]_24': 21300048
+      '[Unit_Infantry]_25': 21300050
+      '[Unit_Infantry]_26': 21300052
+      '[Unit_Infantry]_3': 21300006
+      '[Unit_Infantry]_4': 21300008
+      '[Unit_Infantry]_5': 21300010
+      '[Unit_Infantry]_6': 21300012
+      '[Unit_Infantry]_7': 21300014
+      '[Unit_Infantry]_8': 21300016
+      '[Unit_Infantry]_9': 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "소염기",
+        "buffatype": "보스 상대 대미지 +(x)%",
+        "buffavalue": 5
+    },
+    {
+        "id": 1,
+        "name": "고속 발사기",
+        "buffatype": "스팀팩 유지 시간 +(x)%",
+        "buffavalue": 10
+    },
+    {
+        "id": 2,
+        "name": "강화 열판",
+        "buffatype": "미사일 대미지 +(x)%",
+        "buffavalue": 8
+    },
+    {
+        "id": 3,
+        "name": "광물 탐지기",
+        "buffatype": "전체 미네랄 획득량 +(x)%",
+        "buffavalue": 3
+    },
+    {
+        "id": 4,
+        "name": "아이언 사이트",
+        "buffatype": "미사일 치명타 대미지 +(x)%",
+        "buffavalue": 20
+    },
+    {
+        "id": 5,
+        "name": "관통 모듈",
+        "buffatype": "모든 유닛 대미지 +(x)%",
+        "buffavalue": 4
+    },
+    {
+        "id": 6,
+        "name": "가스 응집기",
+        "buffatype": "전체 가스 획득량 +(x)%",
+        "buffavalue": 2
+    }
+]

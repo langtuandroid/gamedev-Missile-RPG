@@ -1,0 +1,1503 @@
+fileFormatVersion: 2
+guid: 23ffda38fd13d4140b6c1444c26763c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[PortalShard]_0'
+  - first:
+      213: 21300002
+    second: '[PortalShard]_1'
+  - first:
+      213: 21300004
+    second: '[PortalShard]_2'
+  - first:
+      213: 21300006
+    second: '[PortalShard]_3'
+  - first:
+      213: 21300008
+    second: '[PortalShard]_4'
+  - first:
+      213: 21300010
+    second: '[PortalShard]_5'
+  - first:
+      213: 21300012
+    second: '[PortalShard]_6'
+  - first:
+      213: 21300014
+    second: '[PortalShard]_7'
+  - first:
+      213: 21300016
+    second: '[PortalShard]_8'
+  - first:
+      213: 21300018
+    second: '[PortalShard]_9'
+  - first:
+      213: 21300020
+    second: '[PortalShard]_10'
+  - first:
+      213: 21300022
+    second: '[PortalShard]_11'
+  - first:
+      213: 21300024
+    second: '[PortalShard]_12'
+  - first:
+      213: 21300026
+    second: '[PortalShard]_13'
+  - first:
+      213: 21300028
+    second: '[PortalShard]_14'
+  - first:
+      213: 21300030
+    second: '[PortalShard]_15'
+  - first:
+      213: 21300032
+    second: '[PortalShard]_16'
+  - first:
+      213: 21300034
+    second: '[PortalShard]_17'
+  - first:
+      213: 21300036
+    second: '[PortalShard]_18'
+  - first:
+      213: 21300038
+    second: '[PortalShard]_19'
+  - first:
+      213: 21300040
+    second: '[PortalShard]_20'
+  - first:
+      213: 21300042
+    second: '[PortalShard]_21'
+  - first:
+      213: 21300044
+    second: '[PortalShard]_22'
+  - first:
+      213: 21300046
+    second: '[PortalShard]_23'
+  - first:
+      213: 21300048
+    second: '[PortalShard]_24'
+  - first:
+      213: 21300050
+    second: '[PortalShard]_25'
+  - first:
+      213: 21300052
+    second: '[PortalShard]_26'
+  - first:
+      213: 21300054
+    second: '[PortalShard]_27'
+  - first:
+      213: 21300056
+    second: '[PortalShard]_28'
+  - first:
+      213: 21300058
+    second: '[PortalShard]_29'
+  - first:
+      213: 21300060
+    second: '[PortalShard]_30'
+  - first:
+      213: 21300062
+    second: '[PortalShard]_31'
+  - first:
+      213: 21300064
+    second: '[PortalShard]_32'
+  - first:
+      213: 21300066
+    second: '[PortalShard]_33'
+  - first:
+      213: 21300068
+    second: '[PortalShard]_34'
+  - first:
+      213: 21300070
+    second: '[PortalShard]_35'
+  - first:
+      213: 21300072
+    second: '[PortalShard]_36'
+  - first:
+      213: 21300074
+    second: '[PortalShard]_37'
+  - first:
+      213: 21300076
+    second: '[PortalShard]_38'
+  - first:
+      213: 21300078
+    second: '[PortalShard]_39'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[PortalShard]_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.02673
+        width: 119.92388
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.50031734, y: 0.07511309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.03806, y: -26.475298}
+        - {x: -59.96195, y: -26.475298}
+        - {x: -59.96195, y: 9.524702}
+        - {x: -46.961945, y: 26.524702}
+        - {x: 42.038055, y: 26.524702}
+        - {x: 51.038055, y: 23.524702}
+        - {x: 60.03806, y: -18.475298}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_1'
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 512.02673
+        width: 119.92388
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.50031734, y: 0.07511309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.03806, y: -26.475298}
+        - {x: -59.96195, y: -26.475298}
+        - {x: -59.96195, y: 9.524702}
+        - {x: -46.961945, y: 26.524702}
+        - {x: 42.038055, y: 26.524702}
+        - {x: 51.038055, y: 23.524702}
+        - {x: 60.03806, y: -18.475298}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_2'
+      rect:
+        serializedVersion: 2
+        x: 239.07613
+        y: 512.02673
+        width: 119.92388
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.49968258, y: 0.07511309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.961937, y: -26.475298}
+        - {x: -60.03807, y: -26.475298}
+        - {x: -60.03807, y: -11.475298}
+        - {x: -49.038067, y: 22.524702}
+        - {x: -41.038067, y: 26.524702}
+        - {x: 32.961933, y: 26.524702}
+        - {x: 51.961933, y: 23.524702}
+        - {x: 59.961937, y: -14.475298}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_3'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 512.02673
+        width: 119.92388
+        height: 52.89713
+      alignment: 9
+      pivot: {x: 0.50031734, y: 0.07511309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.03806, y: -26.475298}
+        - {x: -59.96195, y: -26.475298}
+        - {x: -59.96195, y: 9.524702}
+        - {x: -46.961945, y: 26.524702}
+        - {x: 42.038055, y: 26.524702}
+        - {x: 51.038055, y: 23.524702}
+        - {x: 60.03806, y: -18.475298}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_4'
+      rect:
+        serializedVersion: 2
+        x: 490.0761
+        y: 510.02676
+        width: 103.89713
+        height: 51.897133
+      alignment: 9
+      pivot: {x: 0.952133, y: 0.23071092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.024677, y: 3.0246687}
+        - {x: -52.024677, y: 18.02467}
+        - {x: -52.024677, y: 26.02467}
+        - {x: -21.024677, y: 26.02467}
+        - {x: 51.975323, y: -3.9753313}
+        - {x: 51.975323, y: -19.97533}
+        - {x: 48.975323, y: -25.97533}
+        - {x: 27.975323, y: -25.97533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_5'
+      rect:
+        serializedVersion: 2
+        x: 610.0761
+        y: 510.02676
+        width: 103.89713
+        height: 51.897133
+      alignment: 9
+      pivot: {x: 0.9425081, y: 0.23071092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.024677, y: 3.0246687}
+        - {x: -52.024677, y: 18.02467}
+        - {x: -52.024677, y: 26.02467}
+        - {x: -21.024677, y: 26.02467}
+        - {x: 51.975323, y: -3.9753313}
+        - {x: 51.975323, y: -19.97533}
+        - {x: 48.975323, y: -25.97533}
+        - {x: 27.975323, y: -25.97533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_6'
+      rect:
+        serializedVersion: 2
+        x: 730.0761
+        y: 510.02676
+        width: 103.89713
+        height: 51.897133
+      alignment: 9
+      pivot: {x: 0.9425081, y: 0.23071092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.024677, y: 3.0246687}
+        - {x: -52.024677, y: 18.02467}
+        - {x: -52.024677, y: 26.02467}
+        - {x: -21.024677, y: 26.02467}
+        - {x: 51.975323, y: -3.9753313}
+        - {x: 51.975323, y: -19.97533}
+        - {x: 48.975323, y: -25.97533}
+        - {x: 27.975323, y: -25.97533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_7'
+      rect:
+        serializedVersion: 2
+        x: 850.0761
+        y: 510.02676
+        width: 103.89713
+        height: 51.897133
+      alignment: 9
+      pivot: {x: 0.9425081, y: 0.23071092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.024677, y: 3.0246687}
+        - {x: -52.024677, y: 18.02467}
+        - {x: -52.024677, y: 26.02467}
+        - {x: -21.024677, y: 26.02467}
+        - {x: 51.975323, y: -3.9753313}
+        - {x: 51.975323, y: -19.97533}
+        - {x: 48.975323, y: -25.97533}
+        - {x: 27.975323, y: -25.97533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_8'
+      rect:
+        serializedVersion: 2
+        x: 5.0429077
+        y: 386.02676
+        width: 111.880974
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.49121034, y: 0.8374433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.983395, y: -27.47533}
+        - {x: -55.983395, y: -11.475332}
+        - {x: -55.983395, y: 23.52467}
+        - {x: -38.983395, y: 27.52467}
+        - {x: 39.016605, y: 27.52467}
+        - {x: 56.016605, y: 16.52467}
+        - {x: 56.016605, y: -3.4753304}
+        - {x: 37.016605, y: -27.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_9'
+      rect:
+        serializedVersion: 2
+        x: 125.04291
+        y: 386.02676
+        width: 111.880974
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.49121034, y: 0.8374433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.983395, y: -27.47533}
+        - {x: -55.983395, y: -11.475332}
+        - {x: -55.983395, y: 23.52467}
+        - {x: -38.983395, y: 27.52467}
+        - {x: 39.016605, y: 27.52467}
+        - {x: 56.016605, y: 16.52467}
+        - {x: 56.016605, y: -3.4753304}
+        - {x: 37.016605, y: -27.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_10'
+      rect:
+        serializedVersion: 2
+        x: 245.04291
+        y: 386.02676
+        width: 111.880974
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.49121034, y: 0.8374433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.983395, y: -27.47533}
+        - {x: -55.983395, y: -11.475332}
+        - {x: -55.983395, y: 23.52467}
+        - {x: -38.983395, y: 27.52467}
+        - {x: 39.016605, y: 27.52467}
+        - {x: 56.016605, y: 16.52467}
+        - {x: 56.016605, y: -3.4753304}
+        - {x: 37.016605, y: -27.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_11'
+      rect:
+        serializedVersion: 2
+        x: 365.0429
+        y: 386.02676
+        width: 111.880974
+        height: 54.897133
+      alignment: 9
+      pivot: {x: 0.49121034, y: 0.8374433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.983395, y: -27.47533}
+        - {x: -55.983395, y: -11.475332}
+        - {x: -55.983395, y: 23.52467}
+        - {x: -38.983395, y: 27.52467}
+        - {x: 39.016605, y: 27.52467}
+        - {x: 56.016605, y: 16.52467}
+        - {x: 56.016605, y: -3.4753304}
+        - {x: 37.016605, y: -27.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_12'
+      rect:
+        serializedVersion: 2
+        x: 497.02676
+        y: 376.0761
+        width: 85.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.50014275, y: 0.5366535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.987736, y: -40.999992}
+        - {x: -42.987736, y: -29.999992}
+        - {x: -42.987736, y: 10.000008}
+        - {x: -20.987736, y: 41.000008}
+        - {x: 36.012264, y: 41.000008}
+        - {x: 43.012264, y: 22.000008}
+        - {x: 43.012264, y: -26.999994}
+        - {x: 31.012264, y: -40.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_13'
+      rect:
+        serializedVersion: 2
+        x: 617.02673
+        y: 376.0761
+        width: 85.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.5001431, y: 0.5366535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.987705, y: -40.999992}
+        - {x: -42.987705, y: -29.999992}
+        - {x: -42.987705, y: 10.000008}
+        - {x: -20.987705, y: 41.000008}
+        - {x: 36.012295, y: 41.000008}
+        - {x: 43.012295, y: 22.000008}
+        - {x: 43.012295, y: -26.999994}
+        - {x: 31.012295, y: -40.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_14'
+      rect:
+        serializedVersion: 2
+        x: 737.02673
+        y: 376.0761
+        width: 85.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.5001431, y: 0.5366535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.987705, y: -40.999992}
+        - {x: -42.987705, y: -29.999992}
+        - {x: -42.987705, y: 10.000008}
+        - {x: -20.987705, y: 41.000008}
+        - {x: 36.012295, y: 41.000008}
+        - {x: 43.012295, y: 22.000008}
+        - {x: 43.012295, y: -26.999994}
+        - {x: 31.012295, y: -40.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_15'
+      rect:
+        serializedVersion: 2
+        x: 857.02673
+        y: 376.0761
+        width: 85.921936
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.5001431, y: 0.5366535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.987705, y: -40.999992}
+        - {x: -42.987705, y: -29.999992}
+        - {x: -42.987705, y: 10.000008}
+        - {x: -20.987705, y: 41.000008}
+        - {x: 36.012295, y: 41.000008}
+        - {x: 43.012295, y: 22.000008}
+        - {x: 43.012295, y: -26.999994}
+        - {x: 31.012295, y: -40.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_16'
+      rect:
+        serializedVersion: 2
+        x: 6.0582047
+        y: 264.0761
+        width: 109.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.490759, y: 0.07609582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.015728, y: -38.999992}
+        - {x: -55.01573, y: -33.999992}
+        - {x: -55.01573, y: 26.000004}
+        - {x: 26.984272, y: 32.000008}
+        - {x: 35.984272, y: 39.000008}
+        - {x: 54.984272, y: 39.000008}
+        - {x: 54.984272, y: -10.999992}
+        - {x: 49.984272, y: -33.999992}
+        - {x: 30.984272, y: -38.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_17'
+      rect:
+        serializedVersion: 2
+        x: 126.058205
+        y: 264.0761
+        width: 109.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.490759, y: 0.07609582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.015728, y: -38.999992}
+        - {x: -55.01573, y: -33.999992}
+        - {x: -55.01573, y: 26.000004}
+        - {x: 26.984272, y: 32.000008}
+        - {x: 35.984272, y: 39.000008}
+        - {x: 54.984272, y: 39.000008}
+        - {x: 54.984272, y: -10.999992}
+        - {x: 49.984272, y: -33.999992}
+        - {x: 30.984272, y: -38.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_18'
+      rect:
+        serializedVersion: 2
+        x: 246.0582
+        y: 264.0761
+        width: 109.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.49075904, y: 0.07609582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.01572, y: -38.999992}
+        - {x: -55.015724, y: -33.999992}
+        - {x: -55.015724, y: 26.000004}
+        - {x: 26.98428, y: 32.000008}
+        - {x: 35.98428, y: 39.000008}
+        - {x: 54.98428, y: 39.000008}
+        - {x: 54.98428, y: -10.999992}
+        - {x: 49.98428, y: -33.999992}
+        - {x: 30.98428, y: -38.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_19'
+      rect:
+        serializedVersion: 2
+        x: 366.0582
+        y: 264.0761
+        width: 109.91505
+        height: 77.84776
+      alignment: 9
+      pivot: {x: 0.49075904, y: 0.07609582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.01572, y: -38.999992}
+        - {x: -55.015724, y: -33.999992}
+        - {x: -55.015724, y: 26.000004}
+        - {x: 26.98428, y: 32.000008}
+        - {x: 35.98428, y: 39.000008}
+        - {x: 54.98428, y: 39.000008}
+        - {x: 54.98428, y: -10.999992}
+        - {x: 49.98428, y: -33.999992}
+        - {x: 30.98428, y: -38.999992}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_20'
+      rect:
+        serializedVersion: 2
+        x: 502.0761
+        y: 255.07613
+        width: 79.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.9258104, y: 0.82201207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.999992, y: -42.000008}
+        - {x: -39.999992, y: -41.000008}
+        - {x: -39.999992, y: 30.999992}
+        - {x: -30.999992, y: 41.999992}
+        - {x: 40.000008, y: 41.999992}
+        - {x: 40.000008, y: 4.9999924}
+        - {x: 37.000008, y: -6.0000076}
+        - {x: -5.9999924, y: -42.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_21'
+      rect:
+        serializedVersion: 2
+        x: 622.0761
+        y: 255.07613
+        width: 79.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.9258104, y: 0.82201207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.999992, y: -42.000008}
+        - {x: -39.999992, y: -41.000008}
+        - {x: -39.999992, y: 30.999992}
+        - {x: -30.999992, y: 41.999992}
+        - {x: 40.000008, y: 41.999992}
+        - {x: 40.000008, y: 4.9999924}
+        - {x: 37.000008, y: -6.0000076}
+        - {x: -5.9999924, y: -42.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_22'
+      rect:
+        serializedVersion: 2
+        x: 742.0761
+        y: 255.07613
+        width: 79.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.9258104, y: 0.82201207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.999992, y: -42.000008}
+        - {x: -39.999992, y: -41.000008}
+        - {x: -39.999992, y: 30.999992}
+        - {x: -30.999992, y: 41.999992}
+        - {x: 40.000008, y: 41.999992}
+        - {x: 40.000008, y: 4.9999924}
+        - {x: 37.000008, y: -6.0000076}
+        - {x: -5.9999924, y: -42.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_23'
+      rect:
+        serializedVersion: 2
+        x: 862.0761
+        y: 255.07613
+        width: 79.84776
+        height: 83.84776
+      alignment: 9
+      pivot: {x: 0.9258104, y: 0.82201207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.999992, y: -42.000008}
+        - {x: -39.999992, y: -41.000008}
+        - {x: -39.999992, y: 30.999992}
+        - {x: -30.999992, y: 41.999992}
+        - {x: 40.000008, y: 41.999992}
+        - {x: 40.000008, y: 4.9999924}
+        - {x: 37.000008, y: -6.0000076}
+        - {x: -5.9999924, y: -42.000008}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_24'
+      rect:
+        serializedVersion: 2
+        x: 20.051317
+        y: 120
+        width: 79.87257
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.124556966, y: 0.050865952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.9876, y: -58.978546}
+        - {x: -39.9876, y: -54.978546}
+        - {x: -39.9876, y: -45.978546}
+        - {x: -21.987598, y: 0.021450043}
+        - {x: -28.987598, y: 35.021454}
+        - {x: -10.987598, y: 59.021454}
+        - {x: 27.012402, y: 59.021454}
+        - {x: 40.0124, y: 56.021454}
+        - {x: 40.0124, y: -5.978546}
+        - {x: -10.987598, y: -35.978546}
+        - {x: -17.987598, y: -50.978546}
+        - {x: -23.987598, y: -58.978546}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_25'
+      rect:
+        serializedVersion: 2
+        x: 140.05132
+        y: 120
+        width: 79.87257
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.124556966, y: 0.050865952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.9876, y: -58.978546}
+        - {x: -39.9876, y: -54.978546}
+        - {x: -39.9876, y: -45.978546}
+        - {x: -21.987598, y: 0.021450043}
+        - {x: -28.987598, y: 35.021454}
+        - {x: -10.987598, y: 59.021454}
+        - {x: 27.012402, y: 59.021454}
+        - {x: 40.0124, y: 56.021454}
+        - {x: 40.0124, y: -5.978546}
+        - {x: -10.987598, y: -35.978546}
+        - {x: -17.987598, y: -50.978546}
+        - {x: -23.987598, y: -58.978546}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_26'
+      rect:
+        serializedVersion: 2
+        x: 260.05133
+        y: 120
+        width: 79.87257
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.12455678, y: 0.050865952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.987614, y: -58.978546}
+        - {x: -39.987614, y: -54.978546}
+        - {x: -39.987614, y: -45.978546}
+        - {x: -21.987614, y: 0.021450043}
+        - {x: -28.987614, y: 35.021454}
+        - {x: -10.987614, y: 59.021454}
+        - {x: 27.012386, y: 59.021454}
+        - {x: 40.012386, y: 56.021454}
+        - {x: 40.012386, y: -5.978546}
+        - {x: -10.987614, y: -35.978546}
+        - {x: -17.987614, y: -50.978546}
+        - {x: -23.987614, y: -58.978546}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_27'
+      rect:
+        serializedVersion: 2
+        x: 380.05133
+        y: 120
+        width: 79.87257
+        height: 117.95709
+      alignment: 9
+      pivot: {x: 0.12455678, y: 0.050865952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.987614, y: -58.978546}
+        - {x: -39.987614, y: -54.978546}
+        - {x: -39.987614, y: -45.978546}
+        - {x: -21.987614, y: 0.021450043}
+        - {x: -28.987614, y: 35.021454}
+        - {x: -10.987614, y: 59.021454}
+        - {x: 27.012386, y: 59.021454}
+        - {x: 40.012386, y: 56.021454}
+        - {x: 40.012386, y: -5.978546}
+        - {x: -10.987614, y: -35.978546}
+        - {x: -17.987614, y: -50.978546}
+        - {x: -23.987614, y: -58.978546}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_28'
+      rect:
+        serializedVersion: 2
+        x: 480.0761
+        y: 140.07613
+        width: 119.887596
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.049412027, y: 0.2927198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.01991, y: -37.524693}
+        - {x: -60.01991, y: -32.524693}
+        - {x: -60.01991, y: 23.475307}
+        - {x: -37.01991, y: 37.475304}
+        - {x: 59.98009, y: 37.475304}
+        - {x: 59.98009, y: 0.47530746}
+        - {x: 17.980091, y: -37.524693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_29'
+      rect:
+        serializedVersion: 2
+        x: 600.0761
+        y: 140.07613
+        width: 119.887596
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.049412027, y: 0.2927198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.01991, y: -37.524693}
+        - {x: -60.01991, y: -32.524693}
+        - {x: -60.01991, y: 23.475307}
+        - {x: -37.01991, y: 37.475304}
+        - {x: 59.98009, y: 37.475304}
+        - {x: 59.98009, y: 0.47530746}
+        - {x: 17.980091, y: -37.524693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_30'
+      rect:
+        serializedVersion: 2
+        x: 720.0761
+        y: 140.07613
+        width: 119.887596
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.049412027, y: 0.2927198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.01991, y: -37.524693}
+        - {x: -60.01991, y: -32.524693}
+        - {x: -60.01991, y: 23.475307}
+        - {x: -37.01991, y: 37.475304}
+        - {x: 59.98009, y: 37.475304}
+        - {x: 59.98009, y: 0.47530746}
+        - {x: 17.980091, y: -37.524693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_31'
+      rect:
+        serializedVersion: 2
+        x: 840.0761
+        y: 140.07613
+        width: 119.887596
+        height: 74.89713
+      alignment: 9
+      pivot: {x: 0.049412027, y: 0.2927198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.01991, y: -37.524693}
+        - {x: -60.01991, y: -32.524693}
+        - {x: -60.01991, y: 23.475307}
+        - {x: -37.01991, y: 37.475304}
+        - {x: 59.98009, y: 37.475304}
+        - {x: 59.98009, y: 0.47530746}
+        - {x: 17.980091, y: -37.524693}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_32'
+      rect:
+        serializedVersion: 2
+        x: 19.051317
+        y: 23.07612
+        width: 82.87257
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.49411628, y: 0.09250616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.4876, y: -37.5}
+        - {x: -41.4876, y: -35.5}
+        - {x: -41.4876, y: -5.500002}
+        - {x: -27.4876, y: 37.5}
+        - {x: 21.512402, y: 37.5}
+        - {x: 41.5124, y: 30.499998}
+        - {x: 41.5124, y: -37.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_33'
+      rect:
+        serializedVersion: 2
+        x: 139.05132
+        y: 23.07612
+        width: 82.87257
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.49411628, y: 0.09250616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.4876, y: -37.5}
+        - {x: -41.4876, y: -35.5}
+        - {x: -41.4876, y: -5.500002}
+        - {x: -27.4876, y: 37.5}
+        - {x: 21.512402, y: 37.5}
+        - {x: 41.5124, y: 30.499998}
+        - {x: 41.5124, y: -37.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_34'
+      rect:
+        serializedVersion: 2
+        x: 259.05133
+        y: 23.07612
+        width: 82.87257
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.4941161, y: 0.09250616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.487614, y: -37.5}
+        - {x: -41.487614, y: -35.5}
+        - {x: -41.487614, y: -5.500002}
+        - {x: -27.487616, y: 37.5}
+        - {x: 21.512386, y: 37.5}
+        - {x: 41.512386, y: 30.499998}
+        - {x: 41.512386, y: -37.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_35'
+      rect:
+        serializedVersion: 2
+        x: 379.05133
+        y: 23.07612
+        width: 82.87257
+        height: 74.84776
+      alignment: 9
+      pivot: {x: 0.4941161, y: 0.09250616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.487614, y: -37.5}
+        - {x: -41.487614, y: -35.5}
+        - {x: -41.487614, y: -5.500002}
+        - {x: -27.487616, y: 37.5}
+        - {x: 21.512386, y: 37.5}
+        - {x: 41.512386, y: 30.499998}
+        - {x: 41.512386, y: -37.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_36'
+      rect:
+        serializedVersion: 2
+        x: 485.02676
+        y: 0.076120496
+        width: 109.921936
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.06343804, y: 0.29955566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.987736, y: -58.038063}
+        - {x: -54.987736, y: -32.038063}
+        - {x: -54.987736, y: -12.038063}
+        - {x: -26.987736, y: 37.961937}
+        - {x: 6.012268, y: 59.961937}
+        - {x: 35.012264, y: 59.961937}
+        - {x: 55.012264, y: 24.961937}
+        - {x: 55.012264, y: -1.038063}
+        - {x: 32.012264, y: -60.038063}
+        - {x: -13.987736, y: -60.038063}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_37'
+      rect:
+        serializedVersion: 2
+        x: 605.02673
+        y: 0.076120496
+        width: 109.921936
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.063438356, y: 0.29955566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.987701, y: -58.038063}
+        - {x: -54.9877, y: -32.038063}
+        - {x: -54.9877, y: -12.038063}
+        - {x: -26.987701, y: 37.961937}
+        - {x: 6.0123024, y: 59.961937}
+        - {x: 35.0123, y: 59.961937}
+        - {x: 55.0123, y: 24.961937}
+        - {x: 55.0123, y: -1.038063}
+        - {x: 32.0123, y: -60.038063}
+        - {x: -13.987701, y: -60.038063}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_38'
+      rect:
+        serializedVersion: 2
+        x: 725.02673
+        y: 0.076120496
+        width: 109.921936
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.063438356, y: 0.29955566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.987701, y: -58.038063}
+        - {x: -54.9877, y: -32.038063}
+        - {x: -54.9877, y: -12.038063}
+        - {x: -26.987701, y: 37.961937}
+        - {x: 6.0123024, y: 59.961937}
+        - {x: 35.0123, y: 59.961937}
+        - {x: 55.0123, y: 24.961937}
+        - {x: 55.0123, y: -1.038063}
+        - {x: 32.0123, y: -60.038063}
+        - {x: -13.987701, y: -60.038063}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[PortalShard]_39'
+      rect:
+        serializedVersion: 2
+        x: 845.02673
+        y: 0.076120496
+        width: 109.921936
+        height: 119.92388
+      alignment: 9
+      pivot: {x: 0.063438356, y: 0.29955566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.987701, y: -58.038063}
+        - {x: -54.9877, y: -32.038063}
+        - {x: -54.9877, y: -12.038063}
+        - {x: -26.987701, y: 37.961937}
+        - {x: 6.0123024, y: 59.961937}
+        - {x: 35.0123, y: 59.961937}
+        - {x: 55.0123, y: 24.961937}
+        - {x: 55.0123, y: -1.038063}
+        - {x: 32.0123, y: -60.038063}
+        - {x: -13.987701, y: -60.038063}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[PortalShard]_0': 21300000
+      '[PortalShard]_1': 21300002
+      '[PortalShard]_10': 21300020
+      '[PortalShard]_11': 21300022
+      '[PortalShard]_12': 21300024
+      '[PortalShard]_13': 21300026
+      '[PortalShard]_14': 21300028
+      '[PortalShard]_15': 21300030
+      '[PortalShard]_16': 21300032
+      '[PortalShard]_17': 21300034
+      '[PortalShard]_18': 21300036
+      '[PortalShard]_19': 21300038
+      '[PortalShard]_2': 21300004
+      '[PortalShard]_20': 21300040
+      '[PortalShard]_21': 21300042
+      '[PortalShard]_22': 21300044
+      '[PortalShard]_23': 21300046
+      '[PortalShard]_24': 21300048
+      '[PortalShard]_25': 21300050
+      '[PortalShard]_26': 21300052
+      '[PortalShard]_27': 21300054
+      '[PortalShard]_28': 21300056
+      '[PortalShard]_29': 21300058
+      '[PortalShard]_3': 21300006
+      '[PortalShard]_30': 21300060
+      '[PortalShard]_31': 21300062
+      '[PortalShard]_32': 21300064
+      '[PortalShard]_33': 21300066
+      '[PortalShard]_34': 21300068
+      '[PortalShard]_35': 21300070
+      '[PortalShard]_36': 21300072
+      '[PortalShard]_37': 21300074
+      '[PortalShard]_38': 21300076
+      '[PortalShard]_39': 21300078
+      '[PortalShard]_4': 21300008
+      '[PortalShard]_5': 21300010
+      '[PortalShard]_6': 21300012
+      '[PortalShard]_7': 21300014
+      '[PortalShard]_8': 21300016
+      '[PortalShard]_9': 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

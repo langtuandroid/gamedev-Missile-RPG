@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 62dde830ee4a2bd4a9b1bac4a8a8f8e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: '[Dungeon_Stage]_0'
+  - first:
+      213: 21300002
+    second: '[Dungeon_Stage]_1'
+  - first:
+      213: 21300004
+    second: '[Dungeon_Stage]_2'
+  - first:
+      213: 21300006
+    second: '[Dungeon_Stage]_3'
+  - first:
+      213: 21300008
+    second: '[Dungeon_Stage]_4'
+  - first:
+      213: 21300010
+    second: '[Dungeon_Stage]_5'
+  - first:
+      213: 21300012
+    second: '[Dungeon_Stage]_6'
+  - first:
+      213: 21300014
+    second: '[Dungeon_Stage]_7'
+  - first:
+      213: 21300016
+    second: '[Dungeon_Stage]_8'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_0'
+      rect:
+        serializedVersion: 2
+        x: 21.042908
+        y: 406.02676
+        width: 158.88097
+        height: 184.89713
+      alignment: 9
+      pivot: {x: 0.49695754, y: 0.18374127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.48339, y: -92.47533}
+        - {x: -79.48339, y: -60.47533}
+        - {x: -79.48339, y: -28.475328}
+        - {x: -30.483393, y: 89.52467}
+        - {x: -22.48339, y: 92.52467}
+        - {x: 10.516609, y: 92.52467}
+        - {x: 79.51661, y: -17.47533}
+        - {x: 79.51661, y: -71.47533}
+        - {x: 15.516609, y: -92.47533}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_1'
+      rect:
+        serializedVersion: 2
+        x: 217.02675
+        y: 400.02676
+        width: 166.92194
+        height: 144.89713
+      alignment: 9
+      pivot: {x: 0.4850965, y: 0.2758732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.48771667, y: 66.52467}
+        - {x: -2.4877167, y: 67.52467}
+        - {x: -2.4877167, y: 72.524666}
+        - {x: 2.5122833, y: 72.524666}
+        - {x: 3.5122833, y: 71.52467}
+        - {x: 3.5122833, y: 68.52467}
+        - {x: 2.5122833, y: 66.52467}
+      - - {x: -75.48772, y: -39.475327}
+        - {x: -83.48772, y: -35.475327}
+        - {x: -83.48772, y: -5.4753246}
+        - {x: -58.487717, y: 18.524673}
+        - {x: -58.487717, y: 19.524673}
+        - {x: -56.48772, y: 21.524677}
+        - {x: -54.487717, y: 21.524677}
+        - {x: -16.487717, y: 57.524673}
+        - {x: 16.512283, y: 57.524673}
+        - {x: 83.51228, y: 5.5246735}
+        - {x: 83.51228, y: -26.475327}
+        - {x: 80.51228, y: -30.475327}
+        - {x: 0.5122833, y: -72.47533}
+        - {x: -8.487717, y: -72.47533}
+        - {x: -19.487717, y: -68.47533}
+        - {x: -59.487717, y: -46.475327}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_2'
+      rect:
+        serializedVersion: 2
+        x: 426.02676
+        y: 407.0429
+        width: 146.9644
+        height: 101.90578
+      alignment: 9
+      pivot: {x: 0.5033412, y: 0.3234075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.508966, y: -50.995796}
+        - {x: -73.508965, y: -39.995796}
+        - {x: -73.508965, y: 51.004204}
+        - {x: 73.491035, y: 51.004204}
+        - {x: 73.491035, y: -30.995796}
+        - {x: 61.491035, y: -50.995796}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_3'
+      rect:
+        serializedVersion: 2
+        x: 13.07612
+        y: 207.07613
+        width: 177.84775
+        height: 161.89713
+      alignment: 9
+      pivot: {x: 0.48875448, y: 0.20336293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.99999, y: -46.02469}
+        - {x: -88.99999, y: -42.02469}
+        - {x: -88.99999, y: 27.975311}
+        - {x: 6.0000076, y: 80.97531}
+        - {x: 89.00001, y: 80.97531}
+        - {x: 89.00001, y: -52.02469}
+        - {x: 80.00001, y: -81.02469}
+        - {x: 3.0000076, y: -81.02469}
+        - {x: -4.9999924, y: -80.02469}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_4'
+      rect:
+        serializedVersion: 2
+        x: 227.07613
+        y: 207.07613
+        width: 139.86751
+        height: 134.84775
+      alignment: 9
+      pivot: {x: 0.5213782, y: 0.24415588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.00988, y: -55.500004}
+        - {x: -70.00988, y: -34.500004}
+        - {x: -70.00988, y: 14.499996}
+        - {x: -68.00988, y: 23.499996}
+        - {x: -24.009882, y: 67.5}
+        - {x: 29.990122, y: 67.5}
+        - {x: 52.99012, y: 56.499996}
+        - {x: 69.99012, y: -11.500004}
+        - {x: 69.99012, y: -50.500004}
+        - {x: 31.99012, y: -67.5}
+        - {x: -21.00988, y: -67.5}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_5'
+      rect:
+        serializedVersion: 2
+        x: 435.02676
+        y: 208.07613
+        width: 133.89713
+        height: 134.89713
+      alignment: 9
+      pivot: {x: 0.48524743, y: 0.23665348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.975328, y: -67.52469}
+        - {x: -66.97533, y: -55.52469}
+        - {x: -66.97533, y: 41.47531}
+        - {x: -1.9753265, y: 67.47531}
+        - {x: 61.024673, y: 67.47531}
+        - {x: 67.02467, y: 63.47531}
+        - {x: 67.02467, y: -44.52469}
+        - {x: 37.024673, y: -67.52469}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_6'
+      rect:
+        serializedVersion: 2
+        x: 25.012913
+        y: 3.0223532
+        width: 158.91096
+        height: 159.90152
+      alignment: 9
+      pivot: {x: 0.47188115, y: 0.2312526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.46839, y: -74.973114}
+        - {x: -79.46839, y: -62.973118}
+        - {x: -79.46839, y: 9.026882}
+        - {x: -59.46839, y: 80.026886}
+        - {x: 18.531609, y: 80.026886}
+        - {x: 70.53161, y: 66.026886}
+        - {x: 79.53161, y: 6.026882}
+        - {x: 79.53161, y: -44.973118}
+        - {x: 14.531609, y: -78.973114}
+        - {x: 7.5316086, y: -79.973114}
+        - {x: -38.46839, y: -79.973114}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_7'
+      rect:
+        serializedVersion: 2
+        x: 216.02675
+        y: 2.026751
+        width: 170.89713
+        height: 139.9465
+      alignment: 9
+      pivot: {x: 0.49136725, y: 0.27134117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.475311, y: -70}
+        - {x: -85.47531, y: -41.000004}
+        - {x: -85.47531, y: 49.999996}
+        - {x: -74.47531, y: 60.999996}
+        - {x: -57.47531, y: 70}
+        - {x: 42.52469, y: 70}
+        - {x: 85.52469, y: 22}
+        - {x: 85.52469, y: -30.000004}
+        - {x: 84.52469, y: -30.000004}
+        - {x: 15.524689, y: -70}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Dungeon_Stage]_8'
+      rect:
+        serializedVersion: 2
+        x: 415.02676
+        y: 3.0761204
+        width: 169.93697
+        height: 170.84775
+      alignment: 9
+      pivot: {x: 0.50002795, y: 0.21612155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.99525, y: -85.49999}
+        - {x: -84.99525, y: -57.499992}
+        - {x: -84.99525, y: -6.4999924}
+        - {x: -48.995247, y: 85.50001}
+        - {x: 27.004755, y: 85.50001}
+        - {x: 85.00475, y: 50.500008}
+        - {x: 85.00475, y: -57.499992}
+        - {x: 7.004753, y: -85.49999}
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Dungeon_Stage]_0': 21300000
+      '[Dungeon_Stage]_1': 21300002
+      '[Dungeon_Stage]_2': 21300004
+      '[Dungeon_Stage]_3': 21300006
+      '[Dungeon_Stage]_4': 21300008
+      '[Dungeon_Stage]_5': 21300010
+      '[Dungeon_Stage]_6': 21300012
+      '[Dungeon_Stage]_7': 21300014
+      '[Dungeon_Stage]_8': 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

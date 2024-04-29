@@ -1,0 +1,176 @@
+[
+    {
+        "archtype": 0
+    },
+    {
+        "archtype": 0,
+        "id": 1,
+        "word": "탭 500",
+        "goaltype": "NOW_TAP",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 5
+    },
+    {
+        "archtype": 0,
+        "id": 2,
+        "word": "탭 1000",
+        "goaltype": "NOW_TAP",
+        "targetnumber": 1000,
+        "rewardtype": "BOX",
+        "rewardvalue": 0
+    },
+    {
+        "archtype": 0,
+        "id": 3,
+        "word": "탭 1500",
+        "goaltype": "NOW_TAP",
+        "targetnumber": 1500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 0,
+        "id": 4,
+        "word": "탭 2500",
+        "goaltype": "NOW_TAP",
+        "targetnumber": 2500,
+        "rewardtype": "BOX",
+        "rewardvalue": 1
+    },
+    {
+        "archtype": 0,
+        "id": 5,
+        "word": "적 처치 50",
+        "goaltype": "NOW_KILL",
+        "targetnumber": 100,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 5
+    },
+    {
+        "archtype": 0,
+        "id": 6,
+        "word": "적 처치 100",
+        "goaltype": "NOW_KILL",
+        "targetnumber": 250,
+        "rewardtype": "BOX",
+        "rewardvalue": 0
+    },
+    {
+        "archtype": 0,
+        "id": 7,
+        "word": "적 처치 250",
+        "goaltype": "NOW_KILL",
+        "targetnumber": 500,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 0,
+        "id": 8,
+        "word": "적 처치 1000",
+        "goaltype": "NOW_KILL",
+        "targetnumber": 1000,
+        "rewardtype": "BOX",
+        "rewardvalue": 2
+    },
+    {
+        "archtype": 0,
+        "id": 9,
+        "word": "보스처치 3",
+        "goaltype": "NOW_BOSSKILL",
+        "targetnumber": 3,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 10
+    },
+    {
+        "archtype": 0,
+        "id": 10,
+        "word": "보스처치 10",
+        "goaltype": "NOW_BOSSKILL",
+        "targetnumber": 10,
+        "rewardtype": "BOX",
+        "rewardvalue": 7
+    },
+    {
+        "archtype": 0,
+        "id": 11,
+        "word": "플레이 시간 10",
+        "goaltype": "NOW_PLAYTIME",
+        "targetnumber": 600,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 5
+    },
+    {
+        "archtype": 0,
+        "id": 12,
+        "word": "플레이 시간 20",
+        "goaltype": "NOW_PLAYTIME",
+        "targetnumber": 1200,
+        "rewardtype": "BOX",
+        "rewardvalue": 1
+    },
+    {
+        "archtype": 0,
+        "id": 13,
+        "word": "플레이 시간 30",
+        "goaltype": "NOW_PLAYTIME",
+        "targetnumber": 1800,
+        "rewardtype": "BOX",
+        "rewardvalue": 2
+    },
+    {
+        "archtype": 0,
+        "id": 14,
+        "word": "스킬 사용 5",
+        "goaltype": "NOW_SKILL_USE",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 5
+    },
+    {
+        "archtype": 0,
+        "id": 15,
+        "word": "스킬 사용 10",
+        "goaltype": "NOW_SKILL_USE",
+        "targetnumber": 15,
+        "rewardtype": "BOX",
+        "rewardvalue": 1
+    },
+    {
+        "archtype": 0,
+        "id": 16,
+        "word": "스킬 사용 25",
+        "goaltype": "NOW_SKILL_USE",
+        "targetnumber": 25,
+        "rewardtype": "BOX",
+        "rewardvalue": 7
+    },
+    {
+        "archtype": 0,
+        "id": 17,
+        "word": "요정 누르기 5",
+        "goaltype": "NOW_FARIY",
+        "targetnumber": 5,
+        "rewardtype": "URANIUM",
+        "rewardvalue": 5
+    },
+    {
+        "archtype": 0,
+        "id": 18,
+        "word": "요정 누르기 10",
+        "goaltype": "NOW_FARIY",
+        "targetnumber": 10,
+        "rewardtype": "BOX",
+        "rewardvalue": 0
+    },
+    {
+        "archtype": 0,
+        "id": 19,
+        "word": "드랍포트 사용",
+        "goaltype": "NOW_DROPPORT",
+        "targetnumber": 1,
+        "rewardtype": "BOX",
+        "rewardvalue": 0
+    }
+]

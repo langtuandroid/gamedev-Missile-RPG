@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d56141a32dde30d75dfe30f2965d22, type: 3}
+  m_Name: AndroidNativeSettings
+  m_EditorClassIdentifier:
+  EnablePlusAPI: 1
+  EnableGamesAPI: 1
+  EnableAppInviteAPI: 1
+  EnableDriveAPI: 0
+  LoadProfileIcons: 1
+  LoadProfileImages: 0
+  LoadQuestsImages: 0
+  LoadQuestsIcons: 0
+  LoadEventsIcons: 1
+  ShowConnectingPopup: 1
+  EnableATCSupport: 0
+  OneSignalEnabled: 0
+  OneSignalAppID: YOUR_ONESIGNAL_APP_ID
+  OneSignalDownloadLink: https://goo.gl/Vc6tfK
+  OneSignalDocLink: https://goo.gl/aZjkxV
+  UseParsePushNotifications: 0
+  ParseAppId: YOUR_PARSE_APP_ID
+  DotNetKey: YOUR_PARSE_DOT_NET_KEY
+  ParseDocLink: http://goo.gl/9BgQ8r
+  ParseDownloadLink: https://goo.gl/dm7jYL
+  EnableSoomla: 0
+  SoomlaDownloadLink: http://goo.gl/7LYwuj
+  SoomlaDocsLink: https://goo.gl/es5j1N
+  SoomlaGameKey:
+  SoomlaEnvKey:
+  GCM_SenderId: YOUR_SENDER_ID_HERE
+  PushService: 0
+  SaveCameraImageToGallery: 1
+  UseProductNameAsFolderName: 0
+  GalleryFolderName: MissileRPG
+  MaxImageLoadSize: 512
+  CameraCaptureMode: 0
+  ImageFormat: 0
+  ShowAppPermissions: 1
+  EnableBillingAPI: 1
+  EnablePSAPI: 1
+  EnableSocialAPI: 0
+  EnableCameraAPI: 0
+  ExpandNativeAPI: 1
+  ExpandPSAPI: 1
+  ExpandBillingAPI: 1
+  ExpandSocialAPI: 1
+  ExpandCameraAPI: 1
+  ThirdPartyParams: 0
+  ShowPSSettingsResources: 1
+  ShowActions: 0
+  GCMSettingsActinve: 0
+  LocalNotificationsAPI: 1
+  ImmersiveModeAPI: 1
+  ApplicationInformationAPI: 1
+  ExternalAppsAPI: 1
+  PoupsandPreloadersAPI: 1
+  CheckAppLicenseAPI: 1
+  NetworkStateAPI: 0
+  InAppPurchasesAPI: 1
+  GooglePlayServicesAPI: 1
+  PlayServicesAdvancedSignInAPI: 1
+  GoogleButtonAPI: 0
+  AnalyticsAPI: 0
+  GoogleCloudSaveAPI: 1
+  PushNotificationsAPI: 1
+  GoogleMobileAdAPI: 1
+  GalleryAPI: 0
+  CameraAPI: 0
+  KeepManifestClean: 1
+  GooglePlayServiceAppID: 1063546693469
+  ToolbarSelectedIndex: 1
+  base64EncodedPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAos02Ds7jUJL4yjN6V+kWOc6sYERB3dPp0mVIOYOGIsziR3DSFhtG63DScQhDhCFAteMy8B6R/c6wx2Bo02JRyqGTfp+ATHXa2Dy10CSwPzKCkq5axiUArwKrP6GITSmkCTICJgUp7iJETL7DOBQ1Mnew1mBALTE5SghnFH7GRWp446sohUr65wnE+8U+IrxisSd8f7horT85NWQvhO8U39RYFlsqJSXz7JiH/Frhk90Z5rMMMpJ3jL83Am5h0gN9WfX0RN4jAlKsk5/SeTP7Zcuv1VQJZ66maFrBC639mpsllaPbVt0rBOuWgv2p52wSZvGrWacFJ1zMoJZqvbCqkQIDAQAB
+  ShowStoreProducts: 1
+  InAppProducts: []
+  ShowLeaderboards: 1
+  Leaderboards:
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQBg
+    _name: rank
+    _description:
+    _Texture: {fileID: 0}
+    SocsialCollection: {}
+    GlobalCollection: {}
+    CurrentPlayerScore: []
+  ShowAchievements: 1
+  Achievements:
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQAA
+    _name: arch_0
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQAQ
+    _name: arch_1
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQAg
+    _name: arch_2
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQAw
+    _name: arch_3
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQBA
+    _name: arch_4
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQBQ
+    _name: arch_5
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQCQ
+    _name: arch_6
+    _description:
+    _Texture: {fileID: 0}
+  - IsOpen: 1
+    _id: CgkI3c7KgvoeEAIQCg
+    _name: arch_7
+    _description:
+    _Texture: {fileID: 0}
+  ShowWhenAppIsForeground: 1
+  EnableVibrationLocal: 0
+  LocalNotificationSmallIcon: {fileID: 2800000, guid: f13a2b2f095277a4baa6c562bec5bd92, type: 3}
+  LocalNotificationLargeIcon: {fileID: 2800000, guid: f13a2b2f095277a4baa6c562bec5bd92, type: 3}
+  LocalNotificationSound: {fileID: 8300000, guid: 56ddc22943a280e4faa2df6ac94a0717, type: 3}
+  ReplaceOldNotificationWithNew: 0
+  ShowPushWhenAppIsForeground: 1
+  EnableVibrationPush: 0
+  PushNotificationColor: {r: 1, g: 1, b: 1, a: 1}
+  PushNotificationSmallIcon: {fileID: 0}
+  PushNotificationLargeIcon: {fileID: 0}
+  PushNotificationSound: {fileID: 0}
