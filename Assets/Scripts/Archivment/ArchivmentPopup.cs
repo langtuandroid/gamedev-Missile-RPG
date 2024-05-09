@@ -5,7 +5,7 @@ public class ArchivmentPopup : MonoBehaviour
 {
 	public UILabel Star_count;
 
-	public ArchivmentButtonBehaviour[] ArchivmentButtonBehaviours;
+	public ArchivmentBtnBehaviour[] arch_BTNs;
 
 	public BigInteger Need_Star;
 
@@ -14,10 +14,10 @@ public class ArchivmentPopup : MonoBehaviour
 	public void Setting()
 	{
 		Arch_LV_Setting();
-		for (int i = 0; i < ArchivmentButtonBehaviours.Length; i++)
+		for (int i = 0; i < arch_BTNs.Length; i++)
 		{
-			ArchivmentButtonBehaviours[i].Arch_Type_ID = i + 1;
-			ArchivmentButtonBehaviours[i].Setting();
+			arch_BTNs[i].Arch_Type_ID = i + 1;
+			arch_BTNs[i].Setting();
 		}
 		UI_Master.me.Popup(base.gameObject);
 	}
@@ -48,9 +48,9 @@ public class ArchivmentPopup : MonoBehaviour
 	public void OnDisable()
 	{
 		All_Clear = true;
-		for (int i = 0; i < UI_Master.me.ArchivmentPopup.ArchivmentButtonBehaviours.Length; i++)
+		for (int i = 0; i < UI_Master.me.arch_Popup.arch_BTNs.Length; i++)
 		{
-			if (UI_Master.me.ArchivmentPopup.ArchivmentButtonBehaviours[i].Get_Reward_Possible)
+			if (UI_Master.me.arch_Popup.arch_BTNs[i].Get_Reward_Possible)
 			{
 				All_Clear = false;
 				break;

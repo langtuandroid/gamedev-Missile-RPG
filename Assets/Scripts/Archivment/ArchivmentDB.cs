@@ -9,7 +9,7 @@ public class ArchivmentDB : MonoBehaviour
 
 	private string DB_file_string;
 
-	public ArchivmentDatas[] arch_DB;
+	public ArchivmentDatass[] arch_DB;
 
 	public TextAsset Sub_DB_file;
 
@@ -35,7 +35,7 @@ public class ArchivmentDB : MonoBehaviour
 		JSONNode jSONNode = JSON.Parse(DB_file_string);
 		int num = 1;
 		int num2 = 0;
-		arch_DB = new ArchivmentDatas[17];
+		arch_DB = new ArchivmentDatass[17];
 		for (int i = 0; i < jSONNode.Count; i++)
 		{
 			if (jSONNode[i]["archtype"].AsInt.Equals(num2))
@@ -47,7 +47,7 @@ public class ArchivmentDB : MonoBehaviour
 					Debug.Log(num);
 					if (num > 0)
 					{
-						arch_DB[num2] = new ArchivmentDatas();
+						arch_DB[num2] = new ArchivmentDatass();
 						arch_DB[num2].Arch = new ArchivmentData[num];
 						num = 0;
 					}
@@ -60,7 +60,7 @@ public class ArchivmentDB : MonoBehaviour
 				Debug.Log(num);
 				if (num > 0)
 				{
-					arch_DB[num2] = new ArchivmentDatas();
+					arch_DB[num2] = new ArchivmentDatass();
 					arch_DB[num2].Arch = new ArchivmentData[num];
 					num = 1;
 				}

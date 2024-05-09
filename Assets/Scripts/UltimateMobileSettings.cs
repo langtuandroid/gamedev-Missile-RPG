@@ -116,18 +116,6 @@ public class UltimateMobileSettings : ScriptableObject
 		return null;
 	}
 
-	public UM_InAppProduct GetProductByWp8Id(string id)
-	{
-		foreach (UM_InAppProduct inAppProduct in InAppProducts)
-		{
-			if (inAppProduct.WP8Id.Equals(id))
-			{
-				return inAppProduct;
-			}
-		}
-		return null;
-	}
-
 	public void AddAchievement(UM_Achievement a)
 	{
 		Achievements.Add(a);

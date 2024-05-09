@@ -12,7 +12,6 @@ public class UM_PurchaseResult
 
 	public IOSStoreKitResult IOS_PurchaseInfo;
 
-	public WP8PurchseResponce WP8_PurchaseInfo;
 
 	public string TransactionId
 	{
@@ -25,10 +24,6 @@ public class UM_PurchaseResult
 			if (Application.platform == RuntimePlatform.IPhonePlayer)
 			{
 				return IOS_PurchaseInfo.TransactionIdentifier;
-			}
-			if (Application.platform == RuntimePlatform.WP8Player)
-			{
-				return WP8_PurchaseInfo.TransactionId;
 			}
 			return string.Empty;
 		}

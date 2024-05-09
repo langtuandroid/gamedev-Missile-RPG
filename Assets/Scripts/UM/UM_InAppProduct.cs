@@ -14,11 +14,7 @@ public class UM_InAppProduct
 
 	public string AndroidId = string.Empty;
 
-	public string WP8Id = string.Empty;
-
 	public string _price = string.Empty;
-
-	private WP8ProductTemplate _WP8Template = new WP8ProductTemplate();
 
 	private IOSProductTemplate _IOSTemplate = new IOSProductTemplate();
 
@@ -27,14 +23,6 @@ public class UM_InAppProduct
 	private UM_InAppProductTemplate _template = new UM_InAppProductTemplate();
 
 	private bool _isTemplateSet;
-
-	public WP8ProductTemplate WP8Template
-	{
-		get
-		{
-			return _WP8Template;
-		}
-	}
 
 	public IOSProductTemplate IOSTemplate
 	{
@@ -70,8 +58,6 @@ public class UM_InAppProduct
 				return _AndroidTemplate.Title;
 			case RuntimePlatform.IPhonePlayer:
 				return _IOSTemplate.DisplayName;
-			case RuntimePlatform.WP8Player:
-				return _WP8Template.Name;
 			default:
 				return string.Empty;
 			}
@@ -88,8 +74,6 @@ public class UM_InAppProduct
 				return _AndroidTemplate.Description;
 			case RuntimePlatform.IPhonePlayer:
 				return _IOSTemplate.Description;
-			case RuntimePlatform.WP8Player:
-				return _WP8Template.Description;
 			default:
 				return string.Empty;
 			}
@@ -106,8 +90,6 @@ public class UM_InAppProduct
 				return (!_isTemplateSet) ? (_price + " $") : _AndroidTemplate.LocalizedPrice;
 			case RuntimePlatform.IPhonePlayer:
 				return (!_isTemplateSet) ? (_price + " $") : _IOSTemplate.LocalizedPrice;
-			case RuntimePlatform.WP8Player:
-				return (!_isTemplateSet) ? (_price + " $") : _WP8Template.Price;
 			default:
 				return _price + " $";
 			}
@@ -163,17 +145,6 @@ public class UM_InAppProduct
 		}
 	}
 
-	public void SetTemplate(WP8ProductTemplate tpl)
-	{
-		_WP8Template = tpl;
-		_template = new UM_InAppProductTemplate();
-		_template.id = tpl.ProductId;
-		_template.title = tpl.Name;
-		_template.description = tpl.Description;
-		_template.price = tpl.Price;
-		_isTemplateSet = true;
-	}
-
 	public void SetTemplate(IOSProductTemplate tpl)
 	{
 		_IOSTemplate = tpl;
@@ -198,6 +169,6 @@ public class UM_InAppProduct
 
 	public override string ToString()
 	{
-		return string.Format("[UM_InAppProduct: template={0}, Title={1}, Description={2}, Price={3}, WP8Template={4}, IOSTemplate={5}, AndroidTemplate={6}]", template, Title, Description, LocalizedPrice, WP8Template, IOSTemplate, AndroidTemplate);
+		return string.Format("[UM_InAppProduct: template={0}, Title={1}, Description={2}, Price={3},  IOSTemplate={4}, AndroidTemplate={5}]", template, Title, Description, LocalizedPrice, IOSTemplate, AndroidTemplate);
 	}
 }

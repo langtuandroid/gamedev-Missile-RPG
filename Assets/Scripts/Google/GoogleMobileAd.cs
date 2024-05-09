@@ -96,14 +96,6 @@ public class GoogleMobileAd
 				controller.SetInterstisialsUnitID(GoogleMobileAdSettings.Instance.Android_InterstisialsUnitId);
 			}
 			break;
-		default:
-			controller = SA_Singleton<WP8AdMobController>.instance;
-			controller.Init(GoogleMobileAdSettings.Instance.WP8_BannersUnitId);
-			if (!GoogleMobileAdSettings.Instance.WP8_InterstisialsUnitId.Equals(string.Empty))
-			{
-				controller.SetInterstisialsUnitID(GoogleMobileAdSettings.Instance.WP8_InterstisialsUnitId);
-			}
-			break;
 		}
 		controller.OnInterstitialLoaded = OnInterstitialLoadedListner;
 		controller.OnInterstitialFailedLoading = OnInterstitialFailedLoadingListner;

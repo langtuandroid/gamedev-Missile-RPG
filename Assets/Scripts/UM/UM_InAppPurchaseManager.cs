@@ -67,10 +67,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 			IOSInAppPurchaseManager.OnTransactionComplete += IOS_OnTransactionComplete;
 			IOSInAppPurchaseManager.OnRestoreComplete += IOS_OnRestoreComplete;
 			break;
-		case RuntimePlatform.WP8Player:
-			WP8InAppPurchasesManager.OnInitComplete += WP8_OnInitComplete;
-			WP8InAppPurchasesManager.OnPurchaseFinished += WP8_OnProductPurchased;
-			break;
 		}
 	}
 
@@ -100,9 +96,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 			}
 			ISN_Singleton<IOSInAppPurchaseManager>.instance.LoadStore();
 			break;
-		case RuntimePlatform.WP8Player:
-			WP8InAppPurchasesManager.Instance.Init();
-			break;
 		}
 	}
 
@@ -122,9 +115,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 				break;
 			case RuntimePlatform.IPhonePlayer:
 				ISN_Singleton<IOSInAppPurchaseManager>.instance.BuyProduct(productById.IOSId);
-				break;
-			case RuntimePlatform.WP8Player:
-				WP8InAppPurchasesManager.Instance.Purchase(productById.WP8Id);
 				break;
 			}
 		}
@@ -151,9 +141,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 				break;
 			case RuntimePlatform.IPhonePlayer:
 				ISN_Singleton<IOSInAppPurchaseManager>.instance.BuyProduct(productById.IOSId);
-				break;
-			case RuntimePlatform.WP8Player:
-				WP8InAppPurchasesManager.Instance.Purchase(productById.WP8Id);
 				break;
 			}
 		}
@@ -187,12 +174,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 			}
 			return PlayerPrefs.HasKey("UM_InAppPurchaseManager" + product.id);
 		case RuntimePlatform.IPhonePlayer:
-			return PlayerPrefs.HasKey("UM_InAppPurchaseManager" + product.id);
-		case RuntimePlatform.WP8Player:
-			if (WP8InAppPurchasesManager.Instance.IsInitialized)
-			{
-				return product.WP8Template.IsPurchased;
-			}
 			return PlayerPrefs.HasKey("UM_InAppPurchaseManager" + product.id);
 		default:
 			return false;
@@ -237,47 +218,7 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 		return UltimateMobileSettings.Instance.GetProductByAndroidId(id);
 	}
 
-	public UM_InAppProduct GetProductByWp8Id(string id)
-	{
-		return UltimateMobileSettings.Instance.GetProductByWp8Id(id);
-	}
 
-	private void WP8_OnInitComplete(WP8_InAppsInitResult result)
-	{
-		_IsInited = true;
-		UM_BillingConnectionResult uM_BillingConnectionResult = new UM_BillingConnectionResult();
-		uM_BillingConnectionResult.message = "Inited";
-		uM_BillingConnectionResult.isSuccess = true;
-		foreach (UM_InAppProduct inAppProduct in UltimateMobileSettings.Instance.InAppProducts)
-		{
-			WP8ProductTemplate productById = WP8InAppPurchasesManager.Instance.GetProductById(inAppProduct.WP8Id);
-			if (productById != null)
-			{
-				inAppProduct.SetTemplate(productById);
-				if (inAppProduct.WP8Template.IsPurchased && !inAppProduct.IsConsumable)
-				{
-					SaveNonConsumableItemPurchaseInfo(inAppProduct);
-				}
-			}
-		}
-		UM_InAppPurchaseManager.OnBillingConnectFinishedAction(uM_BillingConnectionResult);
-	}
-
-	private void WP8_OnProductPurchased(WP8PurchseResponce resp)
-	{
-		UM_InAppProduct productByWp8Id = UltimateMobileSettings.Instance.GetProductByWp8Id(resp.ProductId);
-		if (productByWp8Id != null)
-		{
-			UM_PurchaseResult uM_PurchaseResult = new UM_PurchaseResult();
-			uM_PurchaseResult.product = productByWp8Id;
-			uM_PurchaseResult.WP8_PurchaseInfo = resp;
-			SendPurchaseEvent(uM_PurchaseResult);
-		}
-		else
-		{
-			SendNoTemplateEvent();
-		}
-	}
 
 	private void IOS_OnTransactionComplete(IOSStoreKitResult responce)
 	{
@@ -431,9 +372,6 @@ public class UM_InAppPurchaseManager : SA_Singleton<UM_InAppPurchaseManager>
 				result.isSuccess = false;
 				break;
 			}
-			break;
-		case RuntimePlatform.WP8Player:
-			result.isSuccess = result.WP8_PurchaseInfo.IsSuccses;
 			break;
 		}
 		if (!result.product.IsConsumable && result.isSuccess)
