@@ -913,8 +913,8 @@ public class UI_Master : MonoBehaviour
 		StartCoroutine(MAKE_Back_Dealy());
 		if (Now_Data.me.IAIP_Items.Count < 1 && Now_Data.me.BEST_LV > 30 && !Now_Data.me.VIP_Version)
 		{
-			UM_Ad.me.Show_FullAD();
-			UM_Ad.me.Load_FullAD();
+/*			UM_Ad.me.Show_FullAD();
+			UM_Ad.me.Load_FullAD();*/
 		}
 	}
 
@@ -1053,8 +1053,8 @@ public class UI_Master : MonoBehaviour
 		FadeOut.SetActive(false);
 		if (Now_Data.me.IAIP_Items.Count < 1 && Now_Data.me.BEST_LV > 30 && !Now_Data.me.VIP_Version)
 		{
-			UM_Ad.me.Show_FullAD();
-			UM_Ad.me.Load_FullAD();
+/*			UM_Ad.me.Show_FullAD();
+			UM_Ad.me.Load_FullAD();*/
 		}
 	}
 
