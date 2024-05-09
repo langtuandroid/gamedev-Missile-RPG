@@ -1,11 +1,11 @@
 using Keiwando.BigInteger;
 using UnityEngine;
 
-public class Arch_Popup : MonoBehaviour
+public class ArchivmentPopup : MonoBehaviour
 {
 	public UILabel Star_count;
 
-	public Arch_BTN[] arch_BTNs;
+	public ArchivmentButtonBehaviour[] ArchivmentButtonBehaviours;
 
 	public BigInteger Need_Star;
 
@@ -14,10 +14,10 @@ public class Arch_Popup : MonoBehaviour
 	public void Setting()
 	{
 		Arch_LV_Setting();
-		for (int i = 0; i < arch_BTNs.Length; i++)
+		for (int i = 0; i < ArchivmentButtonBehaviours.Length; i++)
 		{
-			arch_BTNs[i].Arch_Type_ID = i + 1;
-			arch_BTNs[i].Setting();
+			ArchivmentButtonBehaviours[i].Arch_Type_ID = i + 1;
+			ArchivmentButtonBehaviours[i].Setting();
 		}
 		UI_Master.me.Popup(base.gameObject);
 	}
@@ -48,9 +48,9 @@ public class Arch_Popup : MonoBehaviour
 	public void OnDisable()
 	{
 		All_Clear = true;
-		for (int i = 0; i < UI_Master.me.arch_Popup.arch_BTNs.Length; i++)
+		for (int i = 0; i < UI_Master.me.ArchivmentPopup.ArchivmentButtonBehaviours.Length; i++)
 		{
-			if (UI_Master.me.arch_Popup.arch_BTNs[i].Get_Reward_Possible)
+			if (UI_Master.me.ArchivmentPopup.ArchivmentButtonBehaviours[i].Get_Reward_Possible)
 			{
 				All_Clear = false;
 				break;

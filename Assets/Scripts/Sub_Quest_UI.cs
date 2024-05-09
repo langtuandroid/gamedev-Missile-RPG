@@ -83,20 +83,20 @@ public class Sub_Quest_UI : MonoBehaviour
 		}
 		else if (Slot.Equals(0))
 		{
-			Quest_Goal_Type gOAL_TYPE = Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE;
-			Now_Data.me.NOW_Subquest_A_ID = Random.Range(1, Arch_DB.me.SUB_arch_DB.Length);
-			while (Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE.Equals(gOAL_TYPE) || Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE.Equals(Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE))
+			Quest_Goal_Type gOAL_TYPE = ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE;
+			Now_Data.me.NOW_Subquest_A_ID = Random.Range(1, ArchivmentDB.me.SUB_arch_DB.Length);
+			while (ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE.Equals(gOAL_TYPE) || ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE.Equals(ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE))
 			{
-				Now_Data.me.NOW_Subquest_A_ID = Random.Range(1, Arch_DB.me.SUB_arch_DB.Length);
+				Now_Data.me.NOW_Subquest_A_ID = Random.Range(1, ArchivmentDB.me.SUB_arch_DB.Length);
 			}
 		}
 		else
 		{
-			Quest_Goal_Type gOAL_TYPE2 = Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE;
-			Now_Data.me.NOW_Subquest_B_ID = Random.Range(1, Arch_DB.me.SUB_arch_DB.Length);
-			while (Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE.Equals(gOAL_TYPE2) || Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE.Equals(Arch_DB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE))
+			Quest_Goal_Type gOAL_TYPE2 = ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE;
+			Now_Data.me.NOW_Subquest_B_ID = Random.Range(1, ArchivmentDB.me.SUB_arch_DB.Length);
+			while (ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE.Equals(gOAL_TYPE2) || ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_B_ID].GOAL_TYPE.Equals(ArchivmentDB.me.SUB_arch_DB[Now_Data.me.NOW_Subquest_A_ID].GOAL_TYPE))
 			{
-				Now_Data.me.NOW_Subquest_B_ID = Random.Range(1, Arch_DB.me.SUB_arch_DB.Length);
+				Now_Data.me.NOW_Subquest_B_ID = Random.Range(1, ArchivmentDB.me.SUB_arch_DB.Length);
 			}
 		}
 		Setting(true);
@@ -128,8 +128,8 @@ public class Sub_Quest_UI : MonoBehaviour
 			base.gameObject.SetActive(false);
 			return;
 		}
-		goal_value = new BigInteger(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].TARGET_VALUE);
-		Sub_Quest_Goal_Type = Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].GOAL_TYPE;
+		goal_value = new BigInteger(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].TARGET_VALUE);
+		Sub_Quest_Goal_Type = ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].GOAL_TYPE;
 		switch (Sub_Quest_Goal_Type)
 		{
 		case Quest_Goal_Type.NOW_TAP:
@@ -258,24 +258,24 @@ public class Sub_Quest_UI : MonoBehaviour
 	public void Get_Reward()
 	{
 		SoundManager.me.Congretu();
-		switch (Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_TYPE)
+		switch (ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_TYPE)
 		{
 		case "HELLSTONE":
-			Now_Data.me.P_STONE_Change(new BigInteger(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE) * (int)(100f + Now_Data.me.Hellsteon_Bonus) / 100);
-			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("HELLSTONE"), Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
+			Now_Data.me.P_STONE_Change(new BigInteger(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE) * (int)(100f + Now_Data.me.Hellsteon_Bonus) / 100);
+			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("HELLSTONE"), ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
 			break;
 		case "URANIUM":
-			Now_Data.me.MEDAL_Change(new BigInteger(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE));
-			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("URANIUM"), Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
+			Now_Data.me.MEDAL_Change(new BigInteger(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE));
+			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("URANIUM"), ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
 			break;
 		case "STAR":
-			Now_Data.me.Arch_Star += new BigInteger(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE);
+			Now_Data.me.Arch_Star += new BigInteger(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE);
 			Security.SetString("Arch_Star", Now_Data.me.Arch_Star.ToString());
-			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("STAR"), Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
+			UI_Master.me.Good_MSG(string.Format("{0} {1} {2}", Localization.Get("STAR"), ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE, Localization.Get("GETTING")));
 			break;
 		case "BOX":
-			Now_Data.me.BOX_Count[int.Parse(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE)]++;
-			UI_Master.me.box_Open_Panel.Setting(int.Parse(Arch_DB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE), true);
+			Now_Data.me.BOX_Count[int.Parse(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE)]++;
+			UI_Master.me.box_Open_Panel.Setting(int.Parse(ArchivmentDB.me.SUB_arch_DB[Sub_Quest_ID].REWARD_VALUE), true);
 			break;
 		}
 		Now_Data.me.CLEAR_QUEST++;

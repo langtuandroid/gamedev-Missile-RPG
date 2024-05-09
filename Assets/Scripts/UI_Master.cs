@@ -79,7 +79,7 @@ public class UI_Master : MonoBehaviour
 
 	public GameObject Top_Menu_Set;
 
-	public Arch_Popup arch_Popup;
+	public ArchivmentPopup ArchivmentPopup;
 
 	public GameObject PAUSE_POPUP;
 
@@ -945,10 +945,10 @@ public class UI_Master : MonoBehaviour
 		SoundManager.me.Click();
 	}
 
-	public void OPEN_Arch_Popup()
+	public void OPEN_ArchivmentPopup()
 	{
 		SoundManager.me.Click();
-		arch_Popup.Setting();
+		ArchivmentPopup.Setting();
 		uranium_Gift_Popup.Setting(2);
 	}
 

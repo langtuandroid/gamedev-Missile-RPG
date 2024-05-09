@@ -7,7 +7,7 @@ public class DB_MANAGER : MonoBehaviour
 
 	public Misile_DB misile_DB;
 
-	public Arch_DB arch_DB;
+	public ArchivmentDB arch_DB;
 
 	public Unit_DB unit_DB;
 

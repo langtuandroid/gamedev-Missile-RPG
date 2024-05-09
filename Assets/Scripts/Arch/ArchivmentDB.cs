@@ -1,21 +1,21 @@
 using SimpleJSON;
 using UnityEngine;
 
-public class Arch_DB : MonoBehaviour
+public class ArchivmentDB : MonoBehaviour
 {
-	public static Arch_DB me;
+	public static ArchivmentDB me;
 
 	public TextAsset DB_file;
 
 	private string DB_file_string;
 
-	public Arch_Datasss[] arch_DB;
+	public ArchivmentDatas[] arch_DB;
 
 	public TextAsset Sub_DB_file;
 
 	private string Sub_DB_file_string;
 
-	public Arch_Data[] SUB_arch_DB;
+	public ArchivmentData[] SUB_arch_DB;
 
 	private string Imsi_load;
 
@@ -35,7 +35,7 @@ public class Arch_DB : MonoBehaviour
 		JSONNode jSONNode = JSON.Parse(DB_file_string);
 		int num = 1;
 		int num2 = 0;
-		arch_DB = new Arch_Datasss[17];
+		arch_DB = new ArchivmentDatas[17];
 		for (int i = 0; i < jSONNode.Count; i++)
 		{
 			if (jSONNode[i]["archtype"].AsInt.Equals(num2))
@@ -47,8 +47,8 @@ public class Arch_DB : MonoBehaviour
 					Debug.Log(num);
 					if (num > 0)
 					{
-						arch_DB[num2] = new Arch_Datasss();
-						arch_DB[num2].Arch = new Arch_Data[num];
+						arch_DB[num2] = new ArchivmentDatas();
+						arch_DB[num2].Arch = new ArchivmentData[num];
 						num = 0;
 					}
 					num2 = jSONNode[i]["archtype"].AsInt;
@@ -60,8 +60,8 @@ public class Arch_DB : MonoBehaviour
 				Debug.Log(num);
 				if (num > 0)
 				{
-					arch_DB[num2] = new Arch_Datasss();
-					arch_DB[num2].Arch = new Arch_Data[num];
+					arch_DB[num2] = new ArchivmentDatas();
+					arch_DB[num2].Arch = new ArchivmentData[num];
 					num = 1;
 				}
 				num2 = jSONNode[i]["archtype"].AsInt;
@@ -69,7 +69,7 @@ public class Arch_DB : MonoBehaviour
 		}
 		for (int j = 0; j < jSONNode.Count; j++)
 		{
-			arch_DB[jSONNode[j]["archtype"].AsInt].Arch[jSONNode[j]["lv"].AsInt] = new Arch_Data();
+			arch_DB[jSONNode[j]["archtype"].AsInt].Arch[jSONNode[j]["lv"].AsInt] = new ArchivmentData();
 			arch_DB[jSONNode[j]["archtype"].AsInt].Arch[jSONNode[j]["lv"].AsInt].GOAL_TYPE = Get_Goal_Type(jSONNode[j]["goaltype"]);
 			arch_DB[jSONNode[j]["archtype"].AsInt].Arch[jSONNode[j]["lv"].AsInt].TARGET_VALUE = jSONNode[j]["targetnumber"];
 			arch_DB[jSONNode[j]["archtype"].AsInt].Arch[jSONNode[j]["lv"].AsInt].REWARD_TYPE = jSONNode[j]["rewardtype"];
@@ -78,10 +78,10 @@ public class Arch_DB : MonoBehaviour
 		Debug.Log("업적DB적용.");
 		Sub_DB_file_string = Sub_DB_file.text;
 		JSONNode jSONNode2 = JSON.Parse(Sub_DB_file_string);
-		SUB_arch_DB = new Arch_Data[jSONNode2.Count];
+		SUB_arch_DB = new ArchivmentData[jSONNode2.Count];
 		for (int k = 0; k < jSONNode2.Count; k++)
 		{
-			SUB_arch_DB[k] = new Arch_Data();
+			SUB_arch_DB[k] = new ArchivmentData();
 			SUB_arch_DB[k].GOAL_TYPE = Get_Goal_Type(jSONNode2[k]["goaltype"]);
 			SUB_arch_DB[k].TARGET_VALUE = jSONNode2[k]["targetnumber"];
 			SUB_arch_DB[k].REWARD_TYPE = jSONNode2[k]["rewardtype"];

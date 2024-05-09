@@ -1,7 +1,7 @@
 using System;
 
 [Serializable]
-public class Arch_Data
+public class ArchivmentData
 {
 	public string Name;
 

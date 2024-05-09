@@ -1,7 +1,7 @@
 using Keiwando.BigInteger;
 using UnityEngine;
 
-public class Arch_BTN : MonoBehaviour
+public class ArchivmentButtonBehaviour : MonoBehaviour
 {
 	public int Arch_Type_ID;
 
@@ -43,9 +43,9 @@ public class Arch_BTN : MonoBehaviour
 				Star_sprites[i].spriteName = "Prop_StarEmpty";
 			}
 		}
-		arch_goal_type = Arch_DB.me.arch_DB[Arch_Type_ID].Arch[0].GOAL_TYPE;
+		arch_goal_type = ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[0].GOAL_TYPE;
 		Check_Possible(arch_goal_type);
-		if (Now_Data.me.Archievement_LV[Arch_Type_ID] < Arch_DB.me.arch_DB[Arch_Type_ID].Arch.Length)
+		if (Now_Data.me.Archievement_LV[Arch_Type_ID] < ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch.Length)
 		{
 			Value_label.text = string.Format("{0}/{1}", Now_Data.INT_to_ABC(now_value), Now_Data.INT_to_ABC(goal_value));
 			Value_slider.value = Now_Data.Divide_to_Float(now_value, goal_value);
@@ -57,7 +57,7 @@ public class Arch_BTN : MonoBehaviour
 			{
 				Get_Reward_sprite.spriteName = "Btn_UpgradeDisabled";
 			}
-			Reward_value_lable.text = string.Format("{0}", Now_Data.INT_to_ABC(new BigInteger(Arch_DB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].REWARD_VALUE)));
+			Reward_value_lable.text = string.Format("{0}", Now_Data.INT_to_ABC(new BigInteger(ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].REWARD_VALUE)));
 			Get_Reward_BTN.SetActive(true);
 			MAX_LV_BTN.SetActive(false);
 		}
@@ -70,12 +70,12 @@ public class Arch_BTN : MonoBehaviour
 
 	public void Check_Possible(Quest_Goal_Type target_goal)
 	{
-		arch_goal_type = Arch_DB.me.arch_DB[Arch_Type_ID].Arch[0].GOAL_TYPE;
+		arch_goal_type = ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[0].GOAL_TYPE;
 		if (!target_goal.Equals(arch_goal_type))
 		{
 			return;
 		}
-		if (Now_Data.me.Archievement_LV[Arch_Type_ID] < Arch_DB.me.arch_DB[Arch_Type_ID].Arch.Length)
+		if (Now_Data.me.Archievement_LV[Arch_Type_ID] < ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch.Length)
 		{
 			switch (arch_goal_type)
 			{
@@ -137,7 +137,7 @@ public class Arch_BTN : MonoBehaviour
 				now_value = Now_Data.me.ALL_HIDDEN;
 				break;
 			}
-			goal_value = new BigInteger(Arch_DB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].TARGET_VALUE);
+			goal_value = new BigInteger(ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].TARGET_VALUE);
 			if (now_value >= goal_value)
 			{
 				Get_Reward_Possible = true;
@@ -158,13 +158,13 @@ public class Arch_BTN : MonoBehaviour
 		if (Get_Reward_Possible)
 		{
 			SoundManager.me.Congretu();
-			Now_Data.me.MEDAL_Change(new BigInteger(Arch_DB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].REWARD_VALUE) * (int)(100f + Now_Data.me.Hellsteon_Bonus) / 100);
+			Now_Data.me.MEDAL_Change(new BigInteger(ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[Now_Data.me.Archievement_LV[Arch_Type_ID]].REWARD_VALUE) * (int)(100f + Now_Data.me.Hellsteon_Bonus) / 100);
 			Now_Data.me.Archievement_LV[Arch_Type_ID]++;
 			Now_Data.me.Arch_Star += (BigInteger)1;
 			Setting();
 			Security.SetInt(string.Format("Archievement_LV_{0:000}", Arch_Type_ID), Now_Data.me.Archievement_LV[Arch_Type_ID]);
 			Security.SetString("Arch_Star", Now_Data.me.Arch_Star.ToString());
-			UI_Master.me.arch_Popup.Arch_LV_Setting();
+			UI_Master.me.ArchivmentPopup.Arch_LV_Setting();
 		}
 		else
 		{

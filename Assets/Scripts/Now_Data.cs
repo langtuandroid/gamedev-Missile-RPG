@@ -1555,7 +1555,7 @@ public class Now_Data : MonoBehaviour
 		}
 		if (me.Archievement_LV[Arch_Type_ID] < 9)
 		{
-			goal_value = new BigInteger(Arch_DB.me.arch_DB[Arch_Type_ID].Arch[me.Archievement_LV[Arch_Type_ID]].TARGET_VALUE);
+			goal_value = new BigInteger(ArchivmentDB.me.arch_DB[Arch_Type_ID].Arch[me.Archievement_LV[Arch_Type_ID]].TARGET_VALUE);
 			if (now_value >= goal_value)
 			{
 				Get_Reward_Possible = true;
