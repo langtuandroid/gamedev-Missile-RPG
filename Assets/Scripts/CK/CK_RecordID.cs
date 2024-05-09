@@ -28,7 +28,7 @@ public class CK_RecordID
 	{
 		_internalId = SA_IdFactory.NextId;
 		_Name = recordName;
-		ISN_CloudKit.CreateRecordId_Object(_internalId, _Name);
+		//ISN_CloudKit.CreateRecordId_Object(_internalId, _Name);
 		_Ids.Add(_internalId, this);
 	}
 

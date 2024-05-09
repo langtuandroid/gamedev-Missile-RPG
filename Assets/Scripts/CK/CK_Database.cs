@@ -33,22 +33,6 @@ public class CK_Database
 		_Databases.Add(_InternalId, this);
 	}
 
-	public void SaveRecrod(CK_Record record)
-	{
-		record.UpdateRecord();
-		ISN_CloudKit.SaveRecord(_InternalId, record.Internal_Id);
-	}
-
-	public void FetchRecordWithID(CK_RecordID recordId)
-	{
-		ISN_CloudKit.FetchRecord(_InternalId, recordId.Internal_Id);
-	}
-
-	public void DeleteRecordWithID(CK_RecordID recordId)
-	{
-		ISN_CloudKit.DeleteRecord(_InternalId, recordId.Internal_Id);
-	}
-
 	public void PerformQuery(CK_Query query)
 	{
 	}

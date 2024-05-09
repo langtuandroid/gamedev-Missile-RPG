@@ -91,7 +91,6 @@ public class CK_Record
 			list.Add(datum.Key);
 			list2.Add(datum.Value);
 		}
-		ISN_CloudKit.UpdateRecord_Object(Internal_Id, Type, IOSNative.SerializeArray(list.ToArray()), IOSNative.SerializeArray(list2.ToArray()), Id.Internal_Id);
 	}
 
 	public static CK_Record GetRecordByInternalId(int id)
