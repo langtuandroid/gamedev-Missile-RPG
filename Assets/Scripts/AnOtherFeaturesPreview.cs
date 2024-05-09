@@ -1,43 +1,42 @@
 using System;
 using UnityEngine;
+using Zenject;
 
 public class AnOtherFeaturesPreview : MonoBehaviour
 {
 	public GameObject image;
 
 	public Texture2D helloWorldTexture;
+    [Inject] private AddressBookController _addressBookController;
+    [Inject] private AndroidCamera _androidCamera;
 
-	private void Start()
+    private void Start()
 	{
 		LoadNetworkInfo();
-	}
+    }
 
 	public void SaveToGalalry()
 	{
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(instance.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
-		SA_Singleton<AndroidCamera>.instance.SaveImageToGallery(helloWorldTexture, "Screenshot" + AndroidCamera.GetRandomString());
+        _androidCamera.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(_androidCamera.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
+        _androidCamera.SaveImageToGallery(helloWorldTexture, "Screenshot" + AndroidCamera.GetRandomString());
 	}
 
 	public void SaveScreenshot()
 	{
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(instance.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
-		SA_Singleton<AndroidCamera>.instance.SaveScreenshotToGallery("Screenshot" + AndroidCamera.GetRandomString());
+        _androidCamera.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(_androidCamera.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
+        _androidCamera.SaveScreenshotToGallery("Screenshot" + AndroidCamera.GetRandomString());
 	}
 
 	public void GetImageFromGallery()
 	{
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(instance.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
-		SA_Singleton<AndroidCamera>.instance.GetImageFromGallery();
+        _androidCamera.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(_androidCamera.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
+        _androidCamera.GetImageFromGallery();
 	}
 
 	public void GetImageFromCamera()
 	{
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(instance.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
-		SA_Singleton<AndroidCamera>.instance.GetImageFromCamera();
+        _androidCamera.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(_androidCamera.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
+		_androidCamera.GetImageFromCamera();
 	}
 
 	public void CheckForTV()
@@ -117,7 +116,7 @@ public class AnOtherFeaturesPreview : MonoBehaviour
 
 	private void LoadAdressBook()
 	{
-		SA_Singleton<AddressBookController>.Instance.LoadContacts();
+        _addressBookController.LoadContacts();
 		AddressBookController.OnContactsLoadedAction += OnContactsLoaded;
 	}
 
@@ -143,7 +142,7 @@ public class AnOtherFeaturesPreview : MonoBehaviour
 	private void OnContactsLoaded()
 	{
 		AddressBookController.OnContactsLoadedAction -= OnContactsLoaded;
-		AN_PoupsProxy.showMessage("On Contacts Loaded", "Andress book has " + SA_Singleton<AddressBookController>.instance.contacts.Count + " Contacts");
+		AN_PoupsProxy.showMessage("On Contacts Loaded", "Andress book has " + _addressBookController.contacts.Count + " Contacts");
 	}
 
 	private void OnImagePicked(AndroidImagePickResult result)
@@ -158,14 +157,12 @@ public class AnOtherFeaturesPreview : MonoBehaviour
 		{
 			AN_PoupsProxy.showMessage("Image Pick Rsult", "Failed");
 		}
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Remove(instance.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
+        _androidCamera.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Remove(_androidCamera.OnImagePicked, new Action<AndroidImagePickResult>(OnImagePicked));
 	}
 
 	private void OnImageSaved(GallerySaveResult result)
 	{
-		AndroidCamera instance = SA_Singleton<AndroidCamera>.instance;
-		instance.OnImageSaved = (Action<GallerySaveResult>)Delegate.Remove(instance.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
+        _androidCamera.OnImageSaved = (Action<GallerySaveResult>)Delegate.Remove(_androidCamera.OnImageSaved, new Action<GallerySaveResult>(OnImageSaved));
 		if (result.IsSucceeded)
 		{
 			AN_PoupsProxy.showMessage("Saved", "Image saved to gallery \nPath: " + result.imagePath);

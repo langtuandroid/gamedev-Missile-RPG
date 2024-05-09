@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-
+using Zenject;
 public class AddressBookExample : MonoBehaviour
 {
 	public SA_Label _name;
@@ -16,17 +16,18 @@ public class AddressBookExample : MonoBehaviour
 	public SA_Label _address;
 
 	private List<AndroidContactInfo> all_contacts = new List<AndroidContactInfo>();
+	[Inject] private AddressBookController _addressBookController;
 
-	private void LoadAdressBook()
+    private void LoadAdressBook()
 	{
-		SA_Singleton<AddressBookController>.Instance.LoadContacts();
+        _addressBookController.LoadContacts();
 		AddressBookController.OnContactsLoadedAction += OnContactsLoaded;
 	}
 
 	private void OnContactsLoaded()
 	{
 		AddressBookController.OnContactsLoadedAction -= OnContactsLoaded;
-		all_contacts = SA_Singleton<AddressBookController>.Instance.contacts;
+		all_contacts = _addressBookController.contacts;
 		AN_PoupsProxy.showMessage("On Contacts Loaded", "Andress book has " + all_contacts.Count + " Contacts");
 		using (List<AndroidContactInfo>.Enumerator enumerator = all_contacts.GetEnumerator())
 		{

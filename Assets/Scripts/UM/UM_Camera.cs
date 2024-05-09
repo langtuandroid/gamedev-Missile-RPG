@@ -1,9 +1,12 @@
 using System;
 using UnityEngine;
+using Zenject;
 
 public class UM_Camera : SA_Singleton<UM_Camera>
 {
-	public event Action<UM_ImagePickResult> OnImagePicked = delegate
+	[Inject] private AndroidCamera _androidCamera;
+
+    public event Action<UM_ImagePickResult> OnImagePicked = delegate
 	{
 	};
 
@@ -14,11 +17,9 @@ public class UM_Camera : SA_Singleton<UM_Camera>
 	private void Awake()
 	{
 		UnityEngine.Object.DontDestroyOnLoad(base.gameObject);
-		AndroidCamera androidCamera = SA_Singleton<AndroidCamera>.instance;
-		androidCamera.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(androidCamera.OnImagePicked, new Action<AndroidImagePickResult>(OnAndroidImagePicked));
+        _androidCamera.OnImagePicked = (Action<AndroidImagePickResult>)Delegate.Combine(_androidCamera.OnImagePicked, new Action<AndroidImagePickResult>(OnAndroidImagePicked));
 		IOSCamera.OnImagePicked += OnIOSImagePicked;
-		AndroidCamera androidCamera2 = SA_Singleton<AndroidCamera>.instance;
-		androidCamera2.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(androidCamera2.OnImageSaved, new Action<GallerySaveResult>(OnAndroidImageSaved));
+        _androidCamera.OnImageSaved = (Action<GallerySaveResult>)Delegate.Combine(_androidCamera.OnImageSaved, new Action<GallerySaveResult>(OnAndroidImageSaved));
 		IOSCamera.OnImageSaved += OnIOSImageSaved;
 	}
 
@@ -27,7 +28,7 @@ public class UM_Camera : SA_Singleton<UM_Camera>
 		switch (Application.platform)
 		{
 		case RuntimePlatform.Android:
-			SA_Singleton<AndroidCamera>.instance.SaveImageToGallery(image);
+                _androidCamera.SaveImageToGallery(image);
 			break;
 		case RuntimePlatform.IPhonePlayer:
 			ISN_Singleton<IOSCamera>.instance.SaveTextureToCameraRoll(image);
@@ -43,7 +44,7 @@ public class UM_Camera : SA_Singleton<UM_Camera>
 		switch (Application.platform)
 		{
 		case RuntimePlatform.Android:
-			SA_Singleton<AndroidCamera>.instance.SaveScreenshotToGallery();
+                _androidCamera.SaveScreenshotToGallery();
 			break;
 		case RuntimePlatform.IPhonePlayer:
 			ISN_Singleton<IOSCamera>.instance.SaveScreenshotToCameraRoll();
@@ -59,7 +60,7 @@ public class UM_Camera : SA_Singleton<UM_Camera>
 		switch (Application.platform)
 		{
 		case RuntimePlatform.Android:
-			SA_Singleton<AndroidCamera>.instance.GetImageFromGallery();
+			_androidCamera.GetImageFromGallery();
 			break;
 		case RuntimePlatform.IPhonePlayer:
 			ISN_Singleton<IOSCamera>.instance.PickImage(ISN_ImageSource.Library);
@@ -75,7 +76,7 @@ public class UM_Camera : SA_Singleton<UM_Camera>
 		switch (Application.platform)
 		{
 		case RuntimePlatform.Android:
-			SA_Singleton<AndroidCamera>.instance.GetImageFromCamera();
+			_androidCamera.GetImageFromCamera();
 			break;
 		case RuntimePlatform.IPhonePlayer:
 			ISN_Singleton<IOSCamera>.instance.PickImage(ISN_ImageSource.Camera);

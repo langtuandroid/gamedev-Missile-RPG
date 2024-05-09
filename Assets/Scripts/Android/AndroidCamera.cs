@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class AndroidCamera : SA_Singleton<AndroidCamera>
+public class AndroidCamera : MonoBehaviour
 {
 	public Action<AndroidImagePickResult> OnImagePicked = delegate
 	{
@@ -15,7 +15,6 @@ public class AndroidCamera : SA_Singleton<AndroidCamera>
 
 	private void Awake()
 	{
-		UnityEngine.Object.DontDestroyOnLoad(base.gameObject);
 		AndroidNative.InitCameraAPI(AndroidNativeSettings.Instance.GalleryFolderName, AndroidNativeSettings.Instance.MaxImageLoadSize, (int)AndroidNativeSettings.Instance.CameraCaptureMode, (int)AndroidNativeSettings.Instance.ImageFormat);
 	}
 

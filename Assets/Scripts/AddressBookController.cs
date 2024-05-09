@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
-public class AddressBookController : SA_Singleton<AddressBookController>
+public class AddressBookController : MonoBehaviour
 {
 	private const string DATA_SPLITTER_1 = "&#&";
 
@@ -38,11 +38,6 @@ public class AddressBookController : SA_Singleton<AddressBookController>
 		AddressBookController.OnContactsLoadedAction = delegate
 		{
 		};
-	}
-
-	private void Awake()
-	{
-		UnityEngine.Object.DontDestroyOnLoad(base.gameObject);
 	}
 
 	public void LoadContacts()

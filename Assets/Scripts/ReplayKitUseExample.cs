@@ -41,7 +41,7 @@ public class ReplayKitUseExample : BaseIOSFeaturePreview
 		IOSNativePopUpManager.showMessage("Video was interrupted with error: ", " " + error.Description);
 	}
 
-	private void HandleActionRecordStoped(ISN_Result res)
+	private void HandleActionRecordStoped(ISN_Result res)	
 	{
 		if (res.IsSucceeded)
 		{
